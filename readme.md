@@ -18,6 +18,19 @@ german: bücher zum thema selbstorganisation
 
 
 
+## todo
+
+- Vince Ebert - Wot Se Fack Deutschland (2025)
+- Raik Garve - Vom Schöpfer zum Sklaven
+  - https://raikgarve.de/shop/vom-schoepfer-zum-sklaven/
+- Tom-Oliver Regenauer - Hopium
+  - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
+- Gunda Frey - Das verstaatlichte Kind
+- John Holt - Bildung in Freiheit
+- Grace Llewellyn - Das Teenager Befreiungs Handbuch
+
+
+
 ## mirrors
 
 when my github repos are removed via DMCA takedown requests
