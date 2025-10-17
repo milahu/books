@@ -15,6 +15,7 @@ german: bücher zum thema selbstorganisation
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
+- [Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)](https://github.com/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014)
 
 
 
@@ -27,7 +28,6 @@ german: bücher zum thema selbstorganisation
   - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
 - Gunda Frey - Das verstaatlichte Kind
 - John Holt - Bildung in Freiheit
-- Grace Llewellyn - Das Teenager Befreiungs Handbuch
 
 
 
