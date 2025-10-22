@@ -20,6 +20,7 @@ german: bücher zum thema selbstorganisation
   - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214) (falsche seitenzahlen, schönes cover)
 - [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
 - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
+- [John Holt - Bildung in Freiheit: Das John-Holt-Buch zum eigenständigen Lernen (2009)](https://github.com/milahu/bildung-in-freiheit-von-john-holt-2009)
 
 
 
@@ -30,7 +31,6 @@ german: bücher zum thema selbstorganisation
 - Tom-Oliver Regenauer - Hopium
   - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
 - Gunda Frey - Das verstaatlichte Kind
-- John Holt - Bildung in Freiheit
 
 
 
