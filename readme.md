@@ -18,12 +18,12 @@ german: bücher zum thema selbstorganisation
 - [Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)](https://github.com/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014)
 - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/8dd4b2c7e6198aabb600847fcbef3aac) (richtige seitenzahlen, hässliches cover)
   - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214) (falsche seitenzahlen, schönes cover)
+- [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
 
 
 
 ## todo
 
-- Vince Ebert - Wot Se Fack Deutschland (2025)
 - Raik Garve - Vom Schöpfer zum Sklaven
   - https://raikgarve.de/shop/vom-schoepfer-zum-sklaven/
 - Tom-Oliver Regenauer - Hopium
