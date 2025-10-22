@@ -19,6 +19,7 @@ german: bücher zum thema selbstorganisation
 - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/8dd4b2c7e6198aabb600847fcbef3aac) (richtige seitenzahlen, hässliches cover)
   - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214) (falsche seitenzahlen, schönes cover)
 - [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
+- [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
 
 
 
