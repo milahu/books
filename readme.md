@@ -31,6 +31,7 @@ german: bücher zum thema selbstorganisation
 - Tom-Oliver Regenauer - Hopium
   - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
 - Gunda Frey - Das verstaatlichte Kind
+- Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025-10-21)
 
 
 
