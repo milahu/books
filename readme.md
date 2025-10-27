@@ -22,13 +22,12 @@ german: bücher zum thema selbstorganisation
 - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
 - [John Holt - Bildung in Freiheit: Das John-Holt-Buch zum eigenständigen Lernen (2009)](https://github.com/milahu/bildung-in-freiheit-von-john-holt-2009)
 - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025-10-21)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
+- [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
 
 
 
 ## todo
 
-- Raik Garve - Vom Schöpfer zum Sklaven
-  - https://raikgarve.de/shop/vom-schoepfer-zum-sklaven/
 - Tom-Oliver Regenauer - Hopium
   - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
 - Gunda Frey - Das verstaatlichte Kind
