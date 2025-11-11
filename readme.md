@@ -8,6 +8,8 @@ german: bücher zum thema selbstorganisation
 
 ## books
 
+<!-- <books> -->
+
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
 - [Doug Casey - The Preparation (2025)](https://github.com/milahu/the-preparation-by-doug-casey-2025)
 - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
@@ -25,6 +27,8 @@ german: bücher zum thema selbstorganisation
 - [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
 - [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
+
+<!-- </books> -->
 
 
 
