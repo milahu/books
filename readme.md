@@ -24,13 +24,12 @@ german: bücher zum thema selbstorganisation
 - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025-10-21)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
 - [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
+- [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
 
 
 
 ## todo
 
-- Tom-Oliver Regenauer - Hopium
-  - https://shop.tredition.com/booktitle/HOPIUM/W-647-217-513
 - Gunda Frey - Das verstaatlichte Kind
 
 
