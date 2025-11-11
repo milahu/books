@@ -23,6 +23,7 @@ german: bücher zum thema selbstorganisation
 - [John Holt - Bildung in Freiheit: Das John-Holt-Buch zum eigenständigen Lernen (2009)](https://github.com/milahu/bildung-in-freiheit-von-john-holt-2009)
 - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025-10-21)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
 - [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
+- [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
 
 
 
