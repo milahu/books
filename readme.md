@@ -27,6 +27,7 @@ german: bücher zum thema selbstorganisation
 - [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
 - [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
+- [Gunda Frey - Das verstaatlichte Kind (2022)](https://github.com/milahu/das-verstaatlichte-kind-von-gunda-frey-2022)
 
 <!-- </books> -->
 
@@ -34,7 +35,6 @@ german: bücher zum thema selbstorganisation
 
 ## todo
 
-- Gunda Frey - Das verstaatlichte Kind
 
 
 
