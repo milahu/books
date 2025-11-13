@@ -38,6 +38,21 @@ german: bücher zum thema selbstorganisation
 
 
 
+## warum
+
+gute bücher lesen macht frei
+
+lesen, verstehen, anwenden
+
+die aufklärung soll nicht scheitern am geldbeutel
+
+gute bücher verdienen maximale verbreitung: nachdrucken und überall verschenken
+
+als werbung für mein eigenes buch:
+[Pallas. Wer sind meine Freunde. Gruppenaufbau nach Persönlichkeitstyp](https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html)
+
+
+
 ## mirrors
 
 when my github repos are removed via DMCA takedown requests
