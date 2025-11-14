@@ -27,6 +27,7 @@ german: bücher zum thema selbstorganisation
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
 - [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
 - [Gunda Frey - Das verstaatlichte Kind (2022)](https://github.com/milahu/das-verstaatlichte-kind-von-gunda-frey-2022)
+- [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.org/md5/99d660699817f003e212ab0ae693b1c0)
 
 <!-- </books> -->
 
