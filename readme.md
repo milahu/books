@@ -53,6 +53,22 @@ als werbung für mein eigenes buch:
 
 
 
+## druckservice
+
+ich kann dir bücher drucken, heften, schicken
+
+heftbindung ist viel weniger arbeit als ein softcover  
+(welche heftung magst du? booklet oder stapel?)
+
+materialkosten sind circa 1,5 Cent pro A4 Seite + Versand  
+kleine bücher: eine buchseite pro A5 Seite  
+große bücher: eine buchseite pro A4 Seite
+
+bestellungen bitte per brief, siehe [milahu/contact](https://github.com/milahu/contact)  
+zahlung per vorkasse, bargeld im brief oder monero
+
+
+
 ## mirrors
 
 when my github repos are removed via DMCA takedown requests
