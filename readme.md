@@ -18,8 +18,7 @@ german: bücher zum thema selbstorganisation
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
 - [Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)](https://github.com/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014)
-- [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/8dd4b2c7e6198aabb600847fcbef3aac) (richtige seitenzahlen, hässliches cover)
-  - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214) (falsche seitenzahlen, schönes cover)
+- [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/8dd4b2c7e6198aabb600847fcbef3aac) ([cover](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214))
 - [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
 - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
 - [John Holt - Bildung in Freiheit: Das John-Holt-Buch zum eigenständigen Lernen (2009)](https://github.com/milahu/bildung-in-freiheit-von-john-holt-2009)
