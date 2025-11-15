@@ -65,7 +65,16 @@ materialkosten sind circa 1,5 Cent pro A4 Seite + Versand
 kleine bücher: eine buchseite pro A5 Seite  
 große bücher: eine buchseite pro A4 Seite
 
-bestellungen bitte per brief, siehe [milahu/contact](https://github.com/milahu/contact)  
+bestellungen bitte per brief an
+
+```
+Milan Hauth
+Jägerstr. 10
+83308 Trostberg
+```
+
+siehe auch [github.com/milahu/contact](https://github.com/milahu/contact)
+
 zahlung per vorkasse, bargeld im brief oder monero
 
 
