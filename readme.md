@@ -36,6 +36,7 @@ german: bücher zum thema selbstorganisation
 
 ## todo
 
+- [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 
 
 
