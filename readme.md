@@ -29,6 +29,7 @@ german: bücher zum thema selbstorganisation
 - [Gunda Frey - Das verstaatlichte Kind (2022)](https://github.com/milahu/das-verstaatlichte-kind-von-gunda-frey-2022)
 - [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.org/md5/99d660699817f003e212ab0ae693b1c0)
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.org/md5/271ce8760de267a1dd96bdcf2078a6ae)
+- [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
 
 <!-- </books> -->
 
@@ -36,7 +37,6 @@ german: bücher zum thema selbstorganisation
 
 ## todo
 
-- [MetanoiaMagazin](https://www.metanoia-magazin.com/) - aka: ExpressZeitung
 - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
