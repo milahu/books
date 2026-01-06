@@ -30,6 +30,7 @@ german: bücher zum thema selbstorganisation
 - [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.org/md5/99d660699817f003e212ab0ae693b1c0)
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.org/md5/271ce8760de267a1dd96bdcf2078a6ae)
 - [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
+- [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.se/md5/bd63e21a89fe2e9c6128578f98e054f7)
 
 <!-- </books> -->
 
