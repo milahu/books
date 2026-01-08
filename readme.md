@@ -31,6 +31,7 @@ german: bücher zum thema selbstorganisation
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.org/md5/271ce8760de267a1dd96bdcf2078a6ae)
 - [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.se/md5/bd63e21a89fe2e9c6128578f98e054f7)
+- [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
 
 <!-- </books> -->
 
