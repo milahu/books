@@ -32,6 +32,7 @@ german: bücher zum thema selbstorganisation
 - [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.se/md5/bd63e21a89fe2e9c6128578f98e054f7)
 - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
+- [Stephanie Seneff - Tödliches Vermächtnis (2025)](https://github.com/milahu/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025)
 
 <!-- </books> -->
 
