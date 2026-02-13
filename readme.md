@@ -33,6 +33,8 @@ german: bücher zum thema selbstorganisation
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.se/md5/bd63e21a89fe2e9c6128578f98e054f7)
 - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
 - [Stephanie Seneff - Tödliches Vermächtnis (2025)](https://github.com/milahu/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025)
+- [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
+  - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 
 <!-- </books> -->
 
@@ -40,7 +42,6 @@ german: bücher zum thema selbstorganisation
 
 ## todo
 
-- [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
 - [Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
