@@ -45,6 +45,8 @@ german: bücher zum thema selbstorganisation
 - [Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
+- [Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth. 2018. Charles Johnston. Dario Nardi. Jason Gentile. Winter Garand](https://www.amazon.de/Facets-Ayahuasca-Journeys-Healing-Insight/dp/0988523531)
+- [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
 
 
 
