@@ -18,7 +18,7 @@ german: bücher zum thema selbstorganisation
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
 - [Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)](https://github.com/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014)
-- [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.org/md5/8dd4b2c7e6198aabb600847fcbef3aac) ([cover](https://annas-archive.org/md5/2c0a18ca93b935c3af59105196311214))
+- [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.gl/md5/8dd4b2c7e6198aabb600847fcbef3aac) ([cover](https://annas-archive.gl/md5/2c0a18ca93b935c3af59105196311214))
 - [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
 - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
 - [John Holt - Bildung in Freiheit: Das John-Holt-Buch zum eigenständigen Lernen (2009)](https://github.com/milahu/bildung-in-freiheit-von-john-holt-2009)
@@ -27,10 +27,10 @@ german: bücher zum thema selbstorganisation
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
 - [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
 - [Gunda Frey - Das verstaatlichte Kind (2022)](https://github.com/milahu/das-verstaatlichte-kind-von-gunda-frey-2022)
-- [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.org/md5/99d660699817f003e212ab0ae693b1c0)
-- [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.org/md5/271ce8760de267a1dd96bdcf2078a6ae)
+- [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.gl/md5/99d660699817f003e212ab0ae693b1c0)
+- [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.gl/md5/271ce8760de267a1dd96bdcf2078a6ae)
 - [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
-- [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.se/md5/bd63e21a89fe2e9c6128578f98e054f7)
+- [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.gl/md5/bd63e21a89fe2e9c6128578f98e054f7)
 - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
 - [Stephanie Seneff - Tödliches Vermächtnis Glyphosat (2025)](https://github.com/milahu/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025)
 - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
