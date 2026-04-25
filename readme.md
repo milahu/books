@@ -35,6 +35,7 @@ german: bücher zum thema selbstorganisation
 - [Stephanie Seneff - Tödliches Vermächtnis Glyphosat (2025)](https://github.com/milahu/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025)
 - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
   - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
+- [Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
 
 <!-- </books> -->
 
