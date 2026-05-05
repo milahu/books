@@ -50,6 +50,9 @@ german: bücher zum thema selbstorganisation
 - [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
 - [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
+- [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
+- [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
+- [André Schmitt - Auf Stellensuche? (2020)](https://www.amazon.de/dp/B089FTMS7Q) - 14 eur
 
 
 
