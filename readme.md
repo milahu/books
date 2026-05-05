@@ -49,6 +49,7 @@ german: bücher zum thema selbstorganisation
 - [Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth. 2018. Charles Johnston. Dario Nardi. Jason Gentile. Winter Garand](https://www.amazon.de/Facets-Ayahuasca-Journeys-Healing-Insight/dp/0988523531)
 - [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
+- [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
 
 
 
