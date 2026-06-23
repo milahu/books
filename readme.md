@@ -36,6 +36,7 @@ german: bücher zum thema selbstorganisation
 - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
   - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 - [Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
+- [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
 
 <!-- </books> -->
 
