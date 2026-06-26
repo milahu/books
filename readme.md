@@ -37,6 +37,9 @@ german: bücher zum thema selbstorganisation
   - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 - [Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
+- via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
+  - [Heiko Schöning - Game Over: COVID-19 ANTHRAX-01 (2021)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Covid)
+  - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
 
 <!-- </books> -->
 
