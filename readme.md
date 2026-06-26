@@ -57,6 +57,8 @@ german: bücher zum thema selbstorganisation
 - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
 - [André Schmitt - Auf Stellensuche? (2020)](https://www.amazon.de/dp/B089FTMS7Q) - 14 eur
+- via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
+  - [Jacob Nordangård - Die digitale Weltkontrolle (2026)](https://www.amazon.de/dp/B0GSDYPJP7) - 25 eur
 
 
 
