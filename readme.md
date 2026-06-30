@@ -60,7 +60,7 @@ german: bücher zum thema selbstorganisation
 - übersetzen: [Ben Davidson - The Sun, The Earth and The Disaster Cycle (2025)](https://libgen.bz/edition.php?id=208647364) - Polsprung und Sintflut alle 6000 Jahre
 - übersetzen: [Endgame, Volume 2: Resistance. By Derrick Jensen](https://annas-archive.gl/md5/c5d433da58649d84397425bce662f0ee)
 - übersetzen: [Strangely Like War: The Global Assault on Forests. by Derrick Jensen, George Draffan (2003)](https://libgen.bz/file.php?md5=45d4eda426e56fc47305f1bc26901c88)
-- übersetzen: [The Wolf Tamers: How They Made the Strong Weak. by David Sinclair](https://www.goodreads.com/book/show/60222529-the-wolf-tamers) - banned on amazon for "hatespeech"
+- übersetzen: [The Wolf Tamers: How They Made the Strong Weak. by David Sinclair](https://libgen.bz/file.php?md5=2ddcee5ec9be5cf52c9b2d3f39d69b09)
 - [Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
