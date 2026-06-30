@@ -39,6 +39,7 @@ german: bücher zum thema selbstorganisation
   - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 - [Derrick Jensen - Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
   - [Jack D. Forbes, Derrick Jensen - Der Wetiko-Wahn: Ausbeutung, Imperialismus und die Zerstörung der Lebenswelt (2024)](https://libgen.bz/file.php?md5=82c97b6487ed7d0254bea3f3c8142716)
+  - [Derrick Jensen - Voices of Resistance - Volume 3 - Stimmen des Widerstands - Geschaffen für die Wildnis & andere Essays (2018)](https://libgen.bz/file.php?md5=b46a4e5090ddc9ac63c859bd26d33910)
 - via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
   - [Heiko Schöning - Game Over: COVID-19 ANTHRAX-01 (2021)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Covid)
   - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
