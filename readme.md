@@ -18,6 +18,7 @@ german: bücher zum thema selbstorganisation
 - [Liebscher & Bracht - Schmerzfrei und beweglich bis ins hohe Alter (2022)](https://annas-archive.gl/md5/f7b7c0b4ccc5dbb5c338a24d04bf479d)
   - [Liebscher & Bracht - Rücken & Bandscheiben - Schmerzen selbst behandeln (2020)](https://annas-archive.gl/md5/223706b7d274b0fb2c43807601a63ea0)
   - [Liebscher & Bracht - Nacken - Schmerzen selbst behandeln (2021)](https://annas-archive.gl/md5/411896ed7c87a958900e308914011d83)
+  - [Liebscher & Bracht - Deutschland hat Rücken: wie es so weit kommen konnte, warum jetzt Schluss damit ist, was Sie selbst dagegen tun können (2019)](https://annas-archive.gl/md5/39e4c24b82b981ab3af986b209b7bc37)
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
