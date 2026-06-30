@@ -57,6 +57,7 @@ german: bücher zum thema selbstorganisation
 
 ## todo
 
+- Manova Gegendruck 1-5 (die bücher hab ich schon, ich bin nur zu faul zum scannen...)
 - übersetzen: [Ben Davidson - The Sun, The Earth and The Disaster Cycle (2025)](https://libgen.bz/edition.php?id=208647364) - Polsprung und Sintflut alle 6000 Jahre
 - übersetzen: [Endgame, Volume 2: Resistance. By Derrick Jensen](https://annas-archive.gl/md5/c5d433da58649d84397425bce662f0ee)
 - übersetzen: [Strangely Like War: The Global Assault on Forests. by Derrick Jensen, George Draffan (2003)](https://libgen.bz/file.php?md5=45d4eda426e56fc47305f1bc26901c88)
