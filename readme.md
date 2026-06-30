@@ -17,6 +17,7 @@ german: bücher zum thema selbstorganisation
 - [Julia Ross - Was die Seele essen will: Die Mood Cure (2015)](https://github.com/milahu/julia-ross-die-mood-cure)
 - [Liebscher & Bracht - Schmerzfrei und beweglich bis ins hohe Alter (2022)](https://annas-archive.gl/md5/f7b7c0b4ccc5dbb5c338a24d04bf479d)
   - [Liebscher & Bracht - Rücken & Bandscheiben - Schmerzen selbst behandeln (2020)](https://annas-archive.gl/md5/223706b7d274b0fb2c43807601a63ea0)
+  - [Liebscher & Bracht - Nacken - Schmerzen selbst behandeln (2021)](https://annas-archive.gl/md5/411896ed7c87a958900e308914011d83)
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
