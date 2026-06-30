@@ -16,6 +16,7 @@ german: bücher zum thema selbstorganisation
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
 - [Julia Ross - Was die Seele essen will: Die Mood Cure (2015)](https://github.com/milahu/julia-ross-die-mood-cure)
 - [Liebscher & Bracht - Schmerzfrei und beweglich bis ins hohe Alter (2022)](https://annas-archive.gl/md5/f7b7c0b4ccc5dbb5c338a24d04bf479d)
+  - [Liebscher & Bracht - Rücken & Bandscheiben - Schmerzen selbst behandeln (2020)](https://annas-archive.gl/md5/223706b7d274b0fb2c43807601a63ea0)
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
