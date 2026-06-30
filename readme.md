@@ -20,6 +20,7 @@ german: bücher zum thema selbstorganisation
   - [Liebscher & Bracht - Nacken - Schmerzen selbst behandeln (2021)](https://annas-archive.gl/md5/411896ed7c87a958900e308914011d83)
   - [Liebscher & Bracht - Deutschland hat Rücken: wie es so weit kommen konnte, warum jetzt Schluss damit ist, was Sie selbst dagegen tun können (2019)](https://annas-archive.gl/md5/39e4c24b82b981ab3af986b209b7bc37)
   - [Liebscher & Bracht - Die Arthrose-Lüge - Warum die meisten Menschen völlig umsonst leiden, und was Sie dagegen tun können (2023)](https://annas-archive.gl/md5/f60baaed812bda2c8ecaa510962bb22e)
+- [Michael Nehls - Das indoktrinierte Gehirn: Wie wir den globalen Angriff auf unsere mentale Freiheit erfolgreich abwehren (2023)](https://annas-archive.gl/md5/9f9236fbc9adf6cf136ef493dd1031fe) ([Hörbuch](magnet:?xt=urn:btih:8aaf9b585bdf4c6e59d886662246536a13573c4e&dn=Michael%20Nehls%20-%20Das%20indoktrinierte%20Gehirn%20%282024%29%20%28H%C3%B6rbuch%29&xl=876761397))
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
 - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
 - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
