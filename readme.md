@@ -37,7 +37,7 @@ german: bücher zum thema selbstorganisation
 - [Stephanie Seneff - Tödliches Vermächtnis Glyphosat (2025)](https://github.com/milahu/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025)
 - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
   - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
-- [Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
+- [Derrick Jensen - Endgame, Teil 1. Zivilisation als Problem (2008)](https://github.com/milahu/endgame-1-zivilisation-als-problem-2008)
 - via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
   - [Heiko Schöning - Game Over: COVID-19 ANTHRAX-01 (2021)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Covid)
   - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
