@@ -56,6 +56,7 @@ german: bücher zum thema selbstorganisation
 - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
 - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
 - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
+  - [Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)](https://github.com/milahu/thomas-szasz-schizophrenie-1982)
 
 <!-- </books> -->
 
@@ -83,7 +84,6 @@ german: bücher zum thema selbstorganisation
   - [Jacob Nordangård - Die digitale Weltkontrolle (2026)](https://www.amazon.de/dp/B0GSDYPJP7) - 25 eur
 - Thomas Szasz - Geisteskrankheit, ein moderner Mythos? Grundzüge einer Theorie des persönlichen Verhaltens (2013)
 - Thomas Szasz - Das Psychiatrische Testament (1987)
-- Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)
 - Thomas Szasz - Recht, Freiheit und Psychiatrie - Auf dem Weg zum therapeutischen Staat? (1980)
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
 
