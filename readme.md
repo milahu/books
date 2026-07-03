@@ -38,7 +38,7 @@ german: bücher zum thema selbstorganisation
     - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.gl/md5/271ce8760de267a1dd96bdcf2078a6ae)
   - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
-  - [Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
+  - [Tilman Knechtel - Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
   - [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.gl/md5/99d660699817f003e212ab0ae693b1c0)
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.gl/md5/bd63e21a89fe2e9c6128578f98e054f7)
   - [Gustave Le Bon - Psychologie der Massen (1895)](https://annas-archive.gl/md5/bb2170c5816491bae8a676e51f12cae5)
@@ -70,7 +70,7 @@ german: bücher zum thema selbstorganisation
 - übersetzen: [Strangely Like War: The Global Assault on Forests. by Derrick Jensen, George Draffan (2003)](https://libgen.bz/file.php?md5=45d4eda426e56fc47305f1bc26901c88)
 - übersetzen: [The Wolf Tamers: How They Made the Strong Weak. by David Sinclair](https://libgen.bz/file.php?md5=2ddcee5ec9be5cf52c9b2d3f39d69b09)
 - übersetzen: [Derrick Jensen, George Draffan - Welcome to the Machine: Science, Surveillance, and the Culture of Control (2004)](https://libgen.bz/file.php?md5=dac9c4fe410e3626d4978c557718b03f)
-- [Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
+- [Tilman Knechtel - Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
 - [Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth. 2018. Charles Johnston. Dario Nardi. Jason Gentile. Winter Garand](https://www.amazon.de/Facets-Ayahuasca-Journeys-Healing-Insight/dp/0988523531)
