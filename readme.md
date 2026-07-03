@@ -52,10 +52,10 @@ german: bücher zum thema selbstorganisation
   - [Heiko Schöning - Game Over: COVID-19 ANTHRAX-01 (2021)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Covid)
   - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
 - [Thomas Szasz - Grausames Mitleid. Über die Aussonderung unerwünschter Menschen (2016)](https://annas-archive.gl/md5/87517fc5c9ab454c411b334679ca84f6)
-- [Thomas Szasz - Theologie der Medizin (1980)](https://annas-archive.gl/md5/d639bf368c91df762fde0cd07de1cec3)
-- [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
-- [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
-- [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
+  - [Thomas Szasz - Theologie der Medizin (1980)](https://annas-archive.gl/md5/d639bf368c91df762fde0cd07de1cec3)
+  - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
+  - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
+  - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
   - [Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)](https://github.com/milahu/thomas-szasz-schizophrenie-1982)
 
 <!-- </books> -->
