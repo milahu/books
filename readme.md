@@ -129,6 +129,20 @@ zahlung per vorkasse, bargeld im brief oder monero
 
 
 
+## scanservice
+
+Du willst ein Buch scannen?
+
+Dann schick mir das Buch,
+ich schicke es durch meinen 100 EUR [Planschneider](https://www.ebay.de/itm/405803959126) (zum Entbinden),
+und durch meinen 200 EUR [ADF-Scanner](https://geizhals.de/brother-imagecenter-ads-3000n-ads3000nux1-a1375507.html),
+und schicke dir den Scan (600dpi JPEG Dateien) per HTTP Download.
+Das entbundene Buch verkaufe ich dann bei Ebay.
+
+Die meiste Arbeit ist das Korrekturlesen, das darfst du dann selber machen. : P
+
+
+
 ## mirrors
 
 when my github repos are removed via DMCA takedown requests
