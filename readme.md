@@ -1,8 +1,8 @@
 # milahu/books
 
-books on the topic of selforganization
+books on the topic of selforganization (red pills)
 
-german: bücher zum thema selbstorganisation
+german: bücher zum thema selbstorganisation (rote pillen)
 
 
 
