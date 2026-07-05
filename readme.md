@@ -107,6 +107,45 @@ als werbung für mein eigenes buch:
 
 
 
+## DNS zensur
+
+Problem:
+Mainstream DNS Server zensieren Websites wie annas-archive.gl, libgen.bz, sci-hub.ru, ...
+durch eine Weiterleitung zu anderen Websites
+
+Beispiel:
+Telekom DNS Server 217.237.151.115
+
+```
+$ dig +short @217.237.151.115 libgen.bz | head -n1
+cuii-landingpage.telekom.com.
+```
+
+[cuii-landingpage.telekom.com](https://cuii-landingpage.telekom.com/)
+
+> Diese Webseite ist aus urheberrechtlichen Gründen nicht verfügbar.  
+> Zu den Hintergründen informieren Sie sich bitte [hier](https://cuii.info/ueber-uns/).
+
+Lösung:
+Nutze [unzensierte DNS Server](https://duckduckgo.com/?q=unzensierte+DNS+Server&ia=answer&iax=answer):
+[1.1.1.1](https://one.one.one.one/),
+[8.8.8.8](https://developers.google.com/speed/public-dns/),
+[9.9.9.9](https://quad9.net/),
+...
+
+```
+$ dig +short @1.1.1.1 libgen.bz | head -n1
+179.43.167.165
+
+$ curl -sI http://179.43.167.165/ | grep -i ^location:
+Location: https://libgen.bz/
+```
+
+Siehe auch:
+[cuiiliste.de](https://cuiiliste.de/)
+
+
+
 ## druckservice
 
 ich kann dir bücher drucken, heften, schicken
