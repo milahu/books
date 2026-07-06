@@ -53,6 +53,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
   - [Heiko Schöning - Game Over: COVID-19 ANTHRAX-01 (2021)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Covid)
   - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
+  - [Jacob Nordangård - Die digitale Weltkontrolle (2026)](https://github.com/milahu/jacob-nordangard-digitale-weltkontrolle-2026)
 - [Thomas Szasz - Grausames Mitleid. Über die Aussonderung unerwünschter Menschen (2016)](https://annas-archive.gl/md5/87517fc5c9ab454c411b334679ca84f6)
   - [Thomas Szasz - Geisteskrankheit, ein moderner Mythos? Grundzüge einer Theorie des persönlichen Verhaltens (2013)](https://github.com/milahu/thomas-szasz-geisteskrankheit-mythos-2013)
   - [Thomas Szasz - Theologie der Medizin (1980)](https://annas-archive.gl/md5/d639bf368c91df762fde0cd07de1cec3)
@@ -84,8 +85,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
 - [André Schmitt - Auf Stellensuche? (2020)](https://www.amazon.de/dp/B089FTMS7Q) - 14 eur
-- via [Simo Azzaoui (Meet Your Mentor)](https://www.youtube.com/watch?v=gZRlvGo6QYo&list=PLy_62rV6N39DgNCFozkGp9Q1YXKsOlChf&index=36&pp=iAQBsAgC)
-  - [Jacob Nordangård - Die digitale Weltkontrolle (2026)](https://www.amazon.de/dp/B0GSDYPJP7) - 25 eur
 - Thomas Szasz - Das Psychiatrische Testament (1987)
 - Thomas Szasz - Recht, Freiheit und Psychiatrie - Auf dem Weg zum therapeutischen Staat? (1980)
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
