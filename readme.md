@@ -12,7 +12,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
-  - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025-10-21)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
+  - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
   - [Julia Ross - Was die Seele essen will: Die Mood Cure (2015)](https://github.com/milahu/julia-ross-die-mood-cure)
