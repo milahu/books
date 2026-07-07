@@ -66,6 +66,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Thomas Szasz - Geisteskrankheit, ein moderner Mythos? Grundzüge einer Theorie des persönlichen Verhaltens (2013)](https://github.com/milahu/thomas-szasz-geisteskrankheit-mythos-2013)
   - [Thomas Szasz - Das Psychiatrische Testament (1987)](https://github.com/milahu/thomas-szasz-das-psychiatrische-testament-1987)
   - [Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)](https://github.com/milahu/thomas-szasz-schizophrenie-1982)
+  - [Thomas Szasz - Recht, Freiheit und Psychiatrie - Auf dem Weg zum therapeutischen Staat? (1980)](https://github.com/milahu/thomas-szasz-recht-freiheit-psychiatrie-1980)
   - [Thomas Szasz - Theologie der Medizin (1980)](https://annas-archive.gl/md5/d639bf368c91df762fde0cd07de1cec3)
   - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
   - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
@@ -94,7 +95,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
 - [André Schmitt - Auf Stellensuche? (2020)](https://www.amazon.de/dp/B089FTMS7Q) - 14 eur
-- Thomas Szasz - Recht, Freiheit und Psychiatrie - Auf dem Weg zum therapeutischen Staat? (1980)
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
 - [Michael Nehls - Die Methusalem-Strategie (2011)](https://www.amazon.de/Die-Methusalem-Strategie-Vermeiden-hindert-gesund/dp/3981404831) ([Hörbuch](cas/btih/86751a4df74a3cdc97965d2381cdc2cf3f490cda.torrent))
 
