@@ -64,11 +64,11 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Thomas Szasz - Grausames Mitleid. Über die Aussonderung unerwünschter Menschen (2016)](https://annas-archive.gl/md5/87517fc5c9ab454c411b334679ca84f6)
   - [Thomas Szasz - Geisteskrankheit, ein moderner Mythos? Grundzüge einer Theorie des persönlichen Verhaltens (2013)](https://github.com/milahu/thomas-szasz-geisteskrankheit-mythos-2013)
   - [Thomas Szasz - Das Psychiatrische Testament (1987)](https://github.com/milahu/thomas-szasz-das-psychiatrische-testament-1987)
+  - [Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)](https://github.com/milahu/thomas-szasz-schizophrenie-1982)
   - [Thomas Szasz - Theologie der Medizin (1980)](https://annas-archive.gl/md5/d639bf368c91df762fde0cd07de1cec3)
   - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
   - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
   - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
-  - [Thomas Szasz - Schizophrenie: Das heilige Symbol der Psychiatrie (1982)](https://github.com/milahu/thomas-szasz-schizophrenie-1982)
 
 <!-- </books> -->
 
