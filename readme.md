@@ -72,7 +72,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
   - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
 - [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
-  - Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2025) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
+  - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
 
 <!-- </books> -->
