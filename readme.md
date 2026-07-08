@@ -71,6 +71,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
   - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
   - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
+- [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
 
 <!-- </books> -->
 
