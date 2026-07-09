@@ -16,6 +16,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
   - [Norbert Häring - Der Wahrheitskomplex: Wie NGOs im Staatsauftrag unerwünschte Meinungen bekämpfen (2026)](https://libgen.bz/file.php?md5=ac780a0ab5d730bb1ce3b9310c0f02a0)
+  - [Fritz Vahrenholt - Unerwünschte Wahrheiten (2021)](https://annas-archive.gl/md5/7a1631dc37d3bc0b3bec0107043ffab7)
   - [Fritz Vahrenholt - Die große Energiekrise ... und wie wir sie bewältigen können (2023)](https://libgen.bz/file.php?md5=b8d59c8ecb898b7fbb9d7f4f0b3380d2)
   - [Fritz Vahrenholt - Unanfechtbar? Die Entscheidung des Bundesverassungsgerichts zum Klimaschutz im Faktencheck (2021)](https://libgen.bz/file.php?md5=aafb523c20b880020804b9dd81757b48)
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
