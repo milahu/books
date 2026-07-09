@@ -17,6 +17,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
   - [Norbert Häring - Der Wahrheitskomplex: Wie NGOs im Staatsauftrag unerwünschte Meinungen bekämpfen (2026)](https://libgen.bz/file.php?md5=ac780a0ab5d730bb1ce3b9310c0f02a0)
   - [Fritz Vahrenholt - Die große Energiekrise ... und wie wir sie bewältigen können (2023)](https://libgen.bz/file.php?md5=b8d59c8ecb898b7fbb9d7f4f0b3380d2)
+  - [Fritz Vahrenholt - Unanfechtbar? Die Entscheidung des Bundesverassungsgerichts zum Klimaschutz im Faktencheck (2021)](https://libgen.bz/file.php?md5=aafb523c20b880020804b9dd81757b48)
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
   - [Julia Ross - Was die Seele essen will: Die Mood Cure (2015)](https://github.com/milahu/julia-ross-die-mood-cure)
 - [Liebscher & Bracht - Schmerzfrei und beweglich bis ins hohe Alter (2022)](https://annas-archive.gl/md5/f7b7c0b4ccc5dbb5c338a24d04bf479d) ([Hörbuch](cas/btih/7f6a496650e96a5f87b16a05797f86734b42f399.torrent))
