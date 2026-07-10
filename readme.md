@@ -118,6 +118,12 @@ die aufklärung soll nicht scheitern am geldbeutel
 
 gute bücher verdienen maximale verbreitung: nachdrucken und überall verschenken
 
+weil die meisten filme sind scheisse,
+weil die meiste musik ist scheisse,
+weil die meisten hörbücher sind scheisse,
+...
+weil die unzensierten rohdaten sind versteckt in büchern
+
 als werbung für mein eigenes buch:
 [Pallas. Wer sind meine Freunde. Gruppenaufbau nach Persönlichkeitstyp](https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html)
 
