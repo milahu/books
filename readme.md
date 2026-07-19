@@ -120,6 +120,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Gerd Reuther, Renate Reuther - Die Eroberung der Alten und Neuen Welt: Mythen und Fakten (2024)
   - Gerd Reuther, Renate Reuther - Wer schweigt, hat schon verloren: 56 Essays, die Dein Denken verändern (2024)
   - Gerd Reuther - Letzte Tage – Verkannte und vertuschte Todesursachen berühmter Personen (2022)
+- [Tolzin Verlag](https://tolzin-verlag.com/) - Impfgegner (via [Gerd Reuther](https://www.engelsdorfer-verlag.de/Medizin/Allgemeines/Riskanter-Schutz-300-Jahre-Immunisierungsversuche::8471.html))
 
 
 
