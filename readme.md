@@ -12,6 +12,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 
 - [Speed Reading. von Tony Buzan. 2017. EPUB](https://libgen.bz/file.php?md5=a2fb130a3918610188df78149924c669)
   - [Speed Reading. von Tony Buzan. 2016. Print](https://github.com/milahu/tony-buzan-speed-reading-german-edition-2016)
+  - [Paul R. Scheele - PhotoReading: Die neue Hochgeschwindigkeits-Lesemethode in der Praxis (1997)](https://github.com/milahu/paul-r-scheele-photoreading-lesemethode-1997)
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
