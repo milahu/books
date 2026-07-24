@@ -60,6 +60,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Raik Garve - Vom Schöpfer zum Sklaven (2024)](https://github.com/milahu/vom-schoepfer-zum-sklaven-von-raik-garve-2024)
 - [Vince Ebert - Wot Se Fack Deutschland (2025)](https://github.com/milahu/wot-se-fack-von-vince-ebert-2025)
   - [Gunnar Kunz - Achtung! Sie verlassen den demokratischen Sektor (2024)](https://github.com/milahu/gunnar-kunz-sie-verlassen-den-demokratischen-sektor-2024)
+- [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band I (2013)](https://libgen.bz/file.php?md5=a55ba9c322c6b92c5703b5e439cf3820)
 - [James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](https://github.com/milahu/reportage-von-james-corbett-2025)
   - [Tom-Oliver Regenauer - Hopium. Texte zu Zeitenwende, Technokratie und Korporatismus III (2025)](https://github.com/milahu/hopium-von-tom-oliver-regenauer-2025)
   - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
@@ -125,8 +126,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - Gerd Reuther
   - Gerd Reuther - Letzte Tage – Verkannte und vertuschte Todesursachen berühmter Personen (2022)
 - [Tolzin Verlag](https://tolzin-verlag.com/) - Impfgegner (via [Gerd Reuther](https://www.engelsdorfer-verlag.de/Medizin/Allgemeines/Riskanter-Schutz-300-Jahre-Immunisierungsversuche::8471.html))
-- [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band I (2013)](https://www.kobo.com/de/de/ebook/der-staat-als-rauberbande-2)
-  - [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band II (2014)](https://shop.tredition.com/booktitle/Der_Staat_als_R%3fuberbande/W-1_36224)
+- [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band II (2014)](https://shop.tredition.com/booktitle/Der_Staat_als_R%3fuberbande/W-1_36224)
 - [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://shop.tredition.com/booktitle/ORGANISIERT_EUCH/W-146-028-082)
 
 
