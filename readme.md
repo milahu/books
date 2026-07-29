@@ -93,6 +93,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Thomas Szasz - Psychiatrie, die verschleierte Macht: Essays über die psychiatrische Entmenschung des Menschen (1978)](https://annas-archive.gl/md5/0c2591cea0d3c1038b34158a6dfd7d89)
   - [Thomas Szasz - Das Ritual der Drogen (1978)](https://annas-archive.gl/md5/bde59246dde1518a86d2ddc47e3bfde0)
   - [Thomas Szasz - Die Fabrikation des Wahnsinns (1976)](https://annas-archive.gl/md5/ba8008d89323fcea8b2f7379f5c93547)
+- [Wolf-Dieter Storl, Christian Rätsch, Claudia Müller-Ebeling - Hexenmedizin: Die Wiederentdeckung einer verbotenen Heilkunst - schamanische Tradition in Europa (2013)](https://annas-archive.gl/md5/fef32879f98bad3b92e616c73bb9d6bb)
+  - [Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)](https://annas-archive.gl/md5/44dded117e735887e6e8bd54b124d8a0) (fixme: blurry)
+  - [Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen](https://annas-archive.gl/md5/279c32ec43406f5d84f77820037da69f) (fixme: epub)
 - [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
   - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
@@ -128,6 +131,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Tolzin Verlag](https://tolzin-verlag.com/) - Impfgegner (via [Gerd Reuther](https://www.engelsdorfer-verlag.de/Medizin/Allgemeines/Riskanter-Schutz-300-Jahre-Immunisierungsversuche::8471.html))
 - [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band II (2014)](https://shop.tredition.com/booktitle/Der_Staat_als_R%3fuberbande/W-1_36224)
 - [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://shop.tredition.com/booktitle/ORGANISIERT_EUCH/W-146-028-082)
+- Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)
+  - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - 140 eur
+  - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - Band 2 - 130 eur
 
 
 
