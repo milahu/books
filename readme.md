@@ -96,6 +96,24 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Wolf-Dieter Storl, Christian Rätsch, Claudia Müller-Ebeling - Hexenmedizin: Die Wiederentdeckung einer verbotenen Heilkunst - schamanische Tradition in Europa (2013)](https://annas-archive.gl/md5/fef32879f98bad3b92e616c73bb9d6bb)
   - [Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)](https://annas-archive.gl/md5/44dded117e735887e6e8bd54b124d8a0) (fixme: blurry)
   - [Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen](https://annas-archive.gl/md5/279c32ec43406f5d84f77820037da69f) (fixme: epub)
+- [Alexander Shulgin - PiHKAL: Eine molekulare Liebesgeschichte (2020)](https://annas-archive.gl/md5/999ee0102863a93fbb1d604b06766098)
+  ([pdf](https://annas-archive.gl/md5/e27c97a7ca5c1070a69c486b9c843cba))
+  ([Phenethylamines](https://en.wikipedia.org/wiki/Phenethylamine) I Have Known and Loved)
+  ([Mescaline = Peyote cactus](https://psychonautwiki.org/wiki/Mescaline),
+  [2C-B](https://psychonautwiki.org/wiki/2C-B),
+  [2C-E](https://psychonautwiki.org/wiki/2C-E),
+  [2C-T-7](https://psychonautwiki.org/wiki/2C-T-7),
+  [2C-P](https://psychonautwiki.org/wiki/2C-P),
+  ...)
+  ([Magical half-dozen](https://en.wikipedia.org/wiki/PiHKAL#Magical_half-dozen))
+  - [Alexander Shulgin - TiHKAL: Die Fortsetzung (2019)](https://annas-archive.gl/md5/81c02453f197b8c89218095672fbbbe5)
+    ([Tryptamines](https://en.wikipedia.org/wiki/Substituted_tryptamine) I Have Known and Loved)
+    ([Psilocybin mushrooms = Magic mushrooms](https://psychonautwiki.org/wiki/Psilocybin_mushrooms),
+    [DMT = Ayahuasca](https://psychonautwiki.org/wiki/DMT),
+    [4-AcO-DMT = Psilacetin](https://psychonautwiki.org/wiki/4-AcO-DMT),
+    [5-MeO-DIPT = Foxy](https://psychonautwiki.org/wiki/5-MeO-DIPT),
+    [5-MeO-MiPT = Moxy](https://psychonautwiki.org/wiki/5-MeO-MiPT),
+    ...)
 - [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
   - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
