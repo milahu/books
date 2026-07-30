@@ -152,6 +152,15 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)
   - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - 140 eur
   - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - Band 2 - 130 eur
+  - Christian Rätsch - Vom Forscher, der auszog, das Zaubern zu lernen (2012)
+  - Christian Rätsch - Hanf als Heilmittel (2016)
+  - Christian Rätsch - Das Tor zu inneren Räumen (2023)
+  - Christian Rätsch - Abgründige Weihnachten (2014)
+  - Christian Rätsch - Ayahuasca (2017)
+  - Christian Rätsch - Zauberpflanze Alraune (2013)
+  - Christian Rätsch - Gesänge der Maria Sabina (2015)
+  - Christian Rätsch - Psychedelische Tomaten (2017)
+  - Christian Rätsch - Maria Sabina (2024)
 
 
 
