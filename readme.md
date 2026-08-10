@@ -123,6 +123,16 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
 - [Dieter Bohlen - Der Bohlenweg: Planieren statt Sanieren (2010)](https://github.com/milahu/dieter-bohlen-der-bohlenweg-2010) ([Hörbuch](cas/btih/f14eddec8e9fde71804c907832c002aa72b36d7e.torrent))
+- [Christoph Heuermann - Die Staatenlos Mentalität (2023)](https://annas-archive.gl/md5/1b016fa50a20030c3a0f466bca4e4a2e)
+  - [Christoph Heuermann - Das Auswander Lexikon](https://annas-archive.gl/md5/59c04b9c91bca5e5f43894904d44c528)
+  - [Christoph Heuermann - Staatenlos: Besteuerung vermeiden. Ein Steuerberater Packt Aus (2026)](https://annas-archive.gl/md5/b29e743bfb5785cddba2fdb640d5c225)
+  - [Christoph Heuermann - Staatenlos: Zahlungsalternativen Lexikon: Über Stripe und PayPal hinaus: Einblick in ein breiteres Spektrum an Diensten (2025)](https://annas-archive.gl/md5/562a16804789eafa0270bdd5bb3963e8)
+  - [Christoph Heuermann - Staatenlos: Staatsbürgerschaften Lexikon: Ein ausführlicher Vergleich von 98 Nationen (2025)](https://annas-archive.gl/md5/e873dbc013d76e986e8aca5584e2873c)
+  - [Christoph Heuermann - Das Firmen Lexikon (2023)](https://annas-archive.gl/md5/057226df803146329361858f2f95f4c5)
+  - [Christoph Heuermann - Das Staatsbürgerschaften Lexikon (2023)](https://annas-archive.gl/md5/c4fe97278515d4d1d8958e509cb979b4)
+  - [Christoph Heuermann - Perpetual Travel Challenge (2023)](https://annas-archive.gl/md5/e40a5172f96417cc4866c40f9d7069c3)
+  - [Christoph Heuermann - Staatenlos-Videokurs (2023)](https://annas-archive.gl/md5/fbc944a1095cf1f9b8bc7b499a316514)
+  - [Christoph Heuermann - Der Ultimative Guide für medizinischen Tourismus (2017)](https://annas-archive.gl/md5/dc9c4dbee2c5804a711b7789e831eedd)
 
 <!-- </books> -->
 
