@@ -133,6 +133,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Christoph Heuermann - Perpetual Travel Challenge (2023)](https://annas-archive.gl/md5/e40a5172f96417cc4866c40f9d7069c3)
   - [Christoph Heuermann - Staatenlos-Videokurs (2023)](https://annas-archive.gl/md5/fbc944a1095cf1f9b8bc7b499a316514)
   - [Christoph Heuermann - Der Ultimative Guide für medizinischen Tourismus (2017)](https://annas-archive.gl/md5/dc9c4dbee2c5804a711b7789e831eedd)
+- [Patrick J. Deneen - Warum der Liberalismus gescheitert ist (2019)](https://libgen.bz/file.php?md5=fc6ceb429de17377681d0333e72dd951)
+- [Andre Schmitt - Auf Partnersuche? Ein unkonventioneller Ratgeber für Menschen mit Humor und Durchhaltevermögen (2022)](https://libgen.bz/file.php?md5=ef269d3253e75091b45653eb7977f7b0)
+  - [Andre Schmitt - Auf Stellensuche? Ein Ratgeber für Ausbildungs- und Angestelltenberufe im öffentlichen und kaufmännischen Bereich (2020)](https://libgen.bz/file.php?md5=50db70dde5c4db0fefc6d623bb34d4e4)
 
 <!-- </books> -->
 
