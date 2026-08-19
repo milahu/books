@@ -136,6 +136,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Patrick J. Deneen - Warum der Liberalismus gescheitert ist (2019)](https://libgen.bz/file.php?md5=fc6ceb429de17377681d0333e72dd951)
 - [Andre Schmitt - Auf Partnersuche? Ein unkonventioneller Ratgeber für Menschen mit Humor und Durchhaltevermögen (2022)](https://libgen.bz/file.php?md5=ef269d3253e75091b45653eb7977f7b0)
   - [Andre Schmitt - Auf Stellensuche? Ein Ratgeber für Ausbildungs- und Angestelltenberufe im öffentlichen und kaufmännischen Bereich (2020)](https://libgen.bz/file.php?md5=50db70dde5c4db0fefc6d623bb34d4e4)
+- [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://github.com/milahu/silvia-lorenz-organisiert-euch-2026)
 
 <!-- </books> -->
 
@@ -174,7 +175,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Gerd Reuther - Letzte Tage – Verkannte und vertuschte Todesursachen berühmter Personen (2022)
 - [Tolzin Verlag](https://tolzin-verlag.com/) - Impfgegner (via [Gerd Reuther](https://www.engelsdorfer-verlag.de/Medizin/Allgemeines/Riskanter-Schutz-300-Jahre-Immunisierungsversuche::8471.html))
 - [Werner Wasserberg - Der Staat als Räuberbande: Der Staat ist die größte Gefahr für Ihre Freiheit und Ihren Wohlstand - Band II (2014)](https://shop.tredition.com/booktitle/Der_Staat_als_R%3fuberbande/W-1_36224)
-- [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://shop.tredition.com/booktitle/ORGANISIERT_EUCH/W-146-028-082)
 - Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)
   - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - 140 eur
   - Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen - Band 2 - 130 eur
