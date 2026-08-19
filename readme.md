@@ -136,6 +136,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Patrick J. Deneen - Warum der Liberalismus gescheitert ist (2019)](https://libgen.bz/file.php?md5=fc6ceb429de17377681d0333e72dd951)
 - [Andre Schmitt - Auf Partnersuche? Ein unkonventioneller Ratgeber für Menschen mit Humor und Durchhaltevermögen (2022)](https://libgen.bz/file.php?md5=ef269d3253e75091b45653eb7977f7b0)
   - [Andre Schmitt - Auf Stellensuche? Ein Ratgeber für Ausbildungs- und Angestelltenberufe im öffentlichen und kaufmännischen Bereich (2020)](https://libgen.bz/file.php?md5=50db70dde5c4db0fefc6d623bb34d4e4)
+- [Vera F. Birkenbihl - Von Null Ahnung zu etwas Türkisch (2016)](https://annas-archive.gl/md5/538fb6fa6e253b5eb93159e6ccb2b92f)
 - [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://github.com/milahu/silvia-lorenz-organisiert-euch-2026)
 
 <!-- </books> -->
