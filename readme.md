@@ -138,6 +138,12 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Andre Schmitt - Auf Stellensuche? Ein Ratgeber für Ausbildungs- und Angestelltenberufe im öffentlichen und kaufmännischen Bereich (2020)](https://libgen.bz/file.php?md5=50db70dde5c4db0fefc6d623bb34d4e4)
 - [Vera F. Birkenbihl - Von Null Ahnung zu etwas Türkisch (2016)](https://annas-archive.gl/md5/538fb6fa6e253b5eb93159e6ccb2b92f)
 - [Silvia Lorenz - Organisiert euch! Denkschrift für eine selbstbestimmte Ordnung (2026)](https://github.com/milahu/silvia-lorenz-organisiert-euch-2026)
+- [Cormac McCarthy - Kein Land Für Alte Männer (2009)](https://libgen.bz/file.php?md5=65a67a1c98f730063e6e4d9429f79e00)
+  ([film](cas/btih/b0aa731cd817e43e17b6620cebc7d032317bc7ae.torrent))
+  - "Wenn dich die Regel, an die du dich gehalten hast, hierher geführt hat, welchen Sinn hat sie dann gehabt?"
+  - original: [Cormac McCarthy - No Country for Old Men (2005)](https://annas-archive.gl/search?q=Cormac+McCarthy+-+No+Country+for+Old+Men)
+    ([film](cas/btih/d97cb718557d7efda484014d8f0158c68c8bfa59.torrent))
+      - "If the rule you followed brought you to this, of what use was the rule?"
 
 <!-- </books> -->
 
