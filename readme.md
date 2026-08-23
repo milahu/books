@@ -144,6 +144,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - original: [Cormac McCarthy - No Country for Old Men (2005)](https://annas-archive.gl/search?q=Cormac+McCarthy+-+No+Country+for+Old+Men)
     ([film](cas/btih/d97cb718557d7efda484014d8f0158c68c8bfa59.torrent))
       - "If the rule you followed brought you to this, of what use was the rule?"
+- [Daniel Quinn - Ismael (1992)](https://annas-archive.gl/md5/2f8981f29eac5ba29a7ee2b5e803cc7f)
+  - original: [Daniel Quinn - Ishmael (1992)](https://annas-archive.gl/md5/3b7f46b9f5b616a070c5f975b1a2c4ad)
+    ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
 
 <!-- </books> -->
 
