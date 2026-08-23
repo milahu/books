@@ -151,6 +151,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([film](cas/btih/d97cb718557d7efda484014d8f0158c68c8bfa59.torrent))
       - "If the rule you followed brought you to this, of what use was the rule?"
 - [Daniel Quinn - Ismael (1992)](https://annas-archive.gl/md5/2f8981f29eac5ba29a7ee2b5e803cc7f)
+  (film: [Instinkt (1999)](cas/btih/2ece938b284deb4ab6c451fabe172645118d1bc0.torrent))
   - original: [Daniel Quinn - Ishmael (1992)](https://annas-archive.gl/md5/3b7f46b9f5b616a070c5f975b1a2c4ad)
     ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
 
