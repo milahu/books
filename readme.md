@@ -340,5 +340,6 @@ then i move my repos to [darknet-git-hosting-services](https://github.com/milahu
 
 ## related
 
+- [rishabhmodi03/BOOKS](https://github.com/rishabhmodi03/BOOKS) - collection of books: 48 laws of power, meditations, Atomic habits, and many more
 - [collaborative proofreading of scanned books](https://www.reddit.com/r/Annas_Archive/comments/1n36rw2/collaborative_proofreading_of_scanned_books/)
 - [hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo)
