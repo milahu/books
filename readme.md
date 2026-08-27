@@ -252,6 +252,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     [5-MeO-DIPT = Foxy](https://psychonautwiki.org/wiki/5-MeO-DIPT),
     [5-MeO-MiPT = Moxy](https://psychonautwiki.org/wiki/5-MeO-MiPT),
     ...)
+  - [Dario Nardi - Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth (2018) (Charles Johnston, Dario Nardi, Jason Gentile, Winter Garand)](https://github.com/milahu/facets-of-ayahuasca-2018)
 - [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
   - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
@@ -307,7 +308,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Tilman Knechtel - Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
-- [Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth. 2018. Charles Johnston. Dario Nardi. Jason Gentile. Winter Garand](https://github.com/milahu/facets-of-ayahuasca-2018)
 - [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
 - [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
