@@ -313,7 +313,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
 - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
-- [André Schmitt - Auf Stellensuche? (2020)](https://www.amazon.de/dp/B089FTMS7Q) - 14 eur
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
 - [Michael Nehls - Die Methusalem-Strategie (2011)](https://www.amazon.de/Die-Methusalem-Strategie-Vermeiden-hindert-gesund/dp/3981404831) ([Hörbuch](cas/btih/86751a4df74a3cdc97965d2381cdc2cf3f490cda.torrent))
 - Gerd Reuther
