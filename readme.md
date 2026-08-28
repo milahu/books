@@ -282,6 +282,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   (film: [Instinkt (1999)](cas/btih/2ece938b284deb4ab6c451fabe172645118d1bc0.torrent))
   - original: [Daniel Quinn - Ishmael (1992)](https://annas-archive.gl/md5/3b7f46b9f5b616a070c5f975b1a2c4ad)
     ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
+- [Johannes C. Hofmeister - Python für Dummies Alles-in-einem-Band (2025)](https://annas-archive.gl/md5/5d513b601fb83038dfc6d705a43e0595)
 
 <!-- </books> -->
 
