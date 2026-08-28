@@ -139,6 +139,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - original: [Gene Sharp - From Dictatorship to Democracy (1993)](https://annas-archive.gl/search?q=Gene+Sharp+-+From+Dictatorship+to+Democracy)
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
+    - [André Schmitt - Krisenvorsorge: Gewappnet für den Ernstfall (2025)](https://github.com/milahu/andre-schmitt-krisenvorsorge-2025)
     - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://github.com/milahu/andre-schmitt-widerstand-2025)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
