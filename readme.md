@@ -139,6 +139,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - original: [Gene Sharp - From Dictatorship to Democracy (1993)](https://annas-archive.gl/search?q=Gene+Sharp+-+From+Dictatorship+to+Democracy)
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
+    - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://github.com/milahu/andre-schmitt-widerstand-2025)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
   - [Norbert Häring - Der Wahrheitskomplex: Wie NGOs im Staatsauftrag unerwünschte Meinungen bekämpfen (2026)](https://libgen.bz/file.php?md5=ac780a0ab5d730bb1ce3b9310c0f02a0)
@@ -312,7 +313,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
 - [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
-- [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://www.amazon.de/dp/3710326133) - 24 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
 - [Michael Nehls - Die Methusalem-Strategie (2011)](https://www.amazon.de/Die-Methusalem-Strategie-Vermeiden-hindert-gesund/dp/3981404831) ([Hörbuch](cas/btih/86751a4df74a3cdc97965d2381cdc2cf3f490cda.torrent))
