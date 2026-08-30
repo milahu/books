@@ -231,6 +231,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   (todo: print version)
   - [Ivan Illich - Selbstbegrenzung. Eine Politische Kritik Der Technik (1973)](https://annas-archive.gl/md5/31a4befb9511371b09fa469068089ee9)
     (todo: print version)
+  - [Ivan Illich - Die Nemesis der Medizin: Von den Grenzen des Gesundheitswesens (1977)](https://github.com/milahu/ivan-illich-nemesis-der-medizin-1977)
   - todo: Ivan Illich - Vom Recht auf Gemeinheit
   - todo: Thierry Paquot - Ivan Illich: Denker und Rebell
 - [Wolf-Dieter Storl, Christian Rätsch, Claudia Müller-Ebeling - Hexenmedizin: Die Wiederentdeckung einer verbotenen Heilkunst - schamanische Tradition in Europa (2013)](https://annas-archive.gl/md5/fef32879f98bad3b92e616c73bb9d6bb)
