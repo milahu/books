@@ -320,6 +320,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
     He proposes a variety of alternatives to school including no school, the city or farm as school, apprenticeships, guided travel, and youth organizations.
     Reviewers complimented Goodman's style and noted his deliberate contrarianism, but were split on the feasibility of his proposals.
     Goodman's book was a precursor to the work of deschooling advocate Ivan Illich.
+- [George Bernard Shaw - Mensch und Übermensch: Eine Komödie und eine Philosophie (1903)](https://annas-archive.gl/md5/d3b69ebc2f6e7354b2e389cab2d7a61e)
+  - original: [George Bernard Shaw - Man and Superman: A Comedy and a Philosophy (1903)](https://annas-archive.gl/search?q=George+Bernard+Shaw+-+Man+and+Superman)
+  - todo: why?
 
 <!-- </books> -->
 
