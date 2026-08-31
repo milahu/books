@@ -287,6 +287,12 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - original: [Daniel Quinn - Ishmael (1992)](https://annas-archive.gl/md5/3b7f46b9f5b616a070c5f975b1a2c4ad)
     ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
 - [Johannes C. Hofmeister - Python für Dummies Alles-in-einem-Band (2025)](https://annas-archive.gl/md5/5d513b601fb83038dfc6d705a43e0595)
+- todo: Herbert Marcuse - Kritik der reinen Toleranz (1967)
+  - [Herbert Marcuse - Repressive Toleranz (1965)](https://www.marcuse.org/herbert/pubs/60spubs/65reprtoleranzdt.htm)
+    - "Wenn Toleranz in erster Linie dem Schutz und der Erhaltung einer repressiven Gesellschaft dient,
+      wenn sie dazu herhält, die Opposition zu neutralisieren und die Menschen gegen andere und bessere Lebensformen immun zu machen,
+      dann ist Toleranz pervertiert worden."
+  - original: [Herbert Marcuse - A Critique of Pure Tolerance (1965)](https://annas-archive.gl/search?q=Herbert+Marcuse+A+Critique+of+Pure+Tolerance)
 
 <!-- </books> -->
 
