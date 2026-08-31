@@ -312,6 +312,14 @@ german: bücher zum thema selbstorganisation (rote pillen)
     They did not understand the task before them.
     This undertaking, too, was more of an effort toward social uplift than actual education [mis-education].
     Their aim was to transform the Negroes, not to develop them."
+- todo übersetzen: [Paul Goodman - Compulsory Miseducation (1971)](https://annas-archive.gl/md5/e91bdd1c72c9761ce4747613444931c6)
+  - [wikipedia](https://en.wikipedia.org/wiki/Compulsory_Miseducation):
+    Goodman argues in Compulsory Miseducation against the necessity of schools for the socialization of youth and recommends their abolition.
+    He suggests that formal education lasts too long, teaches the wrong social class values, and increasingly damages students over time.
+    Goodman writes that the school reflects the misguided and insincere values of its society and thus school reformers should focus on these values before schools.
+    He proposes a variety of alternatives to school including no school, the city or farm as school, apprenticeships, guided travel, and youth organizations.
+    Reviewers complimented Goodman's style and noted his deliberate contrarianism, but were split on the feasibility of his proposals.
+    Goodman's book was a precursor to the work of deschooling advocate Ivan Illich.
 
 <!-- </books> -->
 
