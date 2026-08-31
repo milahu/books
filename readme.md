@@ -323,6 +323,62 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [George Bernard Shaw - Mensch und Übermensch: Eine Komödie und eine Philosophie (1903)](https://annas-archive.gl/md5/d3b69ebc2f6e7354b2e389cab2d7a61e)
   - original: [George Bernard Shaw - Man and Superman: A Comedy and a Philosophy (1903)](https://annas-archive.gl/search?q=George+Bernard+Shaw+-+Man+and+Superman)
   - todo: why?
+- todo übersetzen: [Carl J. Friedrich, Zbigniew K. Brzezinski - Totalitarian Dictatorship and Autocracy (1956)](https://annas-archive.gl/search?q=Carl+Friedrich+-+Totalitarian+Dictatorship+and+Autocracy)
+  - "To envisage what this technological advance means in terms of political control, one has only to think of the weapons field.
+    The Constitution of the United States guarantees to every citizen the right to bear arms (fourth amendment).
+    In the days of the Minutemen, this was a very important right,
+    and the freedom of the citizen was indeed symbolized by the gun over the hearth,
+    as it is in Switzerland to this day.
+    But who can "bear" such arms as a tank, a bomber, or a flamethrower, let alone an atom bomb?
+    The citizen as an individual, and indeed in larger groups,
+    is simply defenseless against the overwhelming technological superiority of those
+    who can centralize in their hands the means
+    with which to wield modern weapons
+    and thereby physically to coerce the mass of the citizenry.
+    **Similar observations apply to the telephone and telegraph, the press, radio and television, and so forth.** [censorship, sabotage] [also: postal services]
+    "Freedom" does not have the same potential it had a hundred and fifty years ago,
+    resting as it then did upon individual effort.
+    With few exceptions,
+    the trend of technological advance implies the trend toward greater and greater size of organization.
+    In the perspective of these four traits,
+    therefore, totalitarian societies appear to be merely exaggerations,
+    but nonetheless logical exaggerations, of the technological state of modern society."
+  - "The nearly complete **monopoly of mass communication** is generally agreed to be one of the most striking characteristics of totalitarian dictatorship.
+    It is also one of the features
+    which clearly differentiates it from earlier forms of autocratic rule, as we have noted.
+    Modern mass-communication media, the press, radio and television, and the film,
+    have been developing gradually and have, under competitive conditions, been looked upon as an **essential condition of large-scale democracy**.
+    For, without the possibility of communicating a great deal of information,
+    that is beyond the reach of the immediate community,
+    even the casual participation in policy determination,
+    which the citizen of the modern state is called upon to perform,
+    would be impossible.
+    **In totalitarian dictatorships, all these means of communication are centrally controlled by the government**,
+    regardless of whether they are also actually owned by the government, as in the Soviet Union,
+    or continue under "private" ownership, as in fascist countries.
+    **Hence they are not available for the expression of criticism or even adverse comment.**
+    This monopoly of the channels of mass communication
+    is reinforced by the **control of the means of private communication**,
+    **the postal services** and more especially the telephone and telegraph.
+    Wire tapping is a common practice, and there is of course no such thing as "privacy" of the mails.
+    In the interest of combatting counterrevolutionary plots, the government claims the right to open all mail.
+    What this means is that **only word-of-mouth communication remains for those who wish to carry opposition** beyond the point permitted by the government —
+    surely a rather inefficient method under the conditions of modern mass society.
+    All effective control over the content of communications is vested in the state,
+    which in fact means the top party functionaries,
+    who usually possess, as a result of previous revolutionary agitation, considerable know-how in the field of propaganda."
+- "It can be seen from these experiences, that the chances of success in overthrowing a totalitarian regime are slim indeed.
+    Many outsiders have been unjust in demanding, and unwise,
+    in expecting, the growth of resistance movements in the more developed totalitarian systems.
+    **It is extremely difficult to mount an effective opposition to a totalitarian dictatorship, precisely because it is totalitarian.**
+    No organizations are allowed, unless they bear the stamp of official approval, and are effectively coordinated with the ruling party.
+    Nor do the means exist by which an enterprising person might gather others for effective cooperation.
+    **The regime's total control of all the means of mass communication, as well as post, telephone, and telegraph**;
+    its complete monopoly of all weapons (except insofar as the military can manage to establish some measure of independence);
+    finally, its all-engulfing secret-police surveillance,
+    which utilizes every available contraption of modern technology, such as hidden recording devices,
+    as well as the older methods of agents-provocateurs and the like —
+    these and related features of totalitarianism make any attempt to organize large numbers of people for effective opposition well-nigh hopeless."
 
 <!-- </books> -->
 
