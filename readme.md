@@ -293,6 +293,25 @@ german: bücher zum thema selbstorganisation (rote pillen)
       wenn sie dazu herhält, die Opposition zu neutralisieren und die Menschen gegen andere und bessere Lebensformen immun zu machen,
       dann ist Toleranz pervertiert worden."
   - original: [Herbert Marcuse - A Critique of Pure Tolerance (1965)](https://annas-archive.gl/search?q=Herbert+Marcuse+A+Critique+of+Pure+Tolerance)
+- todo übersetzen: [Carter G. Woodson - The Mis-Education of the Negro (1933)](https://annas-archive.gl/search?q=Carter+G.+Woodson+-+The+Mis-Education+of+the+Negro)
+  - The Mis-Education of the Negro is one of the most important books on education ever written.
+    Carter G. Woodson shows us the weakness of Euro-centric based curriculums that fail to include African American history and culture.
+    This system mis-educates the African American student, failing to prepare them for success and to give them an adequate sense of who they are within the system that they must live.
+    Woodson provides many strong solutions to the problems he identifies.
+    A must-read for anyone working in the education field.
+  - "When you control a man's thinking, you do not have to worry about his actions."
+  - "When a Negro has finished his education in our schools, then he has been equipped to begin the life of an Americanized or Europeanized white man,
+    but before he steps from the threshold of his alma mater,
+    he is told by his teachers that
+    **he must go back to his own people from whom he has been estranged by a vision of ideals which in his disillusionment he will realize that he cannot attain.**"
+  - "How then did the education of the Negro take such a trend?
+    The people who maintained schools for the education of certain Negroes before the Civil War were certainly sincere;
+    and so were the missionary workers who went South to enlighten the freedmen
+    after the results of that conflict had given the Negroes a new status.
+    These earnest workers, however, had more enthusiasm than knowledge [useful idiots].
+    They did not understand the task before them.
+    This undertaking, too, was more of an effort toward social uplift than actual education [mis-education].
+    Their aim was to transform the Negroes, not to develop them."
 
 <!-- </books> -->
 
