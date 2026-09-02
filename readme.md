@@ -55,7 +55,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - todo: Stephen R. Covey - Die 7 Wege zur Effektivität – Kompaktausgabe: Prinzipien für ein glückliches und erfülltes Privatleben (2021)
     - [Stephen R. Covey - Die 7 Wege zu glücklichen Beziehungen (2021)](https://annas-archive.gl/md5/f5cc90c69a7fa0bd8bca160bf3bbeb70)
     - todo: Stephen R. Covey - Self-Leadership: Die 7 Wege zu einem selbstbestimmten und sinnerfüllten Leben
-    - todo: hörbuch: [Stephen R. Covey - Die 7 Wege zur Effektivität für Manager: Sich selbst managen, Mitarbeiter führen, Potentiale freisetzen (2009)](https://mygully.com/showthread.php?t=5378719#todo)
+    - [Stephen R. Covey - Die 7 Wege zur Effektivität für Manager: Sich selbst managen, Mitarbeiter führen, Potentiale freisetzen (2008) (Hörbuch)](cas/btih/f520069005b120a2d0f1165ced739ec86c774c06.torrent)
     - todo: Sean Covey - Die 7 Wege zur Effektivität für Jugendliche: So lebst du deine Ziele und Träume (2019)
       (todo: [hörbuch](https://mygully.com/showthread.php?t=5378667#todo))
       (todo: workbook)
@@ -65,11 +65,11 @@ german: bücher zum thema selbstorganisation (rote pillen)
       ([hörbuch](cas/btih/aeb25812d1ce7c8832d036ba4efb15bdba6e1af0.torrent))
     - todo: Sean Covey - Die 4 Disziplinen der Umsetzung
       ([hörbuch](cas/btih/5bb588e17224f9829a8c65bd70ed602a7ab5634e.torrent))
-  - todo: Peter C. Brown - Das merk ich mir! Erfolgreich lernen und für immer behalten mit der Make-it-stick-Methode - Für Schule, Studium und Beruf (2019)
+  - [Peter C. Brown - Das merk ich mir! Erfolgreich lernen und für immer behalten mit der Make-it-stick-Methode - Für Schule, Studium und Beruf (2019)](https://libgen.bz/file.php?md5=833a054378ecbd4950bd4c7789bed58f)
     - original: [Peter C. Brown - Make It Stick (2014)](https://annas-archive.gl/md5/7f242b2e422656abd1d404f777b10b97)
   - todo: Josh Kaufman - Mein persönlicher MBA: Alles was Sie über Betriebswirtschaft und Management wissen müssen
     - original: [Josh Kaufman - The Personal MBA: Master the Art of Business (2020)](https://annas-archive.gl/md5/7fe41c7a93c8e9d479b3b3af5184fc0a)
-  - todo: Peter Drucker - The Effective Executive: Effektivität und Handlungsfähigkeit in der Führungsrolle gewinnen (2014)
+  - [Peter F. Drucker - The Effective Executive: Effektivität und Handlungsfähigkeit in der Führungsrolle gewinnen (2014)](https://libgen.bz/file.php?md5=24b8fc6612fb63aaa22b4ef95f389aaf)
     (todo: hörbuch)
     - original: [Peter Drucker - The Effective Executive (2006)](https://annas-archive.gl/md5/fbfa8d9fbc31d9ef5e9854d5d1a2e2c1)
 - todo: Sarah Blaffer Hrdy - Mütter Und Andere: Wie Die Evolution Uns Zu Sozialen Wesen Gemacht Hat (2010)
@@ -99,7 +99,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([wikipedia](https://de.wikipedia.org/wiki/Homer_Lane))
     - [Elsie Bazeley - Homer Lane and the Little Commonwealth (1948)](https://annas-archive.gl/md5/b081265a56f8fd4edbc178b9d6d6ced7)
       ([wikipedia](https://en.wikipedia.org/wiki/Little_Commonwealth))
-- todo: Murray Bookchin - Die nächste Revolution: Libertärer Kommunalismus und die Zukunft der Linken (2020)
+- [Murray Bookchin - Die nächste Revolution: Libertärer Kommunalismus und die Zukunft der Linken (2016)](https://libgen.bz/file.php?md5=6722370fb08ae2d785df06cf41b134b4)
   - original: [Murray Bookchin - The Next Revolution: Popular Assemblies and the Promise of Direct Democracy (2015)](https://annas-archive.gl/md5/e775bec22fd6d2e1d1e67715e71205b3)
   - [Elinor Ostrom - Die Verfassung Der Allmende: Jenseits Von Staat Und Markt (1999)](https://annas-archive.gl/md5/e68711234560f7af59e560786ff526e0)
     (todo: better quality)
@@ -126,8 +126,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [Peter Gelderloos - Anarchy Works (2010)](https://annas-archive.gl/search?q=Peter+Gelderloos+-+Anarchy+Works)
   - todo: Leopold Kohr - Das Ende der Großen - Zurück zum menschlichen Maß (2002)
     - original: [Leopold Kohr - The Breakdown of Nations (1978)](https://annas-archive.gl/search?q=Leopold+Kohr+-+The+Breakdown+of+Nations)
-    - todo: Leopold Kohr - Why Small is Beautiful: The Size Interpretation of History (2015)
-  - todo: Ernst F. Schumacher - Small is beautiful: Die Rückkehr zum menschlichen Maß (2019)
+    - [Leopold Kohr - Why Small is Beautiful: The Size Interpretation of History (1989)](https://centerforneweconomics.org/publications/why-small-is-beautiful-the-size-interpretation-of-history/)
+  - [Ernst F. Schumacher - Small is beautiful: Die Rückkehr zum menschlichen Maß (2019)](https://libgen.bz/file.php?md5=63ed2f6c718f063675efa33e3f7c2a81)
     - original: [Ernst F. Schumacher - Small Is Beautiful (1973)](https://annas-archive.gl/search?q=Schumacher+-+Small+Is+Beautiful)
   - todo übersetzen: [Jane Jacobs - Systems of Survival: A Dialogue on the Moral Foundations of Commerce and Politics (1992)](https://annas-archive.gl/search?q=Jane+Jacobs+-+Systems+of+Survival)
     - [Jane Jacobs - Tod und Leben großer amerikanischer Städte (2015)](https://libgen.bz/file.php?md5=250fc75a610802d06960263c00a2e6ee)
@@ -287,6 +287,54 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - original: [Daniel Quinn - Ishmael (1992)](https://annas-archive.gl/md5/3b7f46b9f5b616a070c5f975b1a2c4ad)
     ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
 - [Johannes C. Hofmeister - Python für Dummies Alles-in-einem-Band (2025)](https://annas-archive.gl/md5/5d513b601fb83038dfc6d705a43e0595)
+  ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527718494_Beispieldateien.zip))
+  - [Daniel Lorig - Programmieren lernen für Dummies (2021)](https://annas-archive.gl/md5/bc2da5c25914afd356146c3ddc233b53)
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527718516.zip))
+  - todo: Thomas Rose - Programmieren lernen in 15 Minuten am Tag für Dummies
+    ([Übungsaufgaben](https://application.wiley-vch.de/books/sample/3527723587.zip))
+  - todo: Dan Gookin - C programmieren lernen für Dummies
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527713425_beispiele.zip))
+  - todo: Stephen R. Davis - C++ programmieren lernen für Dummies
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527713182.zip))
+  - todo: Chris Minnick et al - Coding: Alles-in-einem-Band für Dummies
+    ([Zusatzmaterial](https://application.wiley-vch.de/books/sample/3527721088_zusatzmaterialien.zip))
+  - todo: Chris Minnick - Coding mit KI für Dummies
+    ([Codebeispiele](https://application.wiley-vch.de/books/sample/3527722106_Codebeispiele.zip))
+  - todo: Lars M. Blöhdorn - Englisch für Dummies
+    ([Übungsmaterial](https://application.wiley-vch.de/books/sample/352772222X_Activity-Sheet.pdf))
+    ([Audiodateien](https://application.wiley-vch.de/books/sample/352772222X.zip))
+  - todo: Hildegard Rudolph - Englisch lernen in 15 Minuten am Tag für Dummies
+    ([Audiodateien](https://application.wiley-vch.de/books/sample/3527719822.zip))
+  - todo: Markus Dörr - Erfolgreiches Zeitmanagement für Dummies
+    ([Bonuskapitel](https://application.wiley-vch.de/books/sample/352771930X_bonus.pdf))
+  - todo: Mark Zegarelli - Grundlagen der Mathematik für Dummies
+    ([Bonuskapitel](https://application.wiley-vch.de/books/sample/3527719199_loesungen.pdf))
+    ([Lösungen](https://application.wiley-vch.de/books/sample/3527721975_loesungen.pdf))
+  - todo: E.-G. Haffner - Informatik für Dummies. Das Lehrbuch
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527710248.zip))
+    ([Zusatzmaterial](https://application.wiley-vch.de/books/sample/3527720243_Code.zip))
+  - todo: John Paul Mueller - Algorithmen für Dummies
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527713816.zip))
+  - todo: Mark C. Layton - Agiles Projektmanagement für Dummies
+    ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527714766.zip))
+  - todo: Hildegard Rudolph - Spanisch lernen in 15 Minuten am Tag für Dummies
+    ([Audiodateien](https://application.wiley-vch.de/books/sample/3527721592.zip))
+  - todo: Andrew D. Kaufman - Russisch für Dummies
+  - todo: Wendy Abraham - Chinesisch für Dummies
+  - todo: Wendy Abraham - Chinesisch Sprechen und Schreiben für Dummies
+  - todo: Rene Kratz - Biologie für Dummies
+  - todo: Gerhard Püschel - Biochemie für Mediziner für Dummies
+  - todo: Michael Brandl - Chemie für Dummies
+  - todo: John T. Moore - Chemie kompakt für Dummies
+  - todo: Eva Kalbheim - So leicht geht Progressive Muskelentspannung für Dummies
+  - [Tobias Amely - Investition und Finanzierung für Dummies (2023)](https://libgen.bz/file.php?md5=6b3b02d38a624f4a1f744e4e0a627edf)
+  - [Wilhelm Lorenz - Mikroökonomie für Dummies (2020)](https://libgen.bz/file.php?md5=5d9082dba824d43267241e438c88f01c)
+    ([Bonuskapitel](https://application.wiley-vch.de/books/sample/3527716467_bonuskapitel.zip))
+  - [Karolin Küntzel - Nachhaltig ökologisch leben für Dummies (2019)](https://libgen.bz/file.php?md5=d50e5761def0d0f95447f04659be6116)
+  - todo: Amine Bouchentouf - Arabisch für Dummies
+    ([Audiodateien](https://application.wiley-vch.de/books/sample/3527715290.zip))
+  - [Elif Dilmaç - Türkisch für Dummies (2020)](https://libgen.bz/file.php?md5=bd7c6f14c7fca62836d1724e6e12c681)
+    ([Zusatzmaterial](https://application.wiley-vch.de/books/sample/3527718028.zip))
 - todo: Herbert Marcuse - Kritik der reinen Toleranz (1967)
   - [Herbert Marcuse - Repressive Toleranz (1965)](https://www.marcuse.org/herbert/pubs/60spubs/65reprtoleranzdt.htm)
     - "Wenn Toleranz in erster Linie dem Schutz und der Erhaltung einer repressiven Gesellschaft dient,
@@ -321,8 +369,39 @@ german: bücher zum thema selbstorganisation (rote pillen)
     Reviewers complimented Goodman's style and noted his deliberate contrarianism, but were split on the feasibility of his proposals.
     Goodman's book was a precursor to the work of deschooling advocate Ivan Illich.
 - [George Bernard Shaw - Mensch und Übermensch: Eine Komödie und eine Philosophie (1903)](https://annas-archive.gl/md5/d3b69ebc2f6e7354b2e389cab2d7a61e)
-  - original: [George Bernard Shaw - Man and Superman: A Comedy and a Philosophy (1903)](https://annas-archive.gl/search?q=George+Bernard+Shaw+-+Man+and+Superman)
-  - todo: why?
+  (zensiert: es fehlt der Anhang "Handbuch für Revolutionäre")
+  - [George Bernard Shaw - Mann und Supermann: Ausgabe in neuer Übersetzung und Rechtschreibung (2025)](https://libgen.bz/file.php?md5=9285ed3a438fdae99988507fb3e29189)
+    (zensiert: es fehlt der Anhang "Handbuch für Revolutionäre")
+  - original: [George Bernard Shaw - Man and Superman: A Comedy and a Philosophy (1903)](https://annas-archive.gl/md5/8fcc1dd1336a0665b5446b41c8fb3a23)
+  - via: [Quote Origin: Beware of His False Knowledge: It Is More Dangerous Than Ignorance - Quote Investigator](https://quoteinvestigator.com/2019/05/05/ignorance/)
+  - "Ich habe nur aus meinem Don Juanden Verfasser eines politischen Pamphlets gemacht,
+    und Ihnen in einem Anhang den vollen Wortlaut seines Pamphlets beigefügt.
+    Sie finden es am Ende dieses Buches.
+    Leider ist es bei Romanschreibern allgemein üblich,
+    ihren Helden als einen Mann von außerordentlichem Genie anzukündigen,
+    und dann seine Werke gänzlich der Phantasie seiner Leser zu überlassen;
+    so dass Sie am Ende des Buches sich wehmütig sagen werden,
+    dass Sie, wenn der Autor nicht am Anfang es feierlich versichert hätte,
+    Sie dem Herrn kaum ein gewöhnliches Maß an Vernunft bescheinigt hätten.
+    Mir können Sie diesen beklagenswerten Mangel, diese schwache Ausrede nicht vorwerfen.
+    Ich erzähle Ihnen nicht nur, dass mein Held ein **Handbuch für Revolutionäre** geschrieben hat:
+    ich biete Ihnen das Handbuch in vollem Wortlaut zu Ihrer Erbauung, **falls Sie sich die Mühe machen wollen, es zu lesen**."
+      - "I have only made my Don Juan a political pamphleteer,
+        and given you his pamphlet in full by way of appendix.
+        You will find it at the end of the book.
+        I am sorry to say that it is a common practice with romancers,
+        to announce their hero as a man of extraordinary genius,
+        and to leave his works entirely to the reader's imagination;
+        so that at the end of the book, you whisper to yourself ruefully,
+        that but for the author's solemn preliminary assurance,
+        you should hardly have given the gentleman credit for ordinary good sense.
+        You cannot accuse me of this pitiable barrenness, this feeble evasion.
+        I not only tell you that my hero wrote a **revolutionist's handbook**:
+        I give you the handbook at full length for your edification, **if you care to read it**."
+  - todo: wo ist das "Handbuch für Revolutionäre" von George Bernard Shaw?!
+    - todo: where is the "revolutionist's handbook" by George Bernard Shaw?!
+  - [George Bernard Shaw - Revolutionist's Handbook (1903)](https://annas-archive.gl/md5/826d05e30e92426c0698e21a5fff7f49#page-227))
+  - The line appeared in a fictional pamphlet written by a character in Shaw's play "Man and Superman." https://www.snopes.com/fact-check/george-shaw-false-knowledge/
 - todo übersetzen: [Carl J. Friedrich, Zbigniew K. Brzezinski - Totalitarian Dictatorship and Autocracy (1956)](https://annas-archive.gl/search?q=Carl+Friedrich+-+Totalitarian+Dictatorship+and+Autocracy)
   - "To envisage what this technological advance means in terms of political control, one has only to think of the weapons field.
     The Constitution of the United States guarantees to every citizen the right to bear arms (fourth amendment).
