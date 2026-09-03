@@ -139,12 +139,17 @@ german: bücher zum thema selbstorganisation (rote pillen)
     (todo: [hörbuch](https://mygully.com/showthread.php?t=5368895#todo))
     - original: [Gene Sharp - From Dictatorship to Democracy (1993)](https://annas-archive.gl/search?q=Gene+Sharp+-+From+Dictatorship+to+Democracy)
 - [David Rogers Webb - Die große Enteignung (2024)](https://github.com/milahu/enteignung)
+  - original: [David Rogers Webb - The Great Taking (2023)](https://thegreattaking.com/read-online-or-download)
+  - [James Dale Davidson - Das souveräne Individuum: Der Übergang zum Informationszeitalter (2024)](https://annas-archive.gl/md5/48c61c3fba6ac99dbd14febaadf34547)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
     - [André Schmitt - Krisenvorsorge: Gewappnet für den Ernstfall (2025)](https://github.com/milahu/andre-schmitt-krisenvorsorge-2025)
     - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://github.com/milahu/andre-schmitt-widerstand-2025)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
+  - [Antony C. Sutton - Der Krieg gegen das Gold (2024)](https://libgen.bz/file.php?md5=c9d561a0d0adc83234a47ec8560e7cb2)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
   - [Norbert Häring - Der Wahrheitskomplex: Wie NGOs im Staatsauftrag unerwünschte Meinungen bekämpfen (2026)](https://libgen.bz/file.php?md5=ac780a0ab5d730bb1ce3b9310c0f02a0)
+  - [Werner Rügemer - BlackRock Germany (2025)](https://annas-archive.gl/search?q=Werner+Rügemer+-+BlackRock+Germany)
+  - [Reinhard Deutsch - Das Silberkomplott (2006)](https://annas-archive.gl/md5/cc5fce95f0fc0b493f5f16475567dd14)
   - [Fritz Vahrenholt - Unerwünschte Wahrheiten (2021)](https://annas-archive.gl/md5/7a1631dc37d3bc0b3bec0107043ffab7)
   - [Fritz Vahrenholt - Die große Energiekrise ... und wie wir sie bewältigen können (2023)](https://libgen.bz/file.php?md5=b8d59c8ecb898b7fbb9d7f4f0b3380d2)
   - [Fritz Vahrenholt - Unanfechtbar? Die Entscheidung des Bundesverassungsgerichts zum Klimaschutz im Faktencheck (2021)](https://libgen.bz/file.php?md5=aafb523c20b880020804b9dd81757b48)
@@ -158,6 +163,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Liebscher & Bracht - Deutschland hat Rücken: wie es so weit kommen konnte, warum jetzt Schluss damit ist, was Sie selbst dagegen tun können (2019)](https://annas-archive.gl/md5/39e4c24b82b981ab3af986b209b7bc37)
   - [Liebscher & Bracht - Die Arthrose-Lüge - Warum die meisten Menschen völlig umsonst leiden, und was Sie dagegen tun können (2023)](https://annas-archive.gl/md5/f60baaed812bda2c8ecaa510962bb22e) ([Hörbuch](cas/btih/58b81bed14ec47636a55cc20529a5d833bfa1d75.torrent))
   - [Liebscher & Bracht - Kopfschmerzen selbst behandeln: Migräne, Spannungskopfschmerzen, Cluster-Kopfschmerzen (2023)](https://libgen.bz/file.php?md5=f11d23b3d294f7ddb256ba1842a223ad)
+  - [Inka Jochum - Das Nacken- und Schulterheilbuch](https://annas-archive.gl/search?q=Inka+Jochum+-+Das+Nacken-+und+Schulterheilbuch)
 - [Michael Nehls - Das indoktrinierte Gehirn: Wie wir den globalen Angriff auf unsere mentale Freiheit erfolgreich abwehren (2023)](https://annas-archive.gl/md5/9f9236fbc9adf6cf136ef493dd1031fe) ([Hörbuch](cas/btih/8aaf9b585bdf4c6e59d886662246536a13573c4e.torrent))
   - [Michael Nehls - Das Lithium-Komplott (2025)](https://github.com/milahu/michael-nehls-lithium-komplott-2025) ([Hörbuch](cas/btih/0f60c61c60ecb312699e15abd2f6a64397db3085.torrent))
   - [Michael Nehls - Die Algenöl-Revolution (2023)](https://annas-archive.gl/md5/f656bc91b3eecc1fe9bd1dd589bba409) ([Hörbuch](cas/btih/f86bf75559fdbb2f05fc95f50d72059f3a9200c8.torrent))
@@ -215,6 +221,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Heiko Schöning - Game Over II: Angriff aufs Mikrobiom (2024)](https://annas-archive.gl/search?q=Heiko+Schöning+Game+Over+Angriff)
   - [Jacob Nordangård - Die digitale Weltkontrolle (2026)](https://github.com/milahu/jacob-nordangard-digitale-weltkontrolle-2026)
 - [Hannes Hofbauer - Zensur: Publikationsverbote im Spiegel der Geschichte - vom kirchlichen Index zur YouTube-Löschung (2022)](https://annas-archive.gl/md5/066feae2adbfbe51eb3670a0936ed2d7)
+  - [Michael Meyen - Cancel Culture: Wie Propaganda und Zensur Demokratie und Gesellschaft zerstören (2024)](https://annas-archive.gl/md5/82951652769dec749298ce382fd9a1d8)
 - [Fabio De Masi - Geld, Macht, Verbrechen: Von Finanzskandalen, Wirtschaftskriminellen und Geheimagenten (2026)](https://libgen.bz/file.php?md5=411d96a698f274563a03e578b4cd57b7) ([Hörbuch](cas/btih/f20d22bde0d13e7955207f8f60564149f7c857b6.torrent)) (via [Norbert Häring](https://norberthaering.de/buchtipps/de-masi-geld-macht-verbrechen/)) (thema: Wirecard, CumCum, CumEx)
   - [Wolfgang Hetzer - Finanzmafia: Wieso Banker und Banditen ohne Strafen davonkommen (2012)](https://annas-archive.gl/md5/a324af3250acd009519fab7891954d39)
 - [Thomas Szasz - Grausames Mitleid. Über die Aussonderung unerwünschter Menschen (2016)](https://annas-archive.gl/md5/87517fc5c9ab454c411b334679ca84f6)
@@ -256,7 +263,20 @@ german: bücher zum thema selbstorganisation (rote pillen)
     [5-MeO-DIPT = Foxy](https://psychonautwiki.org/wiki/5-MeO-DIPT),
     [5-MeO-MiPT = Moxy](https://psychonautwiki.org/wiki/5-MeO-MiPT),
     ...)
+- [Dario Nardi - Neuroscience of Personality: Brain-Savvy Insights for All Types of People](https://annas-archive.gl/md5/be9e04d954aab875e2e9194c378f4c66)
+  - https://annas-archive.gl/md5/52ebb09a0f6406107e41dfe84349b19e
+  - [Dario Nardi, Linda V. Berens - The Sixteen personality types: Descriptions for self-discovery](https://annas-archive.gl/md5/b41fd87a169cc110cc220eba94c9859d)
+    - https://annas-archive.gl/md5/e88b855a1fca41dd4c49a18cfbc97854
+  - [Dario Nardi - Jung on Yoga: Insights and Activities to Awaken with the Chakras](https://annas-archive.gl/md5/91227bbca02e2daf114d77c735ab2802)
+    - https://annas-archive.gl/md5/4cf27b5571bb5bee4793d56459c22362
+  - [Dario Nardi, Linda V. Berens - Understanding yourself and others: An introduction to the personality type code (2004)](https://annas-archive.gl/md5/6c95c6ca4735004828150756b0073700)
+  - [Dario Nardi - The Magic Diamond: Jung's 8 Paths for Self-Coaching](https://annas-archive.gl/md5/dd3c0b2b4f244f52169a0f28ccc8e161)
+    - https://annas-archive.gl/md5/ebe81494d36d3dd210c4c43235a1723c
+  - [Dario Nardi - Decode Your Personality: Go Beyond Myers-Briggs With 64 Brain-Based Subtypes](https://annas-archive.gl/md5/5b8fa901948bd7284a3eb699a0b91ef1)
   - [Dario Nardi - Facets of Ayahuasca: A Guide to Journeys of Healing, Insight, and Growth (2018) (Charles Johnston, Dario Nardi, Jason Gentile, Winter Garand)](https://github.com/milahu/facets-of-ayahuasca-2018)
+  - [Dario Nardi - Teaching Tales for the 16 Personality Types](https://annas-archive.gl/md5/d0954cc8b4a8f160b2aea5cd887f60a1)
+  - [Dario Nardi et al - Quick guide to the 16 personality types in organizations: Understanding personality differences in the workplace (2002)](https://annas-archive.gl/md5/21f21f21ae0e620fbe81a4330dc1b1bf)
+    - https://annas-archive.gl/md5/8db4d6d33a54ec1eb9679b8fad56116a
 - [Florence Scovel Shinn - Die vollständige Sammlung: Das Spiel des Lebens und wie man es spielt. Der magische Pfad der Intuition. Dein Wort ist dein Zauberstab. Die geheime Tür zum Erfolg (2022)](https://libgen.bz/file.php?md5=1e3422170e233d65e75eddbc36538e86)
   - [Florence Scovel Shinn - Das Spiel des Lebens und seine Regeln (2024) (Neu übersetzt Verlag)](https://libgen.bz/file.php?md5=23d5abf296e558c2af7aa680b10c65df) ([Hörbuch](cas/btih/e4493b5b373562968eb238f9ec3bcf133d849c6e.torrent))
   - Florence Scovel Shinn, James Allen, Ralph Waldo Emerson - New Thought. Das große Hörbuch des Positiven Denkens (2023) ([Hörbuch](cas/btih/9f958661fc2b6d89fbeb392bb3fe8ca03056a113.torrent))
@@ -458,6 +478,108 @@ german: bücher zum thema selbstorganisation (rote pillen)
     which utilizes every available contraption of modern technology, such as hidden recording devices,
     as well as the older methods of agents-provocateurs and the like —
     these and related features of totalitarianism make any attempt to organize large numbers of people for effective opposition well-nigh hopeless."
+- [Caspar von Schrenck–Notzing - Charakterwäsche: Die Re-education der Deutschen und ihre bleibenden Auswirkungen (1965)](https://annas-archive.gl/md5/a2443f9c6941c06cbcaf1ba1c97a3655)
+  (US Empire) (Gehirnwäsche) (Umerziehung) (Propaganda) (Mind Control) (Soft Power) (Normopathie) (Sklavenmoral)
+- [Rolf Peter Sieferle - Finis Germania (2017)](https://annas-archive.gl/search?q=Rolf+Peter+Sieferle+Finis+Germania)
+  - [Rolf Peter Sieferle - Das Migrationsproblem (2017)](https://annas-archive.gl/search?q=Rolf+Peter+Sieferle+-+Das+Migrationsproblem)
+  - [Rolf Peter Sieferle - Rückblick auf die Natur: Eine Geschichte des Menschen und seiner Umwelt (1997)](https://annas-archive.gl/md5/4f449b050ec4a01736fc134f9ccb2018)
+  - [Rolf Peter Sieferle - Das Ende der Fläche: Zum gesellschaftlichen Stoffwechsel der Industrialisierung (2006)](https://annas-archive.gl/md5/48b13a33f7836efc83042fcadca5bf3d)
+  - [Rolf Peter Sieferle -  Selbstverständnisse der Moderne (1991)](https://annas-archive.gl/md5/1c319dfc1c0ef870bac68516b58f3c1c)0
+  - todo: Rolf Peter Sieferle - Die Krise der menschlichen Natur. Zur Geschichte eines Konzepts (1989)
+  - todo: Rolf Peter Sieferle - Fortschrittsfeinde? Opposition gegen Technik und Industrie von der Romantik bis zur Gegenwart. Die Sozialverträglichkeit von Energiesystemen (1984)
+  - todo: Rolf Peter Sieferle - Der unterirdische Wald. Energiekrise und industrielle Revolution (1982)
+  - todo: Rolf Peter Sieferle - Bevölkerungswachstum und Naturhaushalt. Studien zur Naturtheorie der klassischen Ökonomie (1990)
+  - todo: Rolf Peter Sieferle - Die Konservative Revolution. Fünf biographische Skizzen (1995)
+- [Marcus Klöckner - Möge die gesamte Republik mit dem Finger auf sie zeigen (2022)](https://annas-archive.gl/search?q=Möge+die+gesamte+Republik+mit+dem+Finger+auf+sie+zeigen)
+- [Michael Grandt - Junge globale Führerin: Annalena Baerbock (2021)](https://annas-archive.gl/md5/29581f77ab5fa0567440f5554e6560b4)
+  - [Michael Grandt - Adolf Hitler - Geboren in Versaille? (2013)](https://annas-archive.gl/md5/fe7a80f2266e443ab58743644cb5e0bf)
+  - [Michael Grandt - Der kommende Bankencrash und wie Sie sich davor schützen können (2024)](https://annas-archive.gl/md5/18b9c601d7be0482c423279b8bcb702d)
+  - [Michael Grandt - Deutschland und der Zwei-plus-Vier-Vertrag: Hintergründe - Wortbrüche - Lügen (2024)](https://annas-archive.gl/md5/bfc7f86f9841d2681c50aa774734a4be)
+  - todo: Michael Grandt - Adolf Hitler - eine Korrektur: band 1 bis 6
+  - todo: Michael Grandt - Ohne SPD wäre Hitler nicht an die Macht gekommen
+  - todo: Michael Grandt - Deutschland muss vernichtet werden
+- todo: Michael Brückner - Achtung Finanzdiktatur (2025)
+- [Daniel Gräber - Akte Atomausstieg (2025)](https://annas-archive.gl/md5/e4d93124133f0802944fc6c608856f7e)
+- [Stephan Berndt - Alois Irlmaier (2009)](https://annas-archive.gl/search?q=Stephan+Berndt+-+Alois+Irlmaier)
+- [Klaus-Rüdiger Mai - Angela Merkel - Zwischen Legende und Wirklichkeit - Eine kritische Biografie (2024)](https://annas-archive.gl/md5/c828f2ce662fa4567a23d832c47e43c9)
+- todo: Gemeinschaft für Frieden und Gerechtigkeit - Angst und Lüge
+- [Alain Felkel - Aufstand: die Deutschen als rebellisches Volk (2009)](https://annas-archive.gl/md5/20e1c9e02fa4ac01f358512191ca0335)
+- todo: Peter Holzer - Aufstand der Leistungsträger (2025)
+- todo: Joseph P. Farrell - Babylons Bankster
+- [Wolf-Dieter Storl - Bekannte und vergessene Gemüse](https://annas-archive.gl/search?q=Wolf-Dieter+Storl+-+Bekannte+und+vergessene+Gemüse)
+  - [Wolf-Dieter Storl - Die Unkräuter in meinem Garten](https://annas-archive.gl/search?q=Die+Unkräuter+in+meinem+Garten)
+- [Peter Orzechowski - Besatzungszone: Wie und warum die USA noch immer Deutschland kontrollieren (2019)](https://annas-archive.gl/search?q=Peter+Orzechowski+-+Besatzungszone)
+- [Bruno Bandulet - Beuteland: Die systematische Plünderung Deutschlands seit 1945 (2016)](https://annas-archive.gl/search?q=Bruno+Bandulet+-+Beuteland)
+- [Neville Goddard - Bewusstsein ist die einzige Realität](https://annas-archive.gl/search?q=Neville+Goddard+Bewusstsein+ist+die+einzige+Realität) (esoterik-schrott?) (ähnlich wie Eckhart Tolle?)
+- todo: Ben Goldfarb - Biber: Das verblüffende, geheime Leben der fleißigen Nagetiere und warum wir sie brauchen
+
+- [Michael Brückner - Die Akte Wikipedia: Falsche Informationen und Propaganda in der Online-Enzyklopädie (2017)](https://annas-archive.gl/search?q=Michael+Brückner+-+Die+Akte+Wikipedia)
+
+- todo: Infektionen verstehen - statt fürchten
+- todo: Ist eine Erkältung ansteckend
+- todo: Steuerratgeber 2026 für schlaue Rentner
+- todo: Steueroase Internet
+- todo: Schamanisches Wissen für eine neue Zeit
+- todo: Der Garten der Druiden
+- todo: Kopfküche
+- todo: Lehr- und Lernpräferenzen kennen und nutzen
+- todo: Persönlichkeitstypen
+- todo: Unterschiedliche Persönlichkeitstypen im Umgang mit Stressoren
+- todo: Besser umgehen mit Persönlichkeitstypen
+- todo: Persönlichkeitspsychologie, Intelligenz und Persönlichkeitstypologie. Ein Überblick
+- todo: Zwischenmenschliche Beziehungen verstehen: Menschen lesen lernen und verstehen
+- todo: Warum Kinder so verschieden sind
+- todo: Beziehungen im Spiegel der Aura
+- todo: Beziehungen in der Sozialen Arbeit lebendig gestalten
+- todo: Interne Kommunikation
+- todo: Lehrer-Schüler-Beziehungen konstruktiv gestalten
+- todo: Psychologie, Soziologie und Pädagogik
+- todo: Soziologie der Persönlichkeit
+- Gerhard Wisnewski
+  - [Gerhard Wisnewski - Das Titanic-Attentat: Die wahren Hintergründe der Schiffskatastrophe (2012)](https://annas-archive.gl/search?q=Gerhard+Wisnewski+-+Das+Titanic-Attentat)
+  - [Gernhard Wisnewski - verheimlicht vertuscht vergessen 2026: Was 2025 nicht in der Zeitung stand](https://annas-archive.gl/search?q=verheimlicht+-+vertuscht+-+vergessen+2026)
+- [Helmut Sterz - Die Impf-Mafia (2026)](https://annas-archive.gl/search?q=Die+Impf-Mafia)
+- todo: NGOs - Das größte Geheimdienstprojekt aller Zeiten!- 2 DVDs, Laufzeit ca. 216 Minuten
+- todo: Migration ohne Grenzen- DVD, ca. 90 Min.
+- todo: Die grüne Energiekrise- DVD, ca. 100 Min.
+- [William Engdahl - Geheimakte NGOs](https://annas-archive.gl/search?q=William+Engdahl+Geheimakte+NGOs)
+- todo: Malcolm Gladwell - Blink: Die Macht des unbewussten Denkens (2024)
+- [Dave Canterbury - Bushcraft - Erste Hilfe - Notfallversorgung in der Wildnis - schnell und einfach (2021)](https://annas-archive.gl/md5/4f7591bee2c24ac3e3b38a6694bdba57)
+- [Lothar Hirneise - Chemotherapie heilt Krebs und die Erde ist eine Scheibe. Enzyklopädie der unkonventionellen Krebstherapien (2002)](https://annas-archive.gl/search?q=Chemotherapie+heilt+Krebs+und+die+Erde+ist+eine+Scheibe&check=1)
+- [Thomas Chrobok - Codex Humanus - Band 1-4](https://annas-archive.gl/search?q=Codex+Humanus)
+- todo: Jack Schafer - Das Geheimnis sympathischer Menschen: Ein FBI-Agent enthüllt, wie man Vertrauen gewinnt und Beziehungen aufbaut (Körpersprache) (2025)
+- [Alex Jones - Das große Erwachen: Wie wir die Globalisten besiegen und die nächste große Renaissance einläuten (2024)](https://annas-archive.gl/md5/da1aebb678a81a4b08478faa4c3b5aec)
+- [Johann C. Köber - Das große Handbuch der Stiftungen: Wie Sie mit Stiftungen Ihr Vermögen gestalten und Ihr Erbe sichern](https://annas-archive.gl/search?q=Köber+-+Handbuch+der+Stiftungen)
+- todo: Paul Stamets - Das große Netz: Wie Pilze die Welt retten können
+- todo: Berndt Rieger - Das Heilwissen der Mönche und Kräuterhexen: Rezepte und Anwendungen traditioneller Naturheilkunde
+- todo: David Ray Griffin - Das Neue Pearl Harbor - Band 1: Beunruhigende Fragen zur Bush-Regierung und zum 11. September
+- [David Talbot - Das Schachbrett des Teufels: Die CIA, Allen Dulles und der Aufstieg Amerikas heimlicher Regierung (2016)](https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Das+Schachbrett+des+Teufels)
+- [Jim Macgregor - Der Krieg, der nicht enden durfte: Wie das Anglo-Amerikanische Establishment den Ersten Weltkrieg absichtlich in die Länge zog (2019)](https://annas-archive.gl/md5/d96ed0a3f58351290dad179b6283c22a)
+- todo: Hans Jörg Schmidt - Der Klima-Lockdown: Was ist Realität? Was ist Manipulation?
+- [Bruno Bandulet - Dexit: Warum der Ausstieg Deutschlands aus dem Euro zwar schwierig, aber dennoch machbar und notwendig ist (2016)](https://annas-archive.gl/search?q=Bruno+Bandulet+Dexit)
+- [Greg Steinmetz - Der reichste Mann der Weltgeschichte: Leben und Werk des Jakob Fugger](https://annas-archive.gl/search?q=Greg+Steinmetz+-+Der+reichste+Mann+der+Weltgeschichte)
+- [Ronen Bergman - Der Schattenkrieg: Israel und die geheimen Tötungskommandos des Mossad (2018)](https://annas-archive.gl/search?q=Ronen+Bergman+-+Der+Schattenkrieg)
+- [Igor R. Schafarewitsch - Der Todestrieb in der Geschichte: Erscheinungsformen des Sozialismus (2016)](https://annas-archive.gl/search?q=Igor+R.+Schafarewitsch+-+Der+Todestrieb+in+der+Geschichte)
+- todo: Anselm Grün - Der Umgang mit dem Bösen
+- [Friedrich Hayek - Der Weg zur Knechtschaft](https://annas-archive.gl/search?q=Friedrich+Hayek+-+Der+Weg+zur+Knechtschaft)
+- [Emmanuel Todd - Der Westen im Niedergang: Ökonomie, Kultur und Religion im freien Fall (2024)](https://annas-archive.gl/search?q=Emmanuel+Todd+-+Der+Westen+im+Niedergang)
+- [Thorsten Polleit - Des Teufels Geld: Der faustische Fiatgeld-Pakt – wie wir ihn kündigen und zu gutem Geld zurückkehren (2023)](https://annas-archive.gl/md5/3c0596a02b39da6ad02593e911c195e2)
+- todo: Karlheinz Weißmann - Deutsche Geschichte für junge Leser
+- todo: Thilo Sarrazin
+  - [Manuel Ostermann - Deutschland ist nicht mehr sicher: Wie unsere Polizei zwischen Politik und Straße aufgerieben wird](https://annas-archive.gl/search?q=Manuel+Ostermann+-+Deutschland+ist+nicht+mehr+sicher)
+- todo: David Münnich - Das System der 5 Biologischen Naturgesetze – Band 1
+- [Thor Kunkel - Das Wörterbuch der Lügenpresse (2020)](https://annas-archive.gl/search?q=Thor+Kunkel+-+Das+Wörterbuch+der+Lügenpresse)
+- [Robert F. Kennedy - Das wahre Gesicht des Dr. Fauci: Bill Gates, die Pharmaindustrie und der globale Krieg gegen Demokratie und Gesundheit (2022)](https://annas-archive.gl/md5/6d6e130d71324b87b89b39a156df2c8e)
+- todo: Christian Pantle - Der Bauernkrieg
+- [Thomas Cowan - Der Ansteckungsmythos: Warum Viren nicht die Ursache von Krankheiten sind (2021)](https://annas-archive.gl/search?q=Thomas+Cowan+-+Der+Ansteckungsmythos)
+- [Stefan Schubert - Der geheime Krieg gegen Deutschland (2024)](https://annas-archive.gl/search?q=Stefan+Schubert+-+Der+geheime+Krieg+gegen+Deutschland)
+  - todo: Stefan Schubert - Der Bürgerkrieg kommt
+- todo: David Wengenroth - Der Fall Olaf Latzel
+- [Bradley Nelson - Der Emotionscode: Wie Sie Ihre eingeschlossenen Emotionen lösen für mehr Gesundheit und Wohlbefinden](https://annas-archive.gl/search?q=Bradley+Nelson+-+Der+Emotionscode)
+- [John Coleman - Der Club of Rome: Die größte "Denkfabrik" der neuen Weltordnung](https://annas-archive.gl/search?q=John+Coleman+-+Der+Club+Of+Rome)
+  - [John Coleman - Die Hierarchie der Verschwörer: das Komitee der 300](https://annas-archive.gl/search?  q=John+Coleman+-+Die+Hierarchie+der+Verschwörer)
+  - [John Coleman - Das Tavistock Institut: Auftrag: Manipulation](https://annas-archive.gl/search?q=John+Coleman+-+Das+Tavistock+Institut)
+- [Michael Meyen - Der dressierte Nachwuchs. Was ist mit der Jugend los? (2024)](https://annas-archive.gl/md5/9636f6110a5f71bff18a6a2b38a20d4a?&check=1)
 
 <!-- </books> -->
 
@@ -467,6 +589,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
 
 - Manova Gegendruck 1-5 (die bücher hab ich schon, ich bin nur zu faul zum scannen...)
 - übersetzen: [Ben Davidson - The Sun, The Earth and The Disaster Cycle (2025)](https://libgen.bz/edition.php?id=208647364) - Polsprung und Sintflut alle 6000 Jahre
+- übersetzen: [John Stockwell - In Search of Enemies: A CIA Story (1978)](https://annas-archive.gl/search?q=John+Stockwell+-+In+Search+of+Enemies)
+  - related: John Coleman, Gary Webb, Edward Snowden
 - übersetzen: [Endgame, Volume 2: Resistance. By Derrick Jensen](https://annas-archive.gl/md5/c5d433da58649d84397425bce662f0ee)
 - übersetzen: [Strangely Like War: The Global Assault on Forests. by Derrick Jensen, George Draffan (2003)](https://libgen.bz/file.php?md5=45d4eda426e56fc47305f1bc26901c88)
 - übersetzen: [The Wolf Tamers: How They Made the Strong Weak. by David Sinclair](https://libgen.bz/file.php?md5=2ddcee5ec9be5cf52c9b2d3f39d69b09)
@@ -481,10 +605,84 @@ german: bücher zum thema selbstorganisation (rote pillen)
   ([four generations: Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times.](https://www.goodreads.com/quotes/8751435-hard-times-create-strong-men-strong-men-create-good-times))
 - übersetzen: [Michael E. Gerber - The E-myth revisited: Why most small businesses don't work and what to do about it (1995)](https://annas-archive.gl/md5/7587ab92b0580d3370ffa44f5c63a2ed)
   ([epub](https://annas-archive.gl/md5/2750032ea03bdf194facdea408c63684))
+- [Ivan Illich](https://de.wikipedia.org/wiki/Ivan_Illich)
+  - Ivan Illich - Die Nemesis der Medizin. Die Kritik der Medikalisierung des Lebens (2007)
+    - aka: Ivan Illich - Die Nemesis der Medizin. Von den Grenzen des Gesundheitswesens (1977)
+    - aka: Ivan Illich - Die Enteignung der Gesundheit – Medical Nemesis (1975)
+- [Matt Groening - Life in Hell (1977-2012)](https://en.wikipedia.org/wiki/Life_in_Hell#Books)
+  (Matt Groening - Leben in der Hölle)
+  - Matt Groening - Love Is Hell (1984)
+    - Matt Groening - Liebe ist die Hölle
+  - Matt Groening - Work Is Hell (1986)
+    - Matt Groening - Arbeit ist die Hölle
+  - [Matt Groening - School Is Hell (1987)](https://annas-archive.gl/md5/99fbd1d4d91e5302ae70f1fa9050539c)
+    - Matt Groening - Schule ist die Hölle (1991)
+  - Matt Groening - Box Full of Hell (1988)
+  - Matt Groening - Childhood Is Hell (1988)
+  - Matt Groening - Greetings from Hell (1989)
+  - Matt Groening - Akbar and Jeff's Guide to Life (1989)
+  - Matt Groening - The Big Book of Hell (1990)
+  - Matt Groening - With Love From Hell (1991)
+  - Matt Groening - How to Go to Hell (1991)
+  - Matt Groening - The Road to Hell (1992)
+  - Matt Groening - Binky's Guide to Love (1994)
+  - Matt Groening - Love Is Hell: Special Ultra Jumbo 10th Anniversary Edition (1994)
+  - Matt Groening - The Huge Book of Hell (1997)
+  - Matt Groening - Will and Abe's Guide to the Universe (2007)
+- (via: [Frank Wright](https://www.frankwrighter.com/p/my-reading-list))
+  (via: [Hopf & Kettner](https://www.youtube.com/watch?v=ACknPyJqoGA#title=Massenmigration%20als%20Hybridwaffe:%20Frank%20Wright%20enth%C3%BCllt%20den%20Plan%20dahinter%20Hopf%20&%20Kettner%2051))
+  - übersetzen: [Etienne Gilson - The Church Speaks to the Modern World: The Social Teachings of Leo XIII (1954)](https://annas-archive.gl/md5/d90bbeba9b9d4c972dc0c4bbf72042ba)
+    ([pdf2](https://annas-archive.gl/md5/790b533b6ef99b142781b948cf134c53))
+  - übersetzen: [John Gray - Seven Types of Atheism (2018)](https://annas-archive.gl/md5/b6d3d565f868000c8ebaca65e042993a)
+    ([epub](https://annas-archive.gl/md5/a1c2e93eec995f9866a1a2e47c77c098))
+  - übersetzen: [A.J.P. Taylor - Origins of the Second World War (1961)](https://annas-archive.gl/search?q=Taylor+Origins+of+the+Second+World+War)
+  - [Epiktet - Encheiridion (180) (Handbuch der Moral) (Handbüchlein der Moral)](https://annas-archive.gl/search?q=Epiktet+Moral)
+    ([wikipedia](https://de.wikipedia.org/wiki/Enchiridion_des_Epiktet#Übersetzungen_und_Kommentare))
+  - [Mark Aurel - Selbstbetrachtungen (180) (Meditationen)](https://annas-archive.gl/search?q=Mark+Aurel+Selbstbetrachtungen)
+    ([wikipedia](https://de.wikipedia.org/wiki/Selbstbetrachtungen#Textausgaben,_Übersetzungen,_Kommentare))
+  - Ezra Pound - ABC des Lesens (1934)
+    (Ezra Pound - ABC of Reading (1934))
+  - [Kenneth Clark - Glorie des Abendlandes: Von den Gedanken, Bauten, Büchern, Kunstwerken und Genies unserer Zivilisation (1977)](https://annas-archive.gl/md5/837e16c57f9b29dac09db4bd964494bd)
+    ([Kenneth Clark - Civilisation: A Personal View (1969)](https://annas-archive.gl/search?q=Kenneth+Clark+Civilisation+A+Personal+View))
+    ([wikipedia](https://de.wikipedia.org/wiki/Civilisation:_A_Personal_View))
+    ([english documentary](https://www.youtube.com/results?search_query=Kenneth+Clark+Civilisation))
+  - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 1: Vom Papst. Erster Band (1822)](https://archive.org/details/11118971bsb)
+    (Jack Lively - The Works of Joseph de Maistre (1971))
+    ([wikisource](https://de.wikisource.org/wiki/Joseph_de_Maistre))
+      - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 2: Vom Papst. Zweiter Band (1823)](https://archive.org/details/11118972bsb)
+      - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 3: Von der Gallicanischen Kirche in ihrem Verhältnisse zu dem Kirchen-Oberhaupte (1823)](https://archive.org/details/11118973bsb)
+      - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 4: Abendstunden zu St. Petersburg, oder Gespräche über das Walten der göttlichen Vorsicht in zeitlichen Dingen, mit einem Anhang über die Opfer. Erster Theil (1824)](https://archive.org/details/11118974bsb)
+        ([v2](https://archive.org/details/11760961bsb))
+      - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 5: Abendstunden zu St. Petersburg, oder Gespräche über das Walten der göttlichen Vorsicht in zeitlichen Dingen, mit einem Anhang über die Opfer. Zweiter Theil (1825)](https://libgen.bz/file.php?md5=da1a127862877bdca42fb1f025d1505c)
+        - todo change URL slug: https://archive.org/details/11118975bsb
+  - todo: T. S. Eliot - Vier Quartette
+  - todo: T. S. Eliot - Beiträge zum Begriff der Kultur
+  - [Katechismus der katholischen Lehre des heiligen Papst Pius X. (2015)](https://github.com/milahu/katechismus-papst-pius-x-2015)
+- übersetzen: [The Corbett Report - They Don't Want You To Read](https://www.youtube.com/watch?v=wcOj0NYXgXs)
+  - [Thomas Paine - Gesunder Menschenverstand (Common Sense) (1776)](https://annas-archive.gl/md5/351dde6addb113386a0cdce9df5de954)
+- übersetzen: Saul D. Alinsky - Rules for Radicals: A Pragmatic Primer for Realistic Radicals (1971)
+  - übersetzen: Jeff Hedgpeth - Rules for Radicals Defeated: A Practical Guide for Defeating Obama/Alinsky Tactics (2012)
+  - übersetzen: Christopher G. Adamo - Rules for Defeating Radicals: Countering the Alinsky Strategy in Politics and Culture (2019)
+  - übersetzen: Michael Master - Rules for Conservatives: A Response to Rules for Radicals by Saul Alinsky (2012)
+- [Oswald Spengler - Der Untergang des Abendlandes, Erster Band: Gestalt und Wirklichkeit (1918)](https://annas-archive.gl/search?q=Oswald+Spengler+Der+Untergang+des+Abendlandes+Erster+Band)
+  - [Oswald Spengler - Der Untergang des Abendlandes, Zweiter Band: Welthistorische Perspektiven (1922)](https://annas-archive.gl/search?q=Oswald+Spengler+Der+Untergang+des+Abendlandes+Zweiter+Band)
 - [Tilman Knechtel - Metanoia Magazin Sonderedition: 100 Jahre Krieg gegen Deutschland](https://www.metanoia-magazin.com/sonderedition-100-jahre-krieg-gegen-deutschland-softcoverbuch/ez1282930.2)
 - [Tom-Oliver Regenauer - Homo demens. Texte zu Zeitenwende, Technokratie und Korporatismus I (2023)](https://shop.tredition.com/booktitle/HOMO_DEMENS/W-598-821-342)
 - [Tom-Oliver Regenauer - Der Elefant im Raum. Das zweite Jahr "New Normal" unabhängig kommentiert (2022)](https://www.buchkomplizen.de/der-elefant-im-raum.html)
-- [8 Keys to Self-Leadership: From Awareness to Action. 2005. Dario Nardi](https://www.amazon.de/8-Keys-Self-Leadership-Awareness-Action/dp/0971932611)
+- [Dario Nardi - 8 Keys to Self-Leadership: From Awareness to Action (2005)](https://radiancehouse.sellfy.store/p/8-keys-to-self-leadership-ebook/)
+  - [Dario Nardi - Human Complex Systems: Models and Methods for Computational Social Science](https://radiancehouse.sellfy.store/p/human-complex-systems/)
+  - [Dario Nardi - Chakra Domains Poster](https://radiancehouse.sellfy.store/p/chakra-domains-poster-large-poster/)
+  - [Dario Nardi - Brain Functions: Coloring Poster](https://radiancehouse.sellfy.store/p/brain-functions-coloring-poster-printable-18-x-24-inches/)
+  - [Dario Nardi - Strong Evidence for the Jungian Functions (2021)](https://radiancehouse.sellfy.store/p/strong-evidence-for-the-jungian-functions-white-paper/)
+  - [Dario Nardi - Emotion Basics: Understanding Your Emotional Dynamics](https://radiancehouse.sellfy.store/p/emotional-dynamics/)
+  - [Dario Nardi - Our Brains in Color](https://radiancehouse.sellfy.store/p/our-brains-in-color/)
+  - [Dario Nardi - Love-Life Basics: Understanding the 4 Love Elements (worksheets)](https://radiancehouse.sellfy.store/p/love-life-basics-understanding-the-4-love-elements-worksheets/)
+  - [Dario Nardi - Character and Personality Type: Discovering Your Uniqueness for Success](https://radiancehouse.sellfy.store/p/discovering-your-uniqueness-for-career-and-relationship-success/)
+  - [Dario Nardi - Multiple Intelligences and Personality Type: Tools and Strategies for Developing Potential](https://radiancehouse.sellfy.store/p/multiple-intelligences-and-personality-type-tools-and-strategies-for-developing-potential-ebook/)
+  - [Dario Nardi - Jung on Yoga: The Digital Course Slide Deck](https://radiancehouse.sellfy.store/p/jung-on-yoga-the-digital-course-slide-deck-slide-ebook/)
+  - [Dario Nardi - Subtypes Handout Pack](https://radiancehouse.sellfy.store/p/subtypes-handout-pack/)
+  - [Dario Nardi - Brain-Savvy: Introduction to Cognitive Dynamics (worksheets)](https://radiancehouse.sellfy.store/p/brain-savvy-introduction-to-cognitive-dynamics/)
+  - [Dario Nardi - The 64 Subtypes In Depth: All 64 Profiles of Brain-Based Variants of the 16 Types](https://radiancehouse.sellfy.store/p/the-64-subtypes-in-depth/)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
 - [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
 - [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
@@ -506,6 +704,12 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Christian Rätsch - Gesänge der Maria Sabina (2015)
   - Christian Rätsch - Psychedelische Tomaten (2017)
   - Christian Rätsch - Maria Sabina (2024)
+- Brigitte Hamann - DMSO: Für gesunde Augen und bessere Sehkraft (naturmedizin) (via: anonymousnews)
+  - Laurie Capogna - Ernährung für gesunde Augen: Vorbeugen und lindern: Grauer und grüner Star, Makula-Degeneration, Trockenes Auge
+- [DMSO bücher](https://annas-archive.gl/search?q=DMSO&lang=de) (naturmedizin)
+- Simone Janson - Körpersprache: Menschen lesen & verstehen (psychologie)
+- [Ares Verlag - Bücher](https://www.ares-verlag.com/ares-buecher/)
+  - [Ares Verlag - Abendland Magazin](https://www.ares-verlag.com/abendland-einzelhefte/)
 
 
 
