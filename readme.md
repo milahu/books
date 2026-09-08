@@ -124,7 +124,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [John McKnight, Peter Block - The Abundant Community: Awakening the Power of Families and Neighborhoods (2010)](https://annas-archive.gl/search?q=John+McKnight+-+The+Abundant+Community)
   - todo übersetzen: [John McKnight, John Kretzmann - Building Communities from the Inside Out: A Path Toward Finding and Mobilizing a Community's Assets (1993)](https://annas-archive.gl/search?q=John+McKnight+-+Building+Communities+from+the+Inside+Out)
   - todo übersetzen: [Peter Gelderloos - Anarchy Works (2010)](https://annas-archive.gl/search?q=Peter+Gelderloos+-+Anarchy+Works)
-  - todo: Leopold Kohr - Das Ende der Großen - Zurück zum menschlichen Maß (2002)
+  - [Leopold Kohr - Das Ende der Großen - Zurück zum menschlichen Maß (2002)](https://github.com/milahu/leopold-kohr-das-ende-der-grossen-2002)
     - original: [Leopold Kohr - The Breakdown of Nations (1978)](https://annas-archive.gl/search?q=Leopold+Kohr+-+The+Breakdown+of+Nations)
     - [Leopold Kohr - Why Small is Beautiful: The Size Interpretation of History (1989)](https://centerforneweconomics.org/publications/why-small-is-beautiful-the-size-interpretation-of-history/)
   - [Ernst F. Schumacher - Small is beautiful: Die Rückkehr zum menschlichen Maß (2019)](https://libgen.bz/file.php?md5=63ed2f6c718f063675efa33e3f7c2a81)
@@ -308,8 +308,25 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([v2](https://annas-archive.gl/md5/d7deed9615a62268da5f8b49181b806a))
 - [Johannes C. Hofmeister - Python für Dummies Alles-in-einem-Band (2025)](https://annas-archive.gl/md5/5d513b601fb83038dfc6d705a43e0595)
   ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527718494_Beispieldateien.zip))
+  - [John Paul Mueller, Luca Massaron - Data Science mit Python für Dummies: Lernen Sie die Datensprache (2016)](https://annas-archive.gl/search?q=Data+Science+mit+Python+f%C3%BCr+Dummies)
+  - [John Paul Mueller, Luca Massaron - Maschinelles Lernen mit Python und R für Dummies (2017)](https://annas-archive.gl/md5/0e92e4a68eace43a033c3eb434ac45ac)
+  - [John Paul Mueller, Jeffrey M. Cogswell - C++ Alles in einem Band für Dummies: Ein echtes Plus fürs Lernen von C++ (2016)](https://annas-archive.gl/md5/8f1a7124f6207190654793b635e336f2?&check=1)
+  - todo übersetzen: [John Paul Mueller - Functional Programming For Dummies (2019)](https://annas-archive.gl/search?q=John+Paul+Mueller+-+Functional+Programming+For+Dummies)
+  - [John Paul Mueller - Python programmieren lernen für Dummies (2018)](https://annas-archive.gl/md5/a24f36907a3da90f3c508d66451a706b)
+    ([epub](https://annas-archive.gl/md5/d6da99513b5fb608f051a06466ccfedf))
+  - [John Paul Mueller, Sandra Geisler - Python programmieren lernen für Dummies: Schlängeln Sie sich Ihren Weg zum ersten eigenen Programm (2015)](https://annas-archive.gl/search?q=John+Paul+Mueller+Python+programmieren+lernen+f%C3%BCr+Dummies)
+  - [John Paul Mueller, Luca Massaron - Deep Learning kompakt für Dummies (2020)](https://annas-archive.gl/md5/1e91c6504223d0ac4803beac28810129)
+  - [Jim Sizemore, John Paul Mueller - Matlab für Dummies (2024)](https://annas-archive.gl/md5/4450b324de144946efe5b9f79513d201)
+    ([epub](https://annas-archive.gl/md5/12b873cec0169dd145b475432f35b678))
+  - todo übersetzen: [Roger R. Pearman - Personality Style for Dummies (HRDQ Special Edition) (2011)](https://github.com/milahu/personality-style-for-dummies-2011)
+  - [Arnold V. Willemer - Linux für Dummies (2017)](https://annas-archive.gl/md5/9f38170eb0a7aea304723b2e11233691)
+    - [Arnold V. Willemer - Linux-Server für Dummies (2023)](https://annas-archive.gl/md5/7bd778ee530c03b1dee36e84069d4a3c)
+  - todo: Michael Kaufmann - Git für Dummies: Effiziente Softwareentwicklung mit der dezentralen Versionsverwaltung (German Edition) (2021)
+    - [John Bach - Git: Der ultimative Anfängerleitfaden, um Git Schritt für Schritt zu lernen (2021)](https://libgen.bz/file.php?md5=06eade58d6404565359e581fb200224c)
+  - [Chris Minnick, Eva Holland, Nikhil Abraham, John Paul Mueller, Luca Massaron, Barry Burd - Coding Alles-in-einem-Band für Dummies (2023)](https://annas-archive.gl/md5/9c62799f157bdb653ee7e87e22aa32c5)
   - [Daniel Lorig - Programmieren lernen für Dummies (2021)](https://annas-archive.gl/md5/bc2da5c25914afd356146c3ddc233b53)
     ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527718516.zip))
+  - [John B. Arden - Gedächtnistraining für Dummies (2015)](https://annas-archive.gl/md5/5c3f54f6e06bec3356423f19f91f948e)
   - todo: Thomas Rose - Programmieren lernen in 15 Minuten am Tag für Dummies
     ([Übungsaufgaben](https://application.wiley-vch.de/books/sample/3527723587.zip))
   - todo: Dan Gookin - C programmieren lernen für Dummies
@@ -333,7 +350,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo: E.-G. Haffner - Informatik für Dummies. Das Lehrbuch
     ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527710248.zip))
     ([Zusatzmaterial](https://application.wiley-vch.de/books/sample/3527720243_Code.zip))
-  - todo: John Paul Mueller - Algorithmen für Dummies
+  - [John Paul Mueller - Algorithmen für Dummies (2017)](https://annas-archive.gl/md5/ed9e857bdd52c454ad11c280accf4f14)
     ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527713816.zip))
   - todo: Mark C. Layton - Agiles Projektmanagement für Dummies
     ([Beispieldateien](https://application.wiley-vch.de/books/sample/3527714766.zip))
@@ -355,6 +372,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([Audiodateien](https://application.wiley-vch.de/books/sample/3527715290.zip))
   - [Elif Dilmaç - Türkisch für Dummies (2020)](https://libgen.bz/file.php?md5=bd7c6f14c7fca62836d1724e6e12c681)
     ([Zusatzmaterial](https://application.wiley-vch.de/books/sample/3527718028.zip))
+  - [Rudolf Theelen - Naturheilkunde für Dummies (2026)](https://annas-archive.gl/md5/74fdeaff899793437ae9f1a8f6260f6d)
 - todo: Herbert Marcuse - Kritik der reinen Toleranz (1967)
   - [Herbert Marcuse - Repressive Toleranz (1965)](https://www.marcuse.org/herbert/pubs/60spubs/65reprtoleranzdt.htm)
     - "Wenn Toleranz in erster Linie dem Schutz und der Erhaltung einer repressiven Gesellschaft dient,
@@ -512,9 +530,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Bruno Bandulet - Beuteland: Die systematische Plünderung Deutschlands seit 1945 (2016)](https://annas-archive.gl/search?q=Bruno+Bandulet+-+Beuteland)
 - [Neville Goddard - Bewusstsein ist die einzige Realität](https://annas-archive.gl/search?q=Neville+Goddard+Bewusstsein+ist+die+einzige+Realität) (esoterik-schrott?) (ähnlich wie Eckhart Tolle?)
 - todo: Ben Goldfarb - Biber: Das verblüffende, geheime Leben der fleißigen Nagetiere und warum wir sie brauchen
-
 - [Michael Brückner - Die Akte Wikipedia: Falsche Informationen und Propaganda in der Online-Enzyklopädie (2017)](https://annas-archive.gl/search?q=Michael+Brückner+-+Die+Akte+Wikipedia)
-
 - todo: Infektionen verstehen - statt fürchten
 - todo: Ist eine Erkältung ansteckend
 - todo: Steuerratgeber 2026 für schlaue Rentner
@@ -580,6 +596,37 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [John Coleman - Die Hierarchie der Verschwörer: das Komitee der 300](https://annas-archive.gl/search?  q=John+Coleman+-+Die+Hierarchie+der+Verschwörer)
   - [John Coleman - Das Tavistock Institut: Auftrag: Manipulation](https://annas-archive.gl/search?q=John+Coleman+-+Das+Tavistock+Institut)
 - [Michael Meyen - Der dressierte Nachwuchs. Was ist mit der Jugend los? (2024)](https://annas-archive.gl/md5/9636f6110a5f71bff18a6a2b38a20d4a?&check=1)
+- good habits, time management, self management
+  - [BJ Fogg - Die Tiny Habits Methode: Kleine Schritte, große Wirkung (2021)](https://annas-archive.gl/md5/672253b99a209e212cd31ef957bd975e?&check=1)
+    - original: [BJ Fogg - Tiny Habits: The Small Changes That Change Everything (2019)](https://annas-archive.gl/search?q=BJ+Fogg+-+Tiny+Habits&lang=en)
+  - [Jake Knapp - Mehr Zeit: Wie man sich auf das Wichtigste konzentriert (2018)](https://annas-archive.gl/md5/a1cfa43f20be22be742d7a98c1292fc6)
+    - original: [Jake Knapp - Make Time: How to Focus on What Matters Every Day (2018)](https://annas-archive.gl/search?q=Jake+Knapp+-+Make+Time&lang=en)
+    - todo: [hörbuch](https://mygully.com/showthread.php?t=5466337)
+    - [Jake Knapp - Sprint: Wie man in nur fünf Tagen neue Ideen testet und Probleme löst (2016)](https://annas-archive.gl/md5/ae3385aab2827b5a5d68a75753560e3a)
+      - todo: [hörbuch](https://mygully.com/showthread.php?t=5784622)
+    - [Jake Knapp - Click – Das bewährte System der erfolgreichsten Start-ups der Welt: Wie man große Projekte startet, die richtige Strategie findet, und erschafft was Menschen lieben](https://annas-archive.gl/md5/bab5dcf6955520a96706a141c351d900)
+      - todo: [hörbuch](#todo-magnet-link)
+- Ökologie
+  - [Alain de Benoist - Abschied vom Wachstum: Für eine Kultur des Maßhaltens (2017)](https://annas-archive.gl/md5/5aa6ff8e62861b1bd59b207448f78752)
+  - todo: Alain de Benoist - Nach dem Wachstum
+  - [Alain de Benoist - Heide sein: Zu einem Neuanfang. Die europäische Glaubensalternative (2016)](https://annas-archive.gl/md5/e88f12e940c0b5f85bcf2935a5e30c9e)
+  - [Alain de Benoist - Aufstand der Kulturen - Europäisches Manifest für das 21. Jahrhundert (2015)](https://annas-archive.gl/md5/8dbf851fe1c1f61b7fe81d9a25ce1e4a)
+  - [Alain de Benoist - Welche Religion für Europa? Ein Gespräch über die religiöse Identität der Völker Europas (1992)](https://annas-archive.gl/md5/977b46253ddd5ea2e859d4a8ce6cd45b)
+  - [Niko Paech - Befreiung vom Überfluss (2011)](https://annas-archive.gl/search?q=Niko+Paech++Befreiung+vom+%C3%9Cberfluss)
+  - [Volker Mohr - Der Verlust des Ortes (2017)](https://annas-archive.gl/md5/fdf2f4067aea795de830e843481f63fa)
+    - In diesem kaplaken über den »Verlust des Ortes« umkreist er die Auswirkungen einer »Perfektion der Technik« ebenso wie die daraus resultierende Entortung des Menschen und Vernutzung aller noch unberührten oder nur organisch in den Dienst genommenen Räume.
+    - Wer Mohr liest, begreift, warum der Mensch den Ort braucht, warum er ohne ihn herunterkommt und zur Verfügungsmasse einer Industrie für den Massenkonsum verkommt. Gegenkräfte sieht Mohr in der Rückverzauberung der Welt, in der Entschleunigung des eigenen Lebens und darin, dem Poetischen und Nicht-Bezifferbaren im Leben einen hohen Stellenwert einzuräumen. Ein Programm für wenige, keines für die Massengesellschaft.
+- [Thor von Waldstein - Der deutsche Geist und das Elend des Kapitalismus (1990)](https://annas-archive.gl/md5/824b7b17adafd0e56bd6bd21b2069ca3)
+- [Akif Pirinçci - Deutschland von Sinnen: Der irre Kult um Frauen, Homosexuelle und Zuwanderer (2015)](https://annas-archive.gl/md5/d9314868103c302f032bc3575ea06512)
+- [Konstantin Richter - Dreihundert Männer: Aufstieg und Fall der Deutschland AG. Eine glänzend erzählte Geschichte der deutschen Wirtschaft (2025)](https://annas-archive.gl/md5/37aab4cbd774948f51926d86346cce6e)
+- [Kohei Saito - Am Ende des Fortschritts: Überleben in den Ruinen des Kapitalismus. Die neue Vision für eine Gesellschaft jenseits von Fortschrittsglauben (2026)](https://libgen.bz/file.php?md5=a5e6999929dc49320547347d9326ab80)
+- todo: Ulrike Herrmann - Geld als Waffe: Wie die Wirtschaft über Krieg und Frieden entscheidet (2026)
+  (todo: hörbuch)
+- [Sven Gábor Jánszky - 2030: Wie viel Mensch verträgt die Zukunft? (2018)](https://libgen.bz/file.php?md5=26f737dda689495e58981d37fa037bf3)
+- todo: Max Öchsner - Emotionale Alchemie: Die Kunst, mit sich selbst im Einklang zu sein (2025)
+- [David Brooks - Charakter: Die Kunst, Haltung zu zeigen (2015)](https://annas-archive.gl/md5/3fb1dd2fa1cabb1b9d2a4956afe32a82)
+- todo: Larken Rose - Der Nutzmensch: Handbuch für den modernen Tyrannen (2021)
+- [Heinrich Mann - Der Untertan (1918)](https://annas-archive.gl/search?index=&page=1&sort=&ext=pdf&ext=epub&lang=de&display=&q=Heinrich+Mann+-+Der+Untertan&check=1)
 
 <!-- </books> -->
 
@@ -616,7 +663,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Matt Groening - Work Is Hell (1986)
     - Matt Groening - Arbeit ist die Hölle
   - [Matt Groening - School Is Hell (1987)](https://annas-archive.gl/md5/99fbd1d4d91e5302ae70f1fa9050539c)
-    - Matt Groening - Schule ist die Hölle (1991)
+    - [Matt Groening - Schule ist die Hölle (1991)](https://github.com/milahu/matt-groening-schule-ist-die-hoelle-1991)
   - Matt Groening - Box Full of Hell (1988)
   - Matt Groening - Childhood Is Hell (1988)
   - Matt Groening - Greetings from Hell (1989)
@@ -684,8 +731,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Dario Nardi - Brain-Savvy: Introduction to Cognitive Dynamics (worksheets)](https://radiancehouse.sellfy.store/p/brain-savvy-introduction-to-cognitive-dynamics/)
   - [Dario Nardi - The 64 Subtypes In Depth: All 64 Profiles of Brain-Based Variants of the 16 Types](https://radiancehouse.sellfy.store/p/the-64-subtypes-in-depth/)
 - [Mushroom Cultivation. by Peter Oei](https://unicornbags.com/product/mushroom-cultivation4th-edition/)
-- [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://werbleibtverliert.de/) - 53 eur
-- [André Schmitt - Mission Mindset (2025)](https://www.amazon.com/dp/3910385648) - 24 eur
+- [André Schmitt - Wer bleibt, verliert - Vermögensschutz & Krisenvorsorge in einer instabilen Welt (2026?)](https://github.com/milahu/andre-schmitt-wer-bleibt-verliert-2026)
+  - [André Schmitt - Mission Mindset (2025)](https://github.com/milahu/andre-schmitt-mission-mindset-2025)
+  - [André Schmitt - Augen Auf! Wie du Gefahr erkennst, bevor sie dich erkennt (2026)](https://github.com/milahu/andre-schmitt-augen-auf-2026)
 - übersetzen: Thomas Szasz - Anti-Freud. Karl Kraus's Criticism of Psychoanalysis and Psychiatry (1990)
 - [Michael Nehls - Die Methusalem-Strategie (2011)](https://www.amazon.de/Die-Methusalem-Strategie-Vermeiden-hindert-gesund/dp/3981404831) ([Hörbuch](cas/btih/86751a4df74a3cdc97965d2381cdc2cf3f490cda.torrent))
 - Gerd Reuther
