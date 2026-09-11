@@ -662,7 +662,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Matt Groening - Love Is Hell (1984)
     - Matt Groening - Liebe ist die Hölle
   - Matt Groening - Work Is Hell (1986)
-    - Matt Groening - Arbeit ist die Hölle
+    - [Matt Groening - Arbeit ist die Hölle (1990)](https://github.com/milahu/matt-groening-arbeit-ist-die-hoelle-1990)
   - [Matt Groening - School Is Hell (1987)](https://annas-archive.gl/md5/99fbd1d4d91e5302ae70f1fa9050539c)
     - [Matt Groening - Schule ist die Hölle (1991)](https://github.com/milahu/matt-groening-schule-ist-die-hoelle-1991)
   - Matt Groening - Box Full of Hell (1988)
