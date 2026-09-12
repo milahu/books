@@ -628,6 +628,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [David Brooks - Charakter: Die Kunst, Haltung zu zeigen (2015)](https://annas-archive.gl/md5/3fb1dd2fa1cabb1b9d2a4956afe32a82)
 - todo: Larken Rose - Der Nutzmensch: Handbuch für den modernen Tyrannen (2021)
 - [Heinrich Mann - Der Untertan (1918)](https://annas-archive.gl/search?index=&page=1&sort=&ext=pdf&ext=epub&lang=de&display=&q=Heinrich+Mann+-+Der+Untertan&check=1)
+- [Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](https://github.com/milahu/kurt-haettasch-fangschuss-2026)
 
 <!-- </books> -->
 
