@@ -630,6 +630,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Heinrich Mann - Der Untertan (1918)](https://annas-archive.gl/search?index=&page=1&sort=&ext=pdf&ext=epub&lang=de&display=&q=Heinrich+Mann+-+Der+Untertan&check=1)
 - [Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](https://github.com/milahu/kurt-haettasch-fangschuss-2026)
 - [Aron Pielka - Bauzeit: Shlomo, der Knast und die freie Welt (2025)](https://github.com/milahu/aron-pielka-bauzeit-2025)
+- [David Keirsey - Versteh Mich Bitte: Charakter- und Temperament-Typen (1990)](https://github.com/milahu/david-keirsey-versteh-mich-bitte-1990)
 
 <!-- </books> -->
 
