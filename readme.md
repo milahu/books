@@ -105,7 +105,17 @@ german: bücher zum thema selbstorganisation (rote pillen)
     (todo: better quality)
     - original: [Elinor Ostrom - Governing the Commons](https://annas-archive.gl/search?ext=pdf&ext=epub&lang=en&q=Elinor+Ostrom+-+Governing+the+Commons)
   - todo übersetzen: [James C. Scott - The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (2009)](https://annas-archive.gl/search?q=James+C.+Scott+-+The+Art+of+Not+Being+Governed)
-    - James C. Scott - Die Mühlen der Zivilisation: Eine Tiefengeschichte der frühesten Staaten (2019)
+    - [James C. Scott - Die Mühlen der Zivilisation: Eine Tiefengeschichte der frühesten Staaten (2019)](https://libgen.bz/file.php?md5=cad594b3e28d2eab7057ac097e215c1f)
+      - Wie selbstverständlich gehen wir davon aus,
+        dass die neolithische Revolution, in deren Verlauf Nomaden zu Ackerbauern und Viehzüchtern wurden,
+        ein bedeutender zivilisatorischer Fortschritt war.
+        James C. Scott entwickelt in seinem provokanten Buch eine ganz andere These:
+        Die ersten Staaten entstanden aus der Kontrolle über die Reproduktion
+        und errichteten ein hartes Regime der Domestizierung und Unterwerfung,
+        das Epidemien, Ungleichheiten und Kriege mit sich brachte.
+        Einzig die »Barbaren« – die heimlichen Helden dieses Buches –
+        haben sich der Sesshaftigkeit sowie den neuen Besteuerungssystemen verweigert
+        und sich damit gegen die Mühlen der Zivilisation gestemmt.
       - original: [James C. Scott - Against the Grain: A Deep History of the Earliest States (2017)](https://annas-archive.gl/search?q=James+C.+Scott+-+Against+the+Grain)
   - todo übersetzen: [Richard D. Bartlett - Patterns for Decentralised Organising (WIP)](https://leanpub.com/patterns-for-decentralised-organising)
     - todo übersetzen: [Anthony Cabraal, et al - Better Work Together: How the power of community can transform your business (2018)](https://annas-archive.gl/md5/493f01c53abc05c480d0a09dbac60e4b)
