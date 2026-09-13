@@ -641,6 +641,18 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](https://github.com/milahu/kurt-haettasch-fangschuss-2026)
 - [Aron Pielka - Bauzeit: Shlomo, der Knast und die freie Welt (2025)](https://github.com/milahu/aron-pielka-bauzeit-2025)
 - [David Keirsey - Versteh Mich Bitte: Charakter- und Temperament-Typen (1990)](https://github.com/milahu/david-keirsey-versteh-mich-bitte-1990)
+  - [Karl Koch - Der Baumtest: Der Baumzeichenversuch als psychodiagnostisches Hilfsmittel (1997)](https://github.com/milahu/karl-koch-der-baumtest-1997)
+    - Der Baumtest als psychodiagnostisches Hilfsmittel
+      hat sich bewährt zum Nachweis affektiver Entwicklungshemmungen und als Charaktertest.
+    - «Die Vorteile der Methode sind evident: der Versuch spricht den Prüfling im allgemeinen an,
+      ist leicht durchzuführen, braucht wenig Zeit, verursacht wenig Kosten, ist beinahe jedem Alter zu­gänglich,
+      hinterläßt schließlich eine graphische Dauerspur, die einer jederzeitigen Nachprüfung geöffnet bleibt. ...
+      In der Hand vorsichtiger Diagnostiker und im gebotenen Zusammenspiel mit andern Mitteln
+      bietet der Baumtest eine ungemein wertvolle Bereicherung der psychologischen Untersuchungstechnik.»
+      (Berufsberatung und Berufsbildung)
+    - Zusammenfassung: Lasse den Proband einen Baum malen.
+      In welcher Jahreszeit steht der Baum?
+      Frühling = Typ 2, Sommer = Typ 3, Herbst = Typ 1, Winter = Typ 4.
 - [Ezra Pound - ABC des Lesens (2020)](https://github.com/milahu/ezra-pound-abc-des-lesens-2020)
 
 <!-- </books> -->
