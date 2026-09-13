@@ -641,6 +641,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](https://github.com/milahu/kurt-haettasch-fangschuss-2026)
 - [Aron Pielka - Bauzeit: Shlomo, der Knast und die freie Welt (2025)](https://github.com/milahu/aron-pielka-bauzeit-2025)
 - [David Keirsey - Versteh Mich Bitte: Charakter- und Temperament-Typen (1990)](https://github.com/milahu/david-keirsey-versteh-mich-bitte-1990)
+- [Ezra Pound - ABC des Lesens (2020)](https://github.com/milahu/ezra-pound-abc-des-lesens-2020)
 
 <!-- </books> -->
 
