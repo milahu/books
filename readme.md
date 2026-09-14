@@ -155,6 +155,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [André Schmitt - Wenn die Krise kommt (2025)](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025)
     - [André Schmitt - Krisenvorsorge: Gewappnet für den Ernstfall (2025)](https://github.com/milahu/andre-schmitt-krisenvorsorge-2025)
     - [André Schmitt - Widerstand: Kampf um die Freiheit (2025)](https://github.com/milahu/andre-schmitt-widerstand-2025)
+    - [Andre Schmitt, Dr. Alexander Krah - Grey Man: Im Schatten der Gefahr (2024)](https://github.com/milahu/andre-schmitt-grey-man-2024)
   - [Dominik Kettner - Der digitale Euro: Die größte Enteignung der Geschichte (2025)](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025)
   - [Antony C. Sutton - Der Krieg gegen das Gold (2024)](https://libgen.bz/file.php?md5=c9d561a0d0adc83234a47ec8560e7cb2)
   - [Liam Scheff - Official stories](https://github.com/milahu/officialstories) - Official stories exist to protect officials...
