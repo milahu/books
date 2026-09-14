@@ -658,6 +658,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Ezra Pound - Wort und Weise: motz el son (1971)](https://annas-archive.gl/md5/fd2ba26ad531c618672b754bd6de5299)
     - Ezra Pound - Leseplan
       - original: [Ezra Pound - How To Read (1931)](https://annas-archive.gl/md5/7f9fbc85f7731aa7827fc806227458db)
+- [Uwe Krüger - Meinungsmacht. Der Einfluss von Eliten auf Leitmedien und Alpha-Journalisten – eine kritische Netzwerkanalyse (2013)](https://github.com/milahu/uwe-krueger-meinungsmacht-2013)
 
 <!-- </books> -->
 
