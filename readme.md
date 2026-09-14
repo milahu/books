@@ -495,7 +495,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     All effective control over the content of communications is vested in the state,
     which in fact means the top party functionaries,
     who usually possess, as a result of previous revolutionary agitation, considerable know-how in the field of propaganda."
-- "It can be seen from these experiences, that the chances of success in overthrowing a totalitarian regime are slim indeed.
+  - "It can be seen from these experiences, that the chances of success in overthrowing a totalitarian regime are slim indeed.
     Many outsiders have been unjust in demanding, and unwise,
     in expecting, the growth of resistance movements in the more developed totalitarian systems.
     **It is extremely difficult to mount an effective opposition to a totalitarian dictatorship, precisely because it is totalitarian.**
