@@ -654,6 +654,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
       In welcher Jahreszeit steht der Baum?
       Frühling = Typ 2, Sommer = Typ 3, Herbst = Typ 1, Winter = Typ 4.
 - [Ezra Pound - ABC des Lesens (2020)](https://github.com/milahu/ezra-pound-abc-des-lesens-2020)
+  - [Ezra Pound - Wort und Weise: motz el son (1971)](https://annas-archive.gl/md5/fd2ba26ad531c618672b754bd6de5299)
+    - Ezra Pound - Leseplan
+      - original: [Ezra Pound - How To Read (1931)](https://annas-archive.gl/md5/7f9fbc85f7731aa7827fc806227458db)
 
 <!-- </books> -->
 
