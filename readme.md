@@ -659,6 +659,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - Ezra Pound - Leseplan
       - original: [Ezra Pound - How To Read (1931)](https://annas-archive.gl/md5/7f9fbc85f7731aa7827fc806227458db)
 - [Uwe Krüger - Meinungsmacht. Der Einfluss von Eliten auf Leitmedien und Alpha-Journalisten – eine kritische Netzwerkanalyse (2013)](https://github.com/milahu/uwe-krueger-meinungsmacht-2013)
+- [Peter Bieri - Wie wollen wir leben? (2014)](https://github.com/milahu/peter-bieri-wie-wollen-wir-leben-2014)
 
 <!-- </books> -->
 
