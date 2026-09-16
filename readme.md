@@ -515,7 +515,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Rolf Peter Sieferle - Das Migrationsproblem (2017)](https://annas-archive.gl/search?q=Rolf+Peter+Sieferle+-+Das+Migrationsproblem)
   - [Rolf Peter Sieferle - Rückblick auf die Natur: Eine Geschichte des Menschen und seiner Umwelt (1997)](https://annas-archive.gl/md5/4f449b050ec4a01736fc134f9ccb2018)
   - [Rolf Peter Sieferle - Das Ende der Fläche: Zum gesellschaftlichen Stoffwechsel der Industrialisierung (2006)](https://annas-archive.gl/md5/48b13a33f7836efc83042fcadca5bf3d)
-  - [Rolf Peter Sieferle -  Selbstverständnisse der Moderne (1991)](https://annas-archive.gl/md5/1c319dfc1c0ef870bac68516b58f3c1c)0
+  - [Rolf Peter Sieferle - Selbstverständnisse der Moderne (1991)](https://annas-archive.gl/md5/1c319dfc1c0ef870bac68516b58f3c1c)
   - [Rolf Peter Sieferle - Die Krise der menschlichen Natur. Zur Geschichte eines Konzepts (1989)](https://github.com/milahu/rolf-peter-sieferle-krise-der-menschlichen-natur-2021)
   - todo: Rolf Peter Sieferle - Fortschrittsfeinde? Opposition gegen Technik und Industrie von der Romantik bis zur Gegenwart. Die Sozialverträglichkeit von Energiesystemen (1984)
   - todo: Rolf Peter Sieferle - Der unterirdische Wald. Energiekrise und industrielle Revolution (1982)
