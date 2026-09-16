@@ -420,6 +420,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     Goodman's book was a precursor to the work of deschooling advocate Ivan Illich.
 - [George Bernard Shaw - Mensch und Übermensch: Eine Komödie und eine Philosophie (1903)](https://annas-archive.gl/md5/d3b69ebc2f6e7354b2e389cab2d7a61e)
   (zensiert: es fehlt der Anhang "Handbuch für Revolutionäre")
+  - [George Bernard Shaw - Handbuch des Revolutionärs (1972)](https://github.com/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972)
   - [George Bernard Shaw - Mann und Supermann: Ausgabe in neuer Übersetzung und Rechtschreibung (2025)](https://libgen.bz/file.php?md5=9285ed3a438fdae99988507fb3e29189)
     (zensiert: es fehlt der Anhang "Handbuch für Revolutionäre")
   - original: [George Bernard Shaw - Man and Superman: A Comedy and a Philosophy (1903)](https://annas-archive.gl/md5/8fcc1dd1336a0665b5446b41c8fb3a23)
