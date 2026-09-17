@@ -765,7 +765,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
         ([v2](https://archive.org/details/11760961bsb))
       - [Joseph de Maistre - Werke. Herausgegeben von Moriz Lieber - Band 5: Abendstunden zu St. Petersburg, oder Gespräche über das Walten der göttlichen Vorsicht in zeitlichen Dingen, mit einem Anhang über die Opfer. Zweiter Theil (1825)](https://libgen.bz/file.php?md5=da1a127862877bdca42fb1f025d1505c)
         - todo change URL slug: https://archive.org/details/11118975bsb
-  - todo: T. S. Eliot - Vier Quartette
+  - [T. S. Eliot - Vier Quartette (2021)](https://github.com/milahu/ts-eliot-vier-quartette-2021)
   - [T.S. Eliot - Beiträge zum Begriff der Kultur (1949)](https://github.com/milahu/ts-eliot-begriff-der-kultur-1949)
   - [Katechismus der katholischen Lehre des heiligen Papst Pius X. (2015)](https://github.com/milahu/katechismus-papst-pius-x-2015)
 - übersetzen: [The Corbett Report - They Don't Want You To Read](https://www.youtube.com/watch?v=wcOj0NYXgXs)
