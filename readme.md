@@ -67,6 +67,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
       ([hörbuch](cas/btih/5bb588e17224f9829a8c65bd70ed602a7ab5634e.torrent))
   - [Peter C. Brown - Das merk ich mir! Erfolgreich lernen und für immer behalten mit der Make-it-stick-Methode - Für Schule, Studium und Beruf (2019)](https://libgen.bz/file.php?md5=833a054378ecbd4950bd4c7789bed58f)
     - original: [Peter C. Brown - Make It Stick (2014)](https://annas-archive.gl/md5/7f242b2e422656abd1d404f777b10b97)
+  - [Joshua Foer - Moonwalk mit Einstein: Wie aus einem vergeßlichen Mann ein Gedächtnis-Champion wurde (2011)](https://annas-archive.gl/md5/25c523da60a29451f997605606aaa93d)
+    - original: [Joshua Foer - Moonwalking with Einstein: The Art and Science of Remembering Everything (2011)](https://annas-archive.gl/search?q=Joshua+Foer+-+Moonwalking+with+Einstein)
   - todo: Josh Kaufman - Mein persönlicher MBA: Alles was Sie über Betriebswirtschaft und Management wissen müssen
     - original: [Josh Kaufman - The Personal MBA: Master the Art of Business (2020)](https://annas-archive.gl/md5/7fe41c7a93c8e9d479b3b3af5184fc0a)
   - [Peter F. Drucker - The Effective Executive: Effektivität und Handlungsfähigkeit in der Führungsrolle gewinnen (2014)](https://libgen.bz/file.php?md5=24b8fc6612fb63aaa22b4ef95f389aaf)
