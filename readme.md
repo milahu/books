@@ -667,6 +667,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Peter Bieri - Wie wollen wir leben? (2014)](https://github.com/milahu/peter-bieri-wie-wollen-wir-leben-2014)
 - [Martin Lichtmesz - Die Hierarchie der Opfer (2017)](https://annas-archive.gl/md5/2b0a919dc386511c364804dd67119939)
   - [Renaud Camus - Revolte gegen den großen Austausch (2016)](https://annas-archive.gl/md5/1e357fd4a85caea2765507e1283a3cc8)
+  - [Martin Lichtmesz - Die Verteidigung Des Eigenen (2011)](https://annas-archive.gl/md5/ace3d0f448fcd131017393100f1263fe)
 
 <!-- </books> -->
 
