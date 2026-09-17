@@ -669,6 +669,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Renaud Camus - Revolte gegen den großen Austausch (2016)](https://annas-archive.gl/md5/1e357fd4a85caea2765507e1283a3cc8)
   - [Martin Lichtmesz - Die Verteidigung Des Eigenen (2011)](https://annas-archive.gl/md5/ace3d0f448fcd131017393100f1263fe)
   - [Martin Lichtmesz - Rassismus: Ein amerikanischer Alptraum (2019)](https://annas-archive.gl/md5/99e45dd203c340107c12f26b5abafe3f)
+  - [Martin Lichtmesz - Nationalmasochismus (2018)](https://annas-archive.gl/md5/668de14727ea0b6eaa2fbdca593be139)
 
 <!-- </books> -->
 
