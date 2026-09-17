@@ -61,7 +61,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
       (todo: workbook)
     - [Sean Covey - Die 6 wichtigsten Entscheidungen für Jugendliche: Wie du die Weichen für dein Leben richtig stellst (2020)](https://libgen.bz/file.php?md5=6607d2d8a80b956b315b88b44a1bd05b)
       ([hörbuch](cas/btih/4fb6c0f004dabb3eaf63725d29b1a2f3fa6cae49.torrent))
-    - todo: Sean Covey - Die 7 Wege zur Effektivität für Studenten: Prinzipien für mehr Erfolg im Studium und im Leben
+    - [Sean Covey - Die 7 Wege zur Effektivität für Studenten: Prinzipien für mehr Erfolg im Studium und im Leben (2018)](https://libgen.bz/file.php?md5=89b8b6be0cdf43d9892803c52f70b6bb)
       ([hörbuch](cas/btih/aeb25812d1ce7c8832d036ba4efb15bdba6e1af0.torrent))
     - todo: Sean Covey - Die 4 Disziplinen der Umsetzung
       ([hörbuch](cas/btih/5bb588e17224f9829a8c65bd70ed602a7ab5634e.torrent))
