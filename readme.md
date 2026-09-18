@@ -590,7 +590,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - todo: Beziehungen in der Sozialen Arbeit lebendig gestalten
 - todo: Interne Kommunikation
 - todo: Lehrer-Schüler-Beziehungen konstruktiv gestalten
-- todo: Psychologie, Soziologie und Pädagogik
+- todo: [Psychologie, Soziologie und Pädagogik](https://annas-archive.gl/search?q=Psychologie%2C+Soziologie+und+P%C3%A4dagogik)
 - todo: Soziologie der Persönlichkeit
 - Gerhard Wisnewski
   - [Gerhard Wisnewski - Das Titanic-Attentat: Die wahren Hintergründe der Schiffskatastrophe (2012)](https://annas-archive.gl/search?q=Gerhard+Wisnewski+-+Das+Titanic-Attentat)
@@ -874,6 +874,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - todo hörbuch: Thomas Morus - Utopia
 - todo hörbuch: Georg Büchner - Dantons Tod
 - todo? Judith Schalansky - Der Hals der Giraffe
+- todo: André Schmitt - TPC - Total Preparedness Concept: Der Weg zur persönlichen Freiheit - warum "überleben" nicht alles ist (2026)
+- todo: Andre Schmitt - PULK: Wie man als Kollektiv aus dem manipulierten System ausbricht und eine funktionierende Parallelstruktur aufbaut (2026)
 
 
 
