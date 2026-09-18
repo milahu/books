@@ -863,6 +863,17 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - Simone Janson - Körpersprache: Menschen lesen & verstehen (psychologie)
 - [Ares Verlag - Bücher](https://www.ares-verlag.com/ares-buecher/)
   - [Ares Verlag - Abendland Magazin](https://www.ares-verlag.com/abendland-einzelhefte/)
+- todo: [Michel Houellebecq](https://annas-archive.gl/search?q=Michel+Houellebecq&lang=de)
+- todo hörbücher: Michel Houellebecq
+  - Michel Houellebecq - Vernichten
+  - Michel Houellebecq - Elementarteilchen
+  - Michel Houellebecq - Plattform
+  - Michel Houellebecq - Unterwerfung
+  - Michel Houellebecq - Ausweitung der Kampfzone
+  - Michel Houellebecq - Serotonin
+- todo hörbuch: Thomas Morus - Utopia
+- todo hörbuch: Georg Büchner - Dantons Tod
+- todo? Judith Schalansky - Der Hals der Giraffe
 
 
 
