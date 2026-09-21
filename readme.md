@@ -732,6 +732,29 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Brent W. Roberts - One Personality, Multiple Selves: Integrating Personality and Social Roles (1992)](https://sci-hub.ru/https://doi.org/10.1111/j.1467-6494.1994.tb00291.x)
   - [Walter Mischel - Situation-Behavior Profiles as a Locus of Consistency in Personality (2002)](https://sci-hub.ru/https://doi.org/10.1111/1467-8721.00166)
 - [Franz J. Neyer - Psychologie der Persönlichkeit (2018)](https://annas-archive.gl/search?q=Psychologie+der+Pers%C3%B6nlichkeit+Neyer)
+- drawing cartoons, beginners, south park style, abstract concept art, self-help, self-directed learning
+  - todo translate: [Andrew Loomis - Fun with a Pencil (1939)](https://annas-archive.gl/search?q=Andrew+Loomis+-+Fun+with+a+Pencil)
+    - Loomis teaches drawing using extremely simple constructions — spheres, boxes, cylinders, etc.
+      What's particularly relevant is that he uses those constructions to create cartoon heads, characters and caricatures.
+      complex thing → simple geometric construction → stylized drawing.
+      That's basically the foundation of the kind of concept-to-cartoon workflow
+  - todo translate: [Christopher Hart - Modern Cartooning: Essential Techniques for Drawing Today's Popular Cartoons (2013)](https://annas-archive.gl/search?q=Modern+Cartooning+-+Christopher+Hart)
+    - explicitly aimed at beginner cartoonists and uses lots of step-by-step illustrations, character construction, expressions and cartoon design.
+  - todo translate: [Christopher Hart - Basic Drawing Made Amazingly Easy (2012)](https://annas-archive.gl/search?q=Christopher+Hart+-+Basic+Drawing+Made+Amazingly+Easy)
+    - create abstract concept drawings and then refine them
+    - It starts with five basic shapes — circle, oval, square, cylinder and rectangle — and then introduces line, mass, perspective, light and shading before moving toward more complex subjects.
+  - todo: Bert Dodson - Meisterschule Zeichnen: 48 Lektionen Zum Selbststudium Mit Checklisten Zur Selbstkontrolle (1991)
+    - original: [Bert Dodson - Keys to Drawing (1985)](https://annas-archive.gl/search?q=Bert+Dodson+-+Keys+to+Drawing)
+    - focuses heavily on seeing, proportion, contour, negative space and translating what you see into marks. It's frequently recommended as a beginner/self-study drawing book.
+  - todo translate: [Christopher Hart - Humongous Book of Cartooning (2009)](https://annas-archive.gl/search?q=Christopher+Hart+-+Humongous+Book+of+Cartooning)
+    - It covers characters, animals, layouts, backgrounds, composition, character design, etc., and is explicitly designed as a broad beginner cartooning reference.
+  - [Die Kunst des Zeichnens - Die große Zeichenschule - Comic, Manga, Fantasy (2015)](https://annas-archive.gl/md5/3c3aa6a6cdb4e15a109060ba82be8ec0)
+    - It starts with fundamentals: simple forms, sketching, composition and perspective,
+      then moves into people, animals, environments, etc.
+      It has over 1,000 illustrations and a large exercise section with step-by-step instructions.
+  - todo: Die Kunst des Zeichnens - Quick-Start-Block Perspektive
+  - todo: Ned Hartley - Zeichne deine eigenen Comics (2026)
+  - todo: Die Kunst des Zeichnens - Anatomie, Figuren & Posen
 
 <!-- </books> -->
 
