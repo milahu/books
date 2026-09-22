@@ -770,6 +770,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo: Die Kunst des Zeichnens - Quick-Start-Block Perspektive
   - todo: Ned Hartley - Zeichne deine eigenen Comics (2026)
   - todo: Die Kunst des Zeichnens - Anatomie, Figuren & Posen
+- [Ronen Steinke - Meinungsfreiheit: Wie Polizei und Justiz unser Grundrecht einschränken, und wie wir es verteidigen (2026)](https://annas-archive.gl/md5/33c01368b266a4b819c5047b66dcc81f)
 
 <!-- </books> -->
 
