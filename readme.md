@@ -95,6 +95,21 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [Sherry Turkle - Reclaiming Conversation (2015)](https://annas-archive.gl/search?q=Sherry+Turkle+-+Reclaiming+Conversation)
   - todo: Nicholas A. Christakis, James H. Fowler - Connected!: Die Macht Sozialer Netzwerke Und Warum Glück Ansteckend Ist (2008)
     - original: [Nicholas A. Christakis, James H. Fowler - Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives (2008)](https://annas-archive.gl/search?q=Nicholas+A.+Christakis%2C+James+H.+Fowler+-+Connected)
+  - [Rutger Bregman - Moralische Ambition: Wie man aufhört, sein Talent zu vergeuden und etwas schafft das wirklich zählt (2024)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Moralische+Ambition)
+    ([hörbuch](cas/btih/0e7769af25bd71d1fe879ff91e3a9d974c2fe84e.torrent))
+    - english: [Rutger Bregman - Moral Ambition: Stop Wasting Your Talent and Start Making a Difference (2024)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Moral+Ambition)
+      - From the author of the New York Times bestsellers "Humankind" and "Utopia for Realists" —
+        "a more politically radical Malcolm Gladwell" (The New York Times) —
+        comes a bold manifesto, daring us to harness our talents and transform our idealism into action,
+        all with the goal of making the world a wildly better place.
+    - [Rutger Bregman - Im Grunde gut. Eine neue Geschichte der Menschheit (2020)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Im+Grunde+gut)
+      ([hörbuch](todo))
+      - english: [Rutger Bregman - Humankind: A Hopeful History (2019)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Humankind%3A+A+Hopeful+History)
+    - [Rutger Bregman - Utopien für Realisten: Die Zeit ist reif für die 15-Stunden-Woche, offene Grenzen und das bedingungslose Grundeinkommen (2017)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Utopien+f%C3%BCr+Realisten)
+      ([hörbuch](cas/btih/f0d4316e14fe6d1aa26e27f598eddbaf405b8773.torrent))
+      - english: [Rutger Bregman - Utopia for Realists: How We Can Build the Ideal World (2014)](https://annas-archive.gl/search?q=Rutger+Bregman+-+Utopia+for+Realists)
+    - [Rutger Bregman - Wenn das Wasser kommt (2021)](https://annas-archive.gl/md5/1976a9a129eb8ffe4ba6aeb71bb13c6a)
+      ([hörbuch](cas/btih/9f2c113cb1109afcd5e06547f5508a28df7782b7.torrent))
 - todo: Sarah Blaffer Hrdy - Mütter Und Andere: Wie Die Evolution Uns Zu Sozialen Wesen Gemacht Hat (2010)
   - original: [Sarah Blaffer Hrdy - Mothers and Others: The Evolutionary Origins of Mutual Understanding (2009)](https://annas-archive.gl/search?q=Sarah+Blaffer+Hrdy+-+Mothers+and+Others)
   - [David F. Lancy - The Anthropology of Childhood (2008)](https://annas-archive.gl/search?q=David+F.+Lancy+-+The+Anthropology+of+Childhood)
