@@ -729,9 +729,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - original: [Robert Waldinger - The Good Life: Lessons from the World's Longest Scientific Study of Happiness (2023)](https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Robert+Waldinger+-+The+Good+Life%3A+Lessons+from)
   - [Frederic Laloux - Reinventing Organizations: Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit (2014)](https://annas-archive.gl/md5/356b7f41b12e86054d2bb71409159e94)
     - original: [Frederic Laloux - Reinventing Organizations (2014)](https://annas-archive.gl/search?q=Frederic+Laloux+-+Reinventing+Organizations&lang=en)
-  - todo übersetzen: [Looby Macnamara - People and Permaculture (2012)](https://annas-archive.gl/md5/3295b0882892f23444ea9acdf6d8275b)
-  - todo: David Holmgren - Permakultur: Gestaltungsprinzipien für zukunftsfähige Lebensweisen (2002)
-    - [David Holmgren - Permaculture: Principles and Pathways beyond Sustainability (2002)](https://annas-archive.gl/search?q=David+Holmgren+-+Permaculture&lang=en)
   - [Patrick Lencioni - Die 5 Dysfunktionen eines Teams (2002)](https://annas-archive.gl/search?q=Patrick+Lencioni+-+Die+5+Dysfunktionen+eines+Teams)
     - original: [Patrick Lencioni - The Five Dysfunctions of a Team (2002)](https://annas-archive.gl/search?q=Patrick+Lencioni+-+The+Five+Dysfunctions+of+a+Team)
   - [Marshall B. Rosenberg - Gewaltfreie Kommunikation: Eine Sprache des Lebens (1999)](https://annas-archive.gl/search?q=Marshall+B.+Rosenberg+-+Gewaltfreie+Kommunikation&lang=de)
@@ -771,6 +768,13 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo: Ned Hartley - Zeichne deine eigenen Comics (2026)
   - todo: Die Kunst des Zeichnens - Anatomie, Figuren & Posen
 - [Ronen Steinke - Meinungsfreiheit: Wie Polizei und Justiz unser Grundrecht einschränken, und wie wir es verteidigen (2026)](https://annas-archive.gl/md5/33c01368b266a4b819c5047b66dcc81f)
+- Permakultur
+  - [Dorothea Baumjohann - 365 Tage Hochbeet (2021)](https://annas-archive.gl/search?q=Dorothea+Baumjohann+-+365+Tage+Hochbeet&ext=pdf&ext=epub)
+  - [Sepp Holzer - Sepp Holzers Permakultur: Praktische Anwendung für Garten, Obst und Landwirtschaft (2004)](https://annas-archive.gl/search?q=Sepp+Holzers+Permakultur)
+  - todo: [Silvia Kirsch - Selbstversorger & Einmachen (2020)](https://mygully.com/showthread.php?t=8706514)
+  - todo übersetzen: [Looby Macnamara - People and Permaculture (2012)](https://annas-archive.gl/md5/3295b0882892f23444ea9acdf6d8275b)
+  - todo: David Holmgren - Permakultur: Gestaltungsprinzipien für zukunftsfähige Lebensweisen (2002)
+    - original: [David Holmgren - Permaculture: Principles and Pathways beyond Sustainability (2002)](https://annas-archive.gl/search?q=David+Holmgren+-+Permaculture&lang=en)
 
 <!-- </books> -->
 
