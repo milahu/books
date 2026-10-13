@@ -803,6 +803,13 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [Looby Macnamara - People and Permaculture (2012)](https://annas-archive.gl/md5/3295b0882892f23444ea9acdf6d8275b)
   - todo: David Holmgren - Permakultur: Gestaltungsprinzipien für zukunftsfähige Lebensweisen (2002)
     - original: [David Holmgren - Permaculture: Principles and Pathways beyond Sustainability (2002)](https://annas-archive.gl/search?q=David+Holmgren+-+Permaculture&lang=en)
+- todo übersetzen: [Eric S. Raymond - The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
+  - todo übersetzen: [Kieran Potts - Release early, release often](https://kieranpotts.com/garden/release-early-release-often)
+  - todo übersetzen: [Zack Urlocker, Release Early & Release Often](https://www.infoworld.com/article/2308544/release-early-release-often.html)
+  - todo übersetzen: [Jez Humble - Continuous Delivery](https://annas-archive.gl/search?q=Jez+Humble+-+Continuous+Delivery)
+  - todo übersetzen: [Martin Fowler - Continuous Delivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
+  - todo übersetzen: [Jez Humble - Four Principles of Low-Risk Software Releases](http://web.archive.org/web/20201111194358/http://www.informit.com/articles/article.aspx?p=1833567)
+  - todo übersetzen: [Martin Fowler - Frequency Reduces Difficulty](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 
 <!-- </books> -->
 
