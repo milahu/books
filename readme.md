@@ -156,6 +156,34 @@ german: bücher zum thema selbstorganisation (rote pillen)
         und sich damit gegen die Mühlen der Zivilisation gestemmt.
       - original: [James C. Scott - Against the Grain: A Deep History of the Earliest States (2017)](https://annas-archive.gl/search?q=James+C.+Scott+-+Against+the+Grain)
     - todo übersetzen: [James C. Scott - Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed (1998)](https://annas-archive.gl/search?q=James+C.+Scott+-+Seeing+Like+a+State)
+    - todo übersetzen: [Christopher Ryan - Civilized to Death: The Price of Progress (2019)](https://annas-archive.gl/search?q=Civilized+to+Death+Christopher+Ryan&ext=pdf&ext=epub&lang=en)
+      - A particularly direct critique of the assumption that civilization necessarily improves human life. Ryan contrasts hunter-gatherer existence with the stresses, inequalities, alienation, and health costs associated with agricultural and industrial societies.
+      - Central idea: What we call progress may have made many dimensions of human life worse.
+      - This is a more explicitly anti-civilizational and popular-audience argument than Scott's historical analysis.
+    - todo übersetzen: [Jared Diamond - The Worst Mistake in the History of the Human Race (1987)](https://duckduckgo.com/?q=Jared+Diamond+The+Worst+Mistake+in+the+History+of+the+Human+Race+1987&ia=web)
+      - This short, influential essay is almost tailor-made for your question. Diamond argues that adopting agriculture often reduced nutritional diversity and increased disease, social stratification, and labor burdens. He describes agriculture as a catastrophe for human well-being, despite its enormous demographic and political consequences.
+      - Central idea: The agricultural revolution may have been humanity's biggest mistake, even if it made civilization possible.
+    - todo: John Zerzan - Against Civilization: Readings and Reflections (1999) (expanded edition 2005)
+      - One of the most radical thinkers in the anti-civilization tradition. Zerzan associates the emergence of agriculture and permanent settlement with domestication, social control, alienation, and the loss of more immediate, unmediated ways of living. His critique extends beyond the state to technology, symbolic culture, and the structures of civilization itself.
+      - Central idea: The problem isn't merely that civilization became hierarchical; civilization itself transformed human existence in damaging ways.
+      - Best for: radical anti-civilization philosophy. His claims are considerably more sweeping and controversial than Scott's historical arguments. His bibliography includes several related works.
+    - todo übersetzen: [Richard Manning - Against the Grain: How Agriculture Has Hijacked Civilization (2004)](https://annas-archive.gl/search?q=Richard+Manning+-+Against+the+Grain)
+      - A particularly close companion to Scott. Manning examines how agriculture reshaped human societies and ecosystems, concentrating food production in a small number of crops and creating the conditions for population expansion, environmental degradation, and political power.
+      - Central idea: Agriculture is not just a food-producing technique; it is a system that reorganizes society around production, surplus, and control.
+      - This is one of the most directly relevant books to read alongside Scott.
+    - todo übersetzen: [John Zerzan - Future Primitive (1994)](https://theanarchistlibrary.org/library/john-zerzan-future-primitive)
+      - This is probably the better choice if you're interested specifically in the contrast between mobile foraging societies and the settled world. Zerzan draws on anthropology and critiques of technological society to argue that prehistoric foraging life offered forms of freedom and immediacy lost through civilization.
+      - Central idea: The transition away from hunter-gatherer life may have entailed a profound loss of autonomy, not merely a change in subsistence.
+      - [John Zerzan - Future Primitive And Other Essays](https://annas-archive.gl/search?q=John+Zerzan+-+Future+Primitive+Essays)
+      - [John Zerzan - Future Primitive Revisited](https://annas-archive.gl/search?q=John+Zerzan+-+Future+Primitive+Revisited)
+    - todo übersetzen: [Marshall Sahlins - Stone Age Economics (1972)](https://annas-archive.gl/search?q=Marshall+Sahlins+-+Stone+Age+Economics)
+      - Sahlins developed the influential idea of the “original affluent society.” He challenged the assumption that hunter-gatherers lived in constant scarcity and argued that their needs could be met with relatively limited labor. This undermines the familiar justification that agriculture and settlement were necessary to escape a miserable existence.
+      - His work is foundational for understanding why some anthropologists questioned the supposed superiority of settled life.
+    - todo übersetzen: [Richard B. Lee and Irven DeVore - Man the Hunter: The First Intensive Survey of a Single, Crucial Stage of human Development (1968)](https://annas-archive.gl/search?q=Richard+B.+Lee+-+Man+the+Hunter)
+      - This landmark collection helped establish a new anthropological picture of hunter-gatherers, challenging assumptions about their poverty, working lives, and social organization. It provides much of the intellectual background to later arguments against the agricultural revolution.
+    - Daniel Quinn - Ishmael (1992)
+      - A philosophical novel rather than a conventional historical study. Quinn traces many contemporary problems to the agricultural revolution and the worldview of societies that seek to control, produce, and expand. His distinction between “Takers” and “Leavers” offers a memorable framework for thinking about civilization's relationship with the natural world.
+      - Central idea: The agricultural-civilizational worldview encourages humanity to treat the world as something to possess and control.
   - todo übersetzen: [Richard D. Bartlett - Patterns for Decentralised Organising (WIP)](https://leanpub.com/patterns-for-decentralised-organising)
     - todo übersetzen: [Anthony Cabraal, et al - Better Work Together: How the power of community can transform your business (2018)](https://annas-archive.gl/md5/493f01c53abc05c480d0a09dbac60e4b)
   - todo übersetzen: [Marta Harnecker - Planning from Below (2019)](https://annas-archive.gl/md5/b9cd3038e797de5eead622b586393e08)
