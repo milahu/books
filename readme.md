@@ -714,6 +714,16 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](https://github.com/milahu/kurt-haettasch-fangschuss-2026)
 - [Aron Pielka - Bauzeit: Shlomo, der Knast und die freie Welt (2025)](https://github.com/milahu/aron-pielka-bauzeit-2025)
 - [David Keirsey - Versteh Mich Bitte: Charakter- und Temperament-Typen (1990)](https://github.com/milahu/david-keirsey-versteh-mich-bitte-1990)
+  - todo übersetzen: [David Keirsey - Please Understand Me II (1998)](https://annas-archive.gl/search?q=David+Keirsey+-+Please+Understand+Me+II)
+  - [C.G. Jung - Psychologische Typen (1921)](https://archive.org/details/Psychologische_Typen)
+    - todo: C.G. Jung - Gesammelte Werke, Band 6: Psychologische Typen (2023)
+    - english: C.G. Jung - Psychological Types (1921)
+      - [C.G. Jung - Collected Works, Volume 6: Psychological Types](https://jungiancenter.org/wp-content/uploads/2023/09/Vol-6-psychological-types.pdf)
+  - todo: Howard Gardner - Abschied vom IQ: Die Rahmentheorie der vielfachen Intelligenzen (1991)
+    - original: [Howard Gardner - Frames Of Mind: The Theory Of Multiple Intelligences (1983)](https://annas-archive.gl/search?q=Howard+Gardner+-+Frames+Of+Mind)
+  - todo übersetzen: [John L. Holland - Making Vocational Choices: A Theory of Vocational Personalities and Work Environments (1973)](https://annas-archive.gl/search?q=John+Holland+Making+Vocational+Choices)
+    - todo übersetzen: [John L. Holland - A Theory of Vocational Choice (1959)](https://ia600108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fh0034974.zip&file=10.1037%252Fh0040767.pdf)
+  - todo übersetzen: [Isabel Briggs Myers - Gifts Differing](https://annas-archive.gl/search?q=Isabel+Briggs+Myers+-+Gifts+Differing&check=1)
   - [Karl Koch - Der Baumtest: Der Baumzeichenversuch als psychodiagnostisches Hilfsmittel (1997)](https://github.com/milahu/karl-koch-der-baumtest-1997)
     - Der Baumtest als psychodiagnostisches Hilfsmittel
       hat sich bewährt zum Nachweis affektiver Entwicklungshemmungen und als Charaktertest.
@@ -726,6 +736,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - Zusammenfassung: Lasse den Proband einen Baum malen.
       In welcher Jahreszeit steht der Baum?
       Frühling = Typ 2, Sommer = Typ 3, Herbst = Typ 1, Winter = Typ 4.
+  - [Joachim Bauer - Wie wir werden, wer wir sind: Die Entstehung des menschlichen Selbst durch Resonanz (2019)](https://annas-archive.gl/search?q=Joachim+Bauer+-+Wie+wir+werden+wer+wir+sind)
+    - todo: hörbuch
 - [Ezra Pound - ABC des Lesens (2020)](https://github.com/milahu/ezra-pound-abc-des-lesens-2020)
   - [Ezra Pound - Wort und Weise: motz el son (1971)](https://annas-archive.gl/md5/fd2ba26ad531c618672b754bd6de5299)
     - Ezra Pound - Leseplan
