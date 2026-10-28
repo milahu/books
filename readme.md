@@ -236,6 +236,18 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Fritz Vahrenholt - Seveso ist überall: Die tödlichen Risiken der Chemie (1978)](https://annas-archive.gl/md5/aa226523efffdd294f7c9ee26826669e)
   - [Ulrike Herrmann - Geld als Waffe. Wie die Wirtschaft über Krieg und Frieden entscheidet (2026)](https://libgen.bz/file.php?md5=de47fe252827b3b8b1775f9431079435)
     ([hörbuch](cas/btih/8c366ea383cfb8deaf510e675fbf6b783bbdf876.torrent))
+  - [Matthias Weik, Götz W. Werner, Marc Friedrich - Sonst knallts. Warum wir Wirtschaft und Politik radikal neu denken müssen (2017)](https://annas-archive.gl/search?q=Matthias+Weik+-+Sonst+knallt*)
+    ([Hörbuch](cas/btih/28755db58c5bd26fc1d55978b675644870ef477a.torrent))
+  - [Marc Friedrich, Matthias Weik - Der größte Crash aller Zeiten: Wirtschaft, Politik, Gesellschaft. Wie Sie jetzt noch Ihr Geld schützen können (2019)](https://annas-archive.gl/search?q=Marc+Friedrich+-+Der+gr%C3%B6%C3%9Fte+Crash+aller+Zeiten)
+    ([Hörbuch](cas/btih/53ad503f230eb7f23b5b4119230a5520c2a825dc.torrent))
+  - [Marc Friedrich, Florian Kössler - Die größte Revolution aller Zeiten: Warum unser Geld stirbt und wie Sie davon profitieren (2024)](https://annas-archive.gl/search?q=Marc+Friedrich+-+Die+gr%C3%B6%C3%9Fte+Revolution+aller+Zeiten)
+    ([Hörbuch](cas/btih/7ebe6321c7bd5bf1bdf396dbeaaf812000256cc9.torrent))
+  - [Matthias Weik, Marc Friedrich - Kapitalfehler: Wie unser Wohlstand vernichtet wird und warum wir ein neues Wirtschaftsdenken brauchen (2016)](https://annas-archive.gl/search?q=Matthias+Weik+-+Kapitalfehler)
+    ([Hörbuch](cas/btih/e7ec7e2bad621ee4895147626976b9595f581964.torrent))
+  - [Stefan Schubert - Gewalt ist eine Lösung: Morgens Polizist, abends Hooligan - mein geheimes Doppelleben (2010)](https://annas-archive.gl/search?q=Stefan+Schubert+-+Gewalt+ist+eine+L%C3%B6sung)
+    ([Hörbuch](cas/btih/87dab6b2c1aba3015c71a6468afa0a2203b14226.torrent))
+  - [Karl Marx, Friedrich Engels - Das kommunistische Manifest (1848)](https://annas-archive.gl/search?q=Marx+Engels+-+Das+kommunistische+Manifest)
+    ([Hörbuch](cas/btih/5b7ced428c7ecc348e7c8f646debdce58b06229c.torrent))
 - [Die Fleischfresser Diät. Shawn Baker. 2021](https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e)
   - [Julia Ross - Was die Seele essen will: Die Mood Cure (2015)](https://github.com/milahu/julia-ross-die-mood-cure)
 - [Liebscher & Bracht - Schmerzfrei und beweglich bis ins hohe Alter (2022)](https://annas-archive.gl/md5/f7b7c0b4ccc5dbb5c338a24d04bf479d) ([Hörbuch](cas/btih/7f6a496650e96a5f87b16a05797f86734b42f399.torrent))
@@ -496,9 +508,65 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - english: [Silvia Federici - Caliban and the Witch: Women, the Body and Primitive Accumulation (2004)](https://annas-archive.gl/search?q=Silvia+Federici+-+Caliban+and+the+Witch)
   - duplicate: Ivan Illich - Deschooling Society
   - [Michel Foucault - Überwachen und Strafen: Die Geburt des Gefängnisses (1975)](https://annas-archive.gl/search?q=Michel+Foucault+-+%C3%9Cberwachen+und+Strafen)
+    ([Hörbuch](cas/btih/ae5cc1e07f4679b5f5ffc87752b66ad5687f40db.torrent))
     - english: [Michel Foucault - Discipline and Punish: The Birth of the Prison (1975)](https://annas-archive.gl/search?q=Michel+Foucault+-+Discipline+and+Punish)
     - original: [Michel Foucault - Surveiller et punir: Naissance de la prison (1975)](https://annas-archive.gl/search?q=Michel+Foucault+-+Surveiller+et+punir)
+      - Foucault investigates how institutions define standards of normality and use observation, examination, classification, and correction to encourage people to conform.
+      - His analysis of disciplinary power connects schools, prisons, hospitals, and workplaces without requiring the assumption that one central authority designed the entire system. Different institutions can develop techniques that reinforce one another.
+      - Why he fits: Your idea that people perform normality to gain admission to a larger social order is a question about how norms govern behavior.
+      - Foucault helps explain how people may internalize standards of acceptable conduct and police themselves, even without anyone explicitly threatening them.
+  - [Erich Fromm - Die Furcht vor der Freiheit (1941)](https://annas-archive.gl/search?q=Erich+Fromm+-+Die+Furcht+vor+der+Freiheit)
+    - original: [Erich Fromm - Escape from Freedom (1941)](https://annas-archive.gl/search?q=Erich+Fromm+-+Escape+from+Freedom)
+    - Fromm asks why people who have gained individual freedom sometimes seek security by submitting to authority or conforming to social expectations. His concept of secondary bonds is particularly relevant: people who have lost older forms of belonging can seek replacement attachments that relieve their isolation.
+    - Your proposed mechanism has a similar structure: weakened communal belonging creates a hunger for recognition, and conformity becomes a way to gain acceptance.
+    - Read especially for: the psychological connection between isolation, conformity, and authoritarianism.
+  - [Wilhelm Reich - Die Massenpsychologie des Faschismus (1933)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Die+Massenpsychologie+des+Faschismus)
+    - english: [Wilhelm Reich - The Mass Psychology of Fascism (1933)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+The+Mass+Psychology+of+Fascism)
+      - Reich is particularly relevant because he connects family structure, sexual repression, authoritarian character, and fascist mass movements.
+      - He argues that the authoritarian family helps reproduce the psychological dispositions on which authoritarian politics can draw. He also examines how people can internalize the expectations of a hierarchical society and reproduce them in their own private lives.
+      - Why read him: Horkheimer's thesis concerns the reproduction of authority within the family; Reich investigates the psychological and social mechanisms through which this might happen.
+      - Reich's psychoanalytic explanations are historically influential but not all are supported by contemporary empirical evidence.
+    - [Wilhelm Reich - Rede an den kleinen Mann (1946)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Rede+an+den+kleinen+Mann&lang=de)
+      - english: [Wilhelm Reich - Listen, Little Man! (1946)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Listen+Little+Man&lang=en)
+    - [Wilhelm Reich - Charakteranalyse (1933)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Charakteranalyse&lang=de)
+      - english: [Wilhelm Reich - Character Analysis (1933)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Character+Analysis)
+    - [Wilhelm Reich - Die Funktion des Orgasmus (Die Entdeckung des Orgons, Band 1) (1942)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+Die+Funktion+des+Orgasmus)
+      - english: [Wilhelm Reich - The Function of the Orgasm (The Discovery of the Orgone, Volume 1) (1942)](https://annas-archive.gl/search?q=Wilhelm+Reich+-+The+Function+of+the+Orgasm)
+  - [Ferdinand Tönnies - Gemeinschaft Und Gesellschaft (1887)](https://annas-archive.gl/search?q=Ferdinand+T%C3%B6nnies+-+Gemeinschaft+Und+Gesellschaft)
+    - english: [Ferdinand Tönnies - Community and Society (1887)](https://annas-archive.gl/search?q=Ferdinand+T%C3%B6nnies+-+Community+and+Society)
+    - Tönnies provides the classical sociological vocabulary for your distinction.
+      - Gemeinschaft: relationships grounded in enduring personal ties, kinship, neighborhood, friendship, and a sense of belonging.
+      - Gesellschaft: relationships organized more impersonally around interests, contracts, exchange, and formal institutions.
+    - His framework helps describe a society in which people are increasingly connected through formal systems but experience less of the intimate, durable belonging associated with community.
+    - Why read him: Your hypothesis is, in part, that modern society replaces community with formal integration. Tönnies helps you articulate precisely what that means.
+    - He is not simply advocating a return to tribal life; the distinction is an analytical framework, not proof that all traditional communities are harmonious or free.
+  - todo übersetzen: [Robert A. Nisbet - The Quest for Community: A Study in the Ethics of Order & Freedom (1953)](https://annas-archive.gl/search?q=Robert+A.+Nisbet+-+The+Quest+for+Community)
+    - Nisbet argues that the decline of intermediate social institutions and the expansion of centralized state power are closely connected.
+    - These intermediate institutions include families, religious associations, neighborhoods, and local communities. When they weaken, individuals can become more dependent on centralized institutions for security, identity, and social order.
+    - Why he fits your hypothesis: Nisbet gets remarkably close to your central structural argument: an isolated individual is not necessarily more autonomous. Someone detached from meaningful communities may become more dependent on the state.
+    - This is one of the first books I'd read if you want a systematic theory of the relationship between community fragmentation and centralized power.
+  - [Benedict Anderson - Die Erfindung der Nation. Zur Karriere eines folgenreichen Konzepts (1983)](https://annas-archive.gl/search?q=Benedict+Anderson+-+Die+Erfindung+der+Nation)
+    - original: [Benedict Anderson - Imagined Communities: Reflections on the Origin and Spread of Nationalism (1983)](https://annas-archive.gl/search?q=Benedict+Anderson+-+Imagined+Communities)
+      - Anderson investigates how people come to experience themselves as members of a nation despite never personally knowing the vast majority of their fellow citizens.
+      - He explains the historical importance of print capitalism, shared languages, newspapers, and novels in making large national communities imaginable.
+      - Why he fits: This directly addresses your idea that mass culture can glue together people who otherwise lack dense, face-to-face social relationships.
+      - A nation can provide a powerful sense of shared identity across millions of strangers. That identity is real in its social consequences, even though the members do not participate in a single, intimate community.
+    - todo übersetzen: [Benedict Anderson - A Life Beyond Boundaries (2009)](https://annas-archive.gl/search?q=Benedict+Anderson+-+A+Life+Beyond+Boundaries)
+      - He discusses the ideas and inspirations behind his best-known work, "Imagined Communities" (1983), whose complexities changed the study of nationalism.
+    - todo übersetzen: [Benedict Anderson - Under Three Flags: Anarchism and the Anti-Colonial Imagination (2005)](https://annas-archive.gl/search?q=Benedict+Anderson+-+Under+Three+Flags)
+      - he depicts the dense intertwining of anarchist internationalism and radical anti-colonialism
+  - todo übersetzen: [Michel Maffesoli - The Time of the Tribes: The Decline of Individualism in Mass Society (1988)](https://annas-archive.gl/search?q=Michel+Maffesoli+-+The+Time+of+the+Tribes)
+    - original: [Michel Maffesoli - Le Temps des tribus: le déclin de l'individualisme dans les sociétés de masse (1988)](https://annas-archive.gl/search?q=Michel+Maffesoli+-+Le+Temps+des+tribus)
+    - Maffesoli argues that modern individualism has not eliminated the human desire for collective belonging. Instead, people form new groups organized around shared emotions, lifestyles, identities, and experiences.
+    - Why he fits: His work directly addresses the persistence of tribal forms of sociality inside modern mass society.
+    - He is useful for thinking about whether contemporary subcultures, informal networks, and affinity groups satisfy genuine social needs that conventional institutions do not.
+  - [Helmuth Plessner - Grenzen der Gemeinschaft (1924)](https://annas-archive.gl/search?q=Helmuth+Plessner+-+Grenzen+der+Gemeinschaft)
+    - english: [Helmuth Plessner - The Limits of Community: A Critique of Social Radicalism (1924)](https://annas-archive.gl/search?q=Helmuth+Plessner+-+The+Limits+of+Community)
+    - Plessner examines the desire for an intimate, authentic community and warns against treating complete communal unity as the ideal form of human existence. He emphasizes the importance of distance, social roles, tact, and the freedom that can exist in more impersonal relationships.
+    - Why he fits: Plessner is a valuable counterpoint to the idea that the solution to fragmented nuclear households must be a return to tribes or clans.
+    - Dense communities can offer mutual support, but they can also impose conformity, suppress individuality, and punish dissent. A larger community does not automatically produce greater freedom.
 - [Sten Nadolny - Die Entdeckung der Langsamkeit (1983)](https://annas-archive.gl/search?q=Sten+Nadolny+-+Die+Entdeckung+der+Langsamkeit)
+  ([Hörbuch](cas/btih/ad38eaeab31caa6a76b89962ef13a65c26bfd357.torrent))
   - english: [Sten Nadolny - The Discovery of Slowness (1983)](https://annas-archive.gl/search?q=Sten+Nadolny+-+The+Discovery+of+Slowness)
 - [Tom Burgis - Kleptopia: Wie Geheimdienste, Banken und Konzerne mit schmutzigem Geld die Welt erobern (2021)](https://annas-archive.gl/md5/4a3789f4e799ad433f727306d12d5756)
   - original: [Tom Burgis - Kleptopia: How Dirty Money is Conquering the World (2020)](https://annas-archive.gl/search?q=Tom+Burgis+-+Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World)
@@ -855,6 +923,16 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [Looby Macnamara - People and Permaculture (2012)](https://annas-archive.gl/md5/3295b0882892f23444ea9acdf6d8275b)
   - todo: David Holmgren - Permakultur: Gestaltungsprinzipien für zukunftsfähige Lebensweisen (2002)
     - original: [David Holmgren - Permaculture: Principles and Pathways beyond Sustainability (2002)](https://annas-archive.gl/search?q=David+Holmgren+-+Permaculture&lang=en)
+- Gemüsegarten
+  - [Joachim Mayer - Das große GU Handbuch Gemüse-Anbauplanung: Das Standardwerk für Selbstversorger - jahrelang reiche Ernte durch gute Planung (2025)](https://annas-archive.gl/search?q=Joachim+Mayer+-+Gem%C3%BCse-Anbauplanung)
+  - [Judith Rakers - Homefarming: Selbstversorgung ohne grünen Daumen – Anbau, Pflege und Ernte für Einsteiger (2021)](https://annas-archive.gl/search?q=Judith+Rakers+-+Homefarming)
+  - todo: Huw Richards - Hochbeet: Frisches Gemüse das ganze Jahr. Praktischer Ratgeber - vom Bau des Hochbeets bis zur Ernte (2020)
+  - todo: Marion Nickig - Das große GU Gartenbuch: Das Standardwerk für jeden Gartenliebhaber zu Pflanzenpflege, Gartengestaltung und Gartenpraxis (2016)
+  - [Joachim Mayer - Gartenjahr für Einsteiger: Gartenarbeit leicht gemacht – Tipps für Selbstversorgung und Pflanzenpflege (2015)](https://annas-archive.gl/search?q=Joachim+Mayer+-+Gartenjahr+f%C3%BCr+Einsteiger)
+  - todo: Andreas Barlage - Quickfinder Gartenjahr (2017)
+  - todo: Doris Kampas - Das unglaubliche Hochbeet. Ernten bis zum Umfallen. Wie Sie ein Hochbeet planen, selber bauen, richtig befüllen, bepflanzen (2019)
+  - [Dorothea Baumjohann - 365 Tage Hochbeet: Ernteglück das ganze Jahr | Ganzjährig frisches Gemüse anbauen – Der Garten-Ratgeber mit Tipps und Tricks für Anfänger und Selbstversorger-Profis (2021)](https://annas-archive.gl/search?q=Dorothea+Baumjohann+-+365+Tage+Hochbeet)
+  - todo: Mirko Simon - Mein Hochbeet-Jahr: 365 Tage Selbstversorger aus dem eigenen Garten (2022)
 - todo übersetzen: [Eric S. Raymond - The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
   - todo übersetzen: [Kieran Potts - Release early, release often](https://kieranpotts.com/garden/release-early-release-often)
   - todo übersetzen: [Zack Urlocker, Release Early & Release Often](https://www.infoworld.com/article/2308544/release-early-release-often.html)
