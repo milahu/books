@@ -27,10 +27,8 @@ def main():
         cas_config = json.load(f)
     print(f"cas_config: {cas_config}")
 
-    # TODO better: try to find torrents in all cas dirs
-    # quickfix: just use the first cas dir
-    cas_dir = cas_config["dirs"][0]
-    print(f"cas_dir: {cas_dir!r}")
+    cas_dirs = cas_config["dirs"]
+    print(f"cas_dirs: {cas_dirs!r}")
 
     os.makedirs("cas/btih", exist_ok=True)
 
@@ -44,7 +42,17 @@ def main():
         xt = urllib.parse.parse_qs(urllib.parse.urlparse(url).query)["xt"][0]
         assert xt.lower().startswith("urn:btih:"), f"bad xt: {xt}"
         btih = xt.split(":")[2].lower()
-        torrent_src = f"{cas_dir}/btih/{btih}.torrent"
+        torrent_src = None
+        for cas_dir in cas_dirs:
+            torrent_src = f"{cas_dir}/btih/{btih}.torrent"
+            if os.path.exists(torrent_src):
+                break
+            else:
+                torrent_src = None
+        if torrent_src is None:
+            print(f"error: missing torrent file: {btih}.torrent")
+            # dont replace the magnet link
+            return match.group(0)
         torrent = f"cas/btih/{btih}.torrent"
         shutil.copy(torrent_src, torrent)
         replacement = f"[{name}]({torrent})"
