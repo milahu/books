@@ -320,6 +320,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Michael Meyen - Cancel Culture: Wie Propaganda und Zensur Demokratie und Gesellschaft zerstören (2024)](https://annas-archive.gl/md5/82951652769dec749298ce382fd9a1d8)
 - [Fabio De Masi - Geld, Macht, Verbrechen: Von Finanzskandalen, Wirtschaftskriminellen und Geheimagenten (2026)](https://libgen.bz/file.php?md5=411d96a698f274563a03e578b4cd57b7) ([Hörbuch](cas/btih/f20d22bde0d13e7955207f8f60564149f7c857b6.torrent)) (via [Norbert Häring](https://norberthaering.de/buchtipps/de-masi-geld-macht-verbrechen/)) (thema: Wirecard, CumCum, CumEx)
   - [Wolfgang Hetzer - Finanzmafia: Wieso Banker und Banditen ohne Strafen davonkommen (2012)](https://annas-archive.gl/md5/a324af3250acd009519fab7891954d39)
+- todo: Alexander Schreiner - Die digitale Entmündigung: Daten, Vermögen, Selbstbestimmung. Wie digitale ID, Big Tech und Banken sie dir nehmen - und 47 Hacks, sie zurückzuholen (2026-11-16) (lieferung 2026-11-25)
 - [Thomas Szasz - Grausames Mitleid. Über die Aussonderung unerwünschter Menschen (2016)](https://annas-archive.gl/md5/87517fc5c9ab454c411b334679ca84f6)
   - [Thomas Szasz - Geisteskrankheit, ein moderner Mythos? Grundzüge einer Theorie des persönlichen Verhaltens (2013)](https://github.com/milahu/thomas-szasz-geisteskrankheit-mythos-2013)
   - [Thomas Szasz - Das Psychiatrische Testament (1987)](https://github.com/milahu/thomas-szasz-das-psychiatrische-testament-1987)
@@ -806,11 +807,15 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Alain de Benoist - Heide sein: Zu einem Neuanfang. Die europäische Glaubensalternative (2016)](https://annas-archive.gl/md5/e88f12e940c0b5f85bcf2935a5e30c9e)
   - [Alain de Benoist - Aufstand der Kulturen - Europäisches Manifest für das 21. Jahrhundert (2015)](https://annas-archive.gl/md5/8dbf851fe1c1f61b7fe81d9a25ce1e4a)
   - [Alain de Benoist - Welche Religion für Europa? Ein Gespräch über die religiöse Identität der Völker Europas (1992)](https://annas-archive.gl/md5/977b46253ddd5ea2e859d4a8ce6cd45b)
+  - todo: Alain de Benoist - Kritik der Menschenrechte: Warum Universalismus und Globalisierung die Freiheit bedrohen (2024)
   - [Niko Paech - Befreiung vom Überfluss (2011)](https://annas-archive.gl/search?q=Niko+Paech++Befreiung+vom+%C3%9Cberfluss)
   - [Volker Mohr - Der Verlust des Ortes (2017)](https://annas-archive.gl/md5/fdf2f4067aea795de830e843481f63fa)
     - In diesem kaplaken über den »Verlust des Ortes« umkreist er die Auswirkungen einer »Perfektion der Technik« ebenso wie die daraus resultierende Entortung des Menschen und Vernutzung aller noch unberührten oder nur organisch in den Dienst genommenen Räume.
     - Wer Mohr liest, begreift, warum der Mensch den Ort braucht, warum er ohne ihn herunterkommt und zur Verfügungsmasse einer Industrie für den Massenkonsum verkommt. Gegenkräfte sieht Mohr in der Rückverzauberung der Welt, in der Entschleunigung des eigenen Lebens und darin, dem Poetischen und Nicht-Bezifferbaren im Leben einen hohen Stellenwert einzuräumen. Ein Programm für wenige, keines für die Massengesellschaft.
 - [Thor von Waldstein - Der deutsche Geist und das Elend des Kapitalismus (1990)](https://annas-archive.gl/md5/824b7b17adafd0e56bd6bd21b2069ca3)
+- [Björn Höcke - Nie zweimal in denselben Fluss (2018)](https://annas-archive.gl/search?q=Bj%C3%B6rn+H%C3%B6cke+-+Nie+zweimal+in+denselben+Fluss) \[AFD]
+- [Maximilian Krah - Politik von Rechts (2023)](https://annas-archive.gl/md5/65e1d9a7c9e28eb2e09dbec38f93b524) \[AFD]
+- todo: Sophie Liebnitz - Halbmondsüchtig: Xenomanie in Europa (2025)
 - [Akif Pirinçci - Deutschland von Sinnen: Der irre Kult um Frauen, Homosexuelle und Zuwanderer (2015)](https://annas-archive.gl/md5/d9314868103c302f032bc3575ea06512)
 - [Konstantin Richter - Dreihundert Männer: Aufstieg und Fall der Deutschland AG. Eine glänzend erzählte Geschichte der deutschen Wirtschaft (2025)](https://annas-archive.gl/md5/37aab4cbd774948f51926d86346cce6e)
 - [Kohei Saito - Am Ende des Fortschritts: Überleben in den Ruinen des Kapitalismus. Die neue Vision für eine Gesellschaft jenseits von Fortschrittsglauben (2026)](https://libgen.bz/file.php?md5=a5e6999929dc49320547347d9326ab80)
@@ -940,6 +945,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo übersetzen: [Martin Fowler - Continuous Delivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
   - todo übersetzen: [Jez Humble - Four Principles of Low-Risk Software Releases](http://web.archive.org/web/20201111194358/http://www.informit.com/articles/article.aspx?p=1833567)
   - todo übersetzen: [Martin Fowler - Frequency Reduces Difficulty](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
+- Euthanasie
+  - [Karl Binding, Alfred Hoche - Die Freigabe der Vernichtung lebensunwerten Lebens (1920)](https://sammlungen.ub.uni-frankfurt.de/varia/content/titleinfo/8796938)
+  - duplicate: George Bernard Shaw - Handbuch des Revolutionärs (1972)
 
 <!-- </books> -->
 
