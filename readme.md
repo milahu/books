@@ -948,6 +948,11 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - Euthanasie
   - [Karl Binding, Alfred Hoche - Die Freigabe der Vernichtung lebensunwerten Lebens (1920)](https://sammlungen.ub.uni-frankfurt.de/varia/content/titleinfo/8796938)
   - duplicate: George Bernard Shaw - Handbuch des Revolutionärs (1972)
+- [Jaques Baud - Frieden in der Ukraine: Zwölf Jahre der Unvereinbarkeit von Ost und West (2026)](https://libgen.bz/file.php?md5=9cb2fb27863ea2b8b409eacea4c95187)
+- [Martin Lehner - Erklären und Verstehen: Eine kleine Didaktik der Vermittlung (2018)](https://annas-archive.gl/md5/218fbc283fc2cfaf4127b05848ac2953)
+- [Friedrich Rost - Lern- und Arbeitstechniken für das Studium](https://annas-archive.gl/search?q=Friedrich+Rost+-+Lern-+und+Arbeitstechniken+f%C3%BCr+das+Studium&sort=newest)
+- [Rödiger Voss - Wissenschaftliches Arbeiten: Leicht verständlich](https://annas-archive.gl/md5/eea1e8771a1279bfcbbd0dbfeb5c39ca)
+- [Christel Weiher - Sicherung zu Hause: Wie du deine Daten krisenfest machst – Ohne IT-Chinesisch und ohne Dauer-Abos (2026)](https://libgen.bz/file.php?md5=981aa77573a47897b78d1bdf8b02a032)
 
 <!-- </books> -->
 
