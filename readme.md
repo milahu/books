@@ -1097,6 +1097,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - todo? Judith Schalansky - Der Hals der Giraffe
 - todo: André Schmitt - TPC - Total Preparedness Concept: Der Weg zur persönlichen Freiheit - warum "überleben" nicht alles ist (2026)
 - todo: Andre Schmitt - PULK: Wie man als Kollektiv aus dem manipulierten System ausbricht und eine funktionierende Parallelstruktur aufbaut (2026)
+- todo: [Verlag Antaios - Kaplaken](https://antaios.de/gesamtverzeichnis-antaios/reihe-kaplaken/) - eine geistige Zulage für Selbstdenker: wegweisende Texte in handlichem Format
 
 
 
