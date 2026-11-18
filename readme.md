@@ -332,6 +332,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Udo Ulfkotte - Mekka Deutschland: Die stille Islamisierung (2015)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Mekka+Deutschland)
   - [Udo Ulfkotte - Gekaufte Journalisten: Wie Politiker, Geheimdienste und Hochfinanz Deutschlands Massenmedien lenken (2014)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Gekaufte+Journalisten)
     - english: [Udo Ulfkotte - Presstitutes: Embedded in the Pay of the CIA: A Confession from the Profession (2019)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Presstitutes)
+  - [Udo Ulfkotte - Unruhen in Europa: Der Vorsorgeplan für Staatsbankrott, Zwangsenteignung und Bürgerkrieg (2014)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Unruhen+in+Europa)
   - [Udo Ulfkotte - Politische Korrektheit: Von Gesinnungspolizisten und Meinungsdiktatoren (2013)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Politische+Korrektheit)
   - [Udo Ulfkotte - Raus aus dem Euro - rein in den Knast: Das üble Spiel von Politik und Medien gegen Kritiker der EU-Einheitswährung (2013)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Raus+aus+dem+Euro)
   - [Udo Ulfkotte - Was Oma und Opa noch wußten (2012)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Was+Oma+und+Opa+noch+wu%C3%9Ften)
@@ -340,9 +341,13 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Udo Ulfkotte - Albtraum Zuwanderung: Lügen, Wortbruch, Volksverdummung (2011)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Albtraum+Zuwanderung)
   - todo: Udo Ulfkotte - Wirtschaftskrieg: Wie Geheimdienste deutsche Arbeitsplätze vernichten (2010)
   - [Udo Ulfkotte - Kein Schwarz. Kein Rot. Kein Gold. (2010)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Kein+Schwarz.+Kein+Rot.+Kein+Gold.)
-    - todo: DVD: Kein Schwarz. Kein Rot. Kein Gold. Eva Herman im Gespräch mit Udo Ulfkotte, DVD Video, German, 2010, Kopp Verlag, Rottenburg am Neckar, 2010
+    - todo: video: Kein Schwarz. Kein Rot. Kein Gold. Eva Herman im Gespräch mit Udo Ulfkotte, DVD Video, German, 2010, Kopp Verlag, Rottenburg am Neckar, 2010
   - [Udo Ulfkotte - Vorsicht Bürgerkrieg! Was lange gärt, wird endlich Wut (2009)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Vorsicht+B%C3%BCrgerkrieg)
-  - [Udo Ulfkotte - SOS Abendland (2008)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+SOS+Abendland)
+  - [Udo Ulfkotte - SOS Abendland: Die schleichende Islamisierung Europas (2008)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+SOS+Abendland)
+    - todo: video: Udo Ulfkotte - SOS Abendland: Die schleichende Islamisierung Europas
+  - todo: video: Udo Ulfkotte - Die verschwiegenen Kosten der Zuwanderung (2011)
+  - todo: video: Andreas Clauss - Udo Ulfkotte - Michael Vogt: Lösungen für die Welt von morgen
+  - todo: Udo Ulfkotte - Europa vor dem Crash: Was Sie jetzt wissen müssen, um sich und Ihre Familie zu schützen (2011)
   - [Udo Ulfkotte - Der Krieg im Dunkeln: Die wahre Macht der Geheimdienste. Wie CIA, Mossad, MI6, BND und andere Nachrichtendienste die Welt regieren (2006)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Der+Krieg+im+Dunkeln)
   - [Udo Ulfkotte - Der Krieg in unseren Städten. Wie radikale Islamisten Deutschland unterwandern (2003)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Der+Krieg+in+unseren+St%C3%A4dten)
   - [Udo Ulfkotte - So lügen Journalisten: Der Kampf um Quoten und Auflagen (2001)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+So+l%C3%BCgen+Journalisten)
