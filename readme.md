@@ -296,7 +296,28 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.gl/md5/271ce8760de267a1dd96bdcf2078a6ae)
   - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
   - [Tilman Knechtel - Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
+- [Wolfgang Eggert](https://www.goodreads.com/author/show/983329.Wolfgang_Eggert)
+  - todo: Wolfgang Eggert - Das Komplott (2024) (Trump-Attentat)
+  - todo: Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)
+    - https://www.eurobuch.de/buch/isbn/9798617532472.html
+    - https://archive.org/details/WolfgangEggertDasIslamisierungskomplottWerSpieltGegenEuropakomplett
+    - https://www.youtube.com/playlist?list=PLds0lAsvC-fjtKvzx1v6c26TpJ3IpbEYO
+    - https://www.youtube.com/watch?v=aDNhyrTjZ7M
+  - [Wolfgang Eggert - Flug MH370: Die Geheimdienstspur (2014)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Flug+MH370)
+  - [Wolfgang Eggert - Die MH17-Falle: Ein Kriminalfall (2014)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Die+MH17-Falle)
   - [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.gl/md5/99d660699817f003e212ab0ae693b1c0)
+    - todo: DVD Erst Manhattan dann Berlin – Wolfgang Eggert Schild Verlag 2007
+      - Wolfgang.Eggert.-.Erst.Manhattan.dann.Berlin.2009.GERMAN.WS.DVDRiP.AC3.XviD-m3Zz
+  - [Wolfgang Eggert - London - Die Lizenz zum Töten: Die Verstrickung der Geheimdienste in den Terrorismus (2005)](https://archive.org/details/london-die-lizenz-zum-toten)
+    - todo: regenerate PDF with page background images (JP2 files)
+  - [Wolfgang Eggert - Die geplanten Seuchen: AIDS, SARS, und die militärische Genforschung (2003)](https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Wolfgang+Eggert+-+Die+geplanten+Seuchen)
+  - [Wolfgang Eggert - Angriff der Falken: Die verschwiegene Rolle von Mossad und CIA bei den Anschlägen vom 11. September (2002)](https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Wolfgang+Eggert+-+Angriff+der+Falken)
+    ([archive.org](https://archive.org/search?query=Wolfgang+Eggert+-+Angriff+der+Falken&tab=texts))
+    - todo: print layout
+  - todo: Wolfgang Eggert - Out of the blue: Spuren des Terrors in Amerika. Fundamentalisten - Messianisten - Geheimdienste: Hintergründe, Profiteure und mögliche Drahtzieher des Anschlags vom 11. September 2001 (2001)
+  - [Wolfgang Eggert - Israels Geheimvatikan, Band 1 (2001)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Israels+Geheimvatikan)
+    - [Wolfgang Eggert - Israels Geheimvatikan, Band 2 (2001)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Israels+Geheimvatikan)
+    - [Wolfgang Eggert - Israels Geheimvatikan, Band 3 (2001)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Israels+Geheimvatikan)
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.gl/md5/bd63e21a89fe2e9c6128578f98e054f7)
   - [Gustave Le Bon - Psychologie der Massen (1895)](https://annas-archive.gl/md5/bb2170c5816491bae8a676e51f12cae5)
   - [Hannah Arendt - Elemente und Ursprünge totaler Herrschaft: Antisemitismus, Imperialismus, totale Herrschaft (1951)](https://annas-archive.gl/search?q=Hannah+Arendt+-+Elemente+und+Urspr%C3%BCnge+totaler+Herrschaft)
