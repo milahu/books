@@ -357,6 +357,10 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Udo Ulfkotte - Interessenspezifische Nahostpolitik der Großmächte im Nahen Osten 1948-1979 (1984)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Interessenspezifische+Nahostpolitik)
 - [Kelly M. Greenhill - Weapons of Mass Migration: Forced Displacement, Coercion, and Foreign Policy (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Weapons+of+Mass+Migration)
   - deutsch: [Kelly M. Greenhill - Massenmigration als Waffe: Vertreibung, Erpressung und Außenpolitik (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Massenmigration+als+Waffe)
+- Compact Magazin
+  - https://archive.org/details/compact-magazin-sammlung
+  - https://libgen.bz/index.php?req=Compact+Magazin
+  - https://annas-archive.gl/search?q=Compact+Magazin
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.gl/md5/bd63e21a89fe2e9c6128578f98e054f7)
   - [Gustave Le Bon - Psychologie der Massen (1895)](https://annas-archive.gl/md5/bb2170c5816491bae8a676e51f12cae5)
   - [Hannah Arendt - Elemente und Ursprünge totaler Herrschaft: Antisemitismus, Imperialismus, totale Herrschaft (1951)](https://annas-archive.gl/search?q=Hannah+Arendt+-+Elemente+und+Urspr%C3%BCnge+totaler+Herrschaft)
