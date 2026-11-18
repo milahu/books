@@ -981,6 +981,16 @@ german: bücher zum thema selbstorganisation (rote pillen)
 
 
 
+## videos
+
+- [Kampf im Klassenzimmer - Lehrer als Täter (2009)](https://archive.org/details/KampfImKlassenzimmerLehrerAlsTter.avi)
+  ([Wikipedia](https://de.wikipedia.org/wiki/Kampf_im_Klassenzimmer):
+  Kampf im Klassenzimmer ist ein Dokumentarfilm des WDR über eine zehnte Klasse der Hauptschule im Essener Stadtteil Karnap.
+  Darin werden die Probleme des Zusammenlebens zwischen einer Minderheit von Schülern deutscher Herkunft und einer Mehrzahl von Schülern aus Zuwandererfamilien thematisiert.
+  Der Film wurde 2009 von Güner Yasemin Balcı und Nicola Graef produziert.)
+
+
+
 ## todo
 
 - Manova Gegendruck 1-5 (die bücher hab ich schon, ich bin nur zu faul zum scannen...)
