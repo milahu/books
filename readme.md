@@ -294,6 +294,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Manova Gegendruck](https://www.buchkomplizen.de/buecher/manova/gegendruck-1-6-im-bundle.html)
     - [Manova Gegendruck 6: Imperium EU? (2025)](https://github.com/milahu/manova-gegendruck-6)
 - [Tilman Knechtel - Die Rothschilds: Eine Familie beherrscht die Welt (2015)](https://annas-archive.gl/md5/271ce8760de267a1dd96bdcf2078a6ae)
+  - [Tilman Knechtel: Die Rockefellers (2015)](https://annas-archive.gl/search?q=Tilman+Knechtel%3A+Die+Rockefellers)
+    - todo: print layout
   - [Tilman Knechtel - Schwarzbuch alternative Lügenpresse (2015)](https://github.com/milahu/tilman-knechtel-schwarzbuch-2015)
   - [Tilman Knechtel - Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
 - [Wolfgang Eggert](https://www.goodreads.com/author/show/983329.Wolfgang_Eggert)
