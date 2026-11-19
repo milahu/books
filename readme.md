@@ -244,6 +244,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([Hörbuch](cas/btih/7ebe6321c7bd5bf1bdf396dbeaaf812000256cc9.torrent))
   - [Matthias Weik, Marc Friedrich - Kapitalfehler: Wie unser Wohlstand vernichtet wird und warum wir ein neues Wirtschaftsdenken brauchen (2016)](https://annas-archive.gl/search?q=Matthias+Weik+-+Kapitalfehler)
     ([Hörbuch](cas/btih/e7ec7e2bad621ee4895147626976b9595f581964.torrent))
+  - todo: Marc Friedrich - Der Rohstoffsuperzyklus (2027-03-02)
   - [Stefan Schubert - Gewalt ist eine Lösung: Morgens Polizist, abends Hooligan - mein geheimes Doppelleben (2010)](https://annas-archive.gl/search?q=Stefan+Schubert+-+Gewalt+ist+eine+L%C3%B6sung)
     ([Hörbuch](cas/btih/87dab6b2c1aba3015c71a6468afa0a2203b14226.torrent))
   - [Karl Marx, Friedrich Engels - Das kommunistische Manifest (1848)](https://annas-archive.gl/search?q=Marx+Engels+-+Das+kommunistische+Manifest)
@@ -278,6 +279,10 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Gerd Reuther - Die Kunst, möglichst lange zu leben: Die wissenschaftlich basierte Antwort auf die Frage, worauf es wirklich ankommt (2018)](https://annas-archive.gl/md5/38bfc8747041b01cddba8c237041de08) ([pdf](https://annas-archive.gl/md5/db667b23c81cac36dc8578ca2c01afe6))
 - [Jan van Helsing - Whistleblower (2016)](https://github.com/milahu/jan-van-helsing-whistleblower)
   - [Hanno Vollenweider - Bankster: Wohin Milch und Honig fließen (2016)](https://github.com/milahu/hanno-vollenweider-bankster-2016)
+  - Jan van Helsing - Geheimgesellschaften 2 (1995)
+    - https://www.vho.org/D/Geheim2/
+    - https://archive.org/details/HelsingJanVanGeheimgesellschaften2InterviewMitJanVanHelsing1995384S.Scan
+      - todo: upload to libgen (with OCR)
 - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.gl/md5/8dd4b2c7e6198aabb600847fcbef3aac) ([cover](https://annas-archive.gl/md5/2c0a18ca93b935c3af59105196311214))
   - [Doug Casey - The Preparation (2025)](https://github.com/milahu/the-preparation-by-doug-casey-2025)
     ([epub](https://annas-archive.gl/md5/b2984952c7f455b75badcece1b45bb87))
@@ -333,11 +338,11 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Udo Ulfkotte - Gekaufte Journalisten: Wie Politiker, Geheimdienste und Hochfinanz Deutschlands Massenmedien lenken (2014)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Gekaufte+Journalisten)
     - english: [Udo Ulfkotte - Presstitutes: Embedded in the Pay of the CIA: A Confession from the Profession (2019)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Presstitutes)
   - [Udo Ulfkotte - Unruhen in Europa: Der Vorsorgeplan für Staatsbankrott, Zwangsenteignung und Bürgerkrieg (2014)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Unruhen+in+Europa)
+  - [Udo Ulfkotte - Mit Gold durch die Krise: Alles was Sie wissen müssen (2014)](https://libgen.bz/file.php?md5=32f5859447a7b7fca799b359003c062e)
   - [Udo Ulfkotte - Politische Korrektheit: Von Gesinnungspolizisten und Meinungsdiktatoren (2013)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Politische+Korrektheit)
   - [Udo Ulfkotte - Raus aus dem Euro - rein in den Knast: Das üble Spiel von Politik und Medien gegen Kritiker der EU-Einheitswährung (2013)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Raus+aus+dem+Euro)
   - [Udo Ulfkotte - Was Oma und Opa noch wußten (2012)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Was+Oma+und+Opa+noch+wu%C3%9Ften)
   - todo: Udo Ulfkotte - Mein Feld, mein Wald, mein Teich: Handbuch für die traditionelle Krisenvorsorge (2012)
-  - todo: Udo Ulfkotte - Mit Gold durch die Krise: Alles, was Sie wissen müssen (2011)
   - [Udo Ulfkotte - Albtraum Zuwanderung: Lügen, Wortbruch, Volksverdummung (2011)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Albtraum+Zuwanderung)
   - todo: Udo Ulfkotte - Wirtschaftskrieg: Wie Geheimdienste deutsche Arbeitsplätze vernichten (2010)
   - [Udo Ulfkotte - Kein Schwarz. Kein Rot. Kein Gold. (2010)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Kein+Schwarz.+Kein+Rot.+Kein+Gold.)
@@ -360,12 +365,6 @@ german: bücher zum thema selbstorganisation (rote pillen)
     ([openlibrary.org](https://openlibrary.org/books/OL2122492M/Kontinuita%CC%88t_und_Wandel_amerikanischer_und_sowjetischer_Politik_in_Nah-_und_Mittelost_1967_bis_1980))
     (done: "anfrage digitalisierung" an bsb-muenchen.de)
   - [Udo Ulfkotte - Interessenspezifische Nahostpolitik der Großmächte im Nahen Osten 1948-1979 (1984)](https://annas-archive.gl/search?q=Udo+Ulfkotte+-+Interessenspezifische+Nahostpolitik)
-- [Kelly M. Greenhill - Weapons of Mass Migration: Forced Displacement, Coercion, and Foreign Policy (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Weapons+of+Mass+Migration)
-  - deutsch: [Kelly M. Greenhill - Massenmigration als Waffe: Vertreibung, Erpressung und Außenpolitik (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Massenmigration+als+Waffe)
-- Compact Magazin
-  - https://archive.org/details/compact-magazin-sammlung
-  - https://libgen.bz/index.php?req=Compact+Magazin
-  - https://annas-archive.gl/search?q=Compact+Magazin
 - [Mattias Desmet - Die Psychologie des Totalitarismus (2023)](https://annas-archive.gl/md5/bd63e21a89fe2e9c6128578f98e054f7)
   - [Gustave Le Bon - Psychologie der Massen (1895)](https://annas-archive.gl/md5/bb2170c5816491bae8a676e51f12cae5)
   - [Hannah Arendt - Elemente und Ursprünge totaler Herrschaft: Antisemitismus, Imperialismus, totale Herrschaft (1951)](https://annas-archive.gl/search?q=Hannah+Arendt+-+Elemente+und+Urspr%C3%BCnge+totaler+Herrschaft)
@@ -408,7 +407,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
     (todo: print version)
   - [Ivan Illich - Die Nemesis der Medizin: Von den Grenzen des Gesundheitswesens (1977)](https://github.com/milahu/ivan-illich-nemesis-der-medizin-1977)
   - todo: Ivan Illich - Vom Recht auf Gemeinheit
-  - todo: Thierry Paquot - Ivan Illich: Denker und Rebell
+  - [Thierry Paquot - Ivan Illich: Denker und Rebell (2017)](https://annas-archive.gl/search?q=Thierry+Paquot+-+Ivan+Illich)
+  - todo: Martina Kaller-Dietrich - Ivan Illich
 - [Wolf-Dieter Storl, Christian Rätsch, Claudia Müller-Ebeling - Hexenmedizin: Die Wiederentdeckung einer verbotenen Heilkunst - schamanische Tradition in Europa (2013)](https://annas-archive.gl/md5/fef32879f98bad3b92e616c73bb9d6bb)
   - [Christian Rätsch - Der heilige Hain: Germanische Zauberpflanzen, heilige Bäume und schamanische Rituale (2005)](https://annas-archive.gl/md5/44dded117e735887e6e8bd54b124d8a0) (fixme: blurry)
   - [Christian Rätsch - Enzyklopädie der psychoaktiven Pflanzen](https://annas-archive.gl/md5/279c32ec43406f5d84f77820037da69f) (fixme: epub)
@@ -529,6 +529,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - todo: Wendy Abraham - Chinesisch Sprechen und Schreiben für Dummies
   - todo: Rene Kratz - Biologie für Dummies
   - todo: Gerhard Püschel - Biochemie für Mediziner für Dummies
+  - [Stefanie Ortanderl, Ulf Ritgen - Chemie für Dummies: Das Lehrbuch (2018)](https://annas-archive.gl/md5/bb2a220725de4bf868ce54911dfc538b)
   - todo: Michael Brandl - Chemie für Dummies
   - todo: John T. Moore - Chemie kompakt für Dummies
   - todo: Eva Kalbheim - So leicht geht Progressive Muskelentspannung für Dummies
@@ -931,6 +932,23 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Martin Lichtmesz - Die Verteidigung Des Eigenen (2011)](https://annas-archive.gl/md5/ace3d0f448fcd131017393100f1263fe)
   - [Martin Lichtmesz - Rassismus: Ein amerikanischer Alptraum (2019)](https://annas-archive.gl/md5/99e45dd203c340107c12f26b5abafe3f)
   - [Martin Lichtmesz - Nationalmasochismus (2018)](https://annas-archive.gl/md5/668de14727ea0b6eaa2fbdca593be139)
+  - [Martin Lichtmesz, Michael Ley - Nationalmasochismus (2018)](https://annas-archive.gl/md5/668de14727ea0b6eaa2fbdca593be139)
+  - [Jean Raspail - Das Heerlager der Heiligen (1973)](https://annas-archive.gl/search?q=Jean+Raspail+-+Das+Heerlager+der+Heiligen)
+    - original: [Jean Raspail - Le Camp des Saints (1973)](https://annas-archive.gl/search?q=Jean+Raspail+-+Le+Camp+des+Saints)
+  - [Manfred Kleine-Hartlage - Neue Weltordnung. Zukunftsplan oder Verschwörungstheorie? (2011)](https://annas-archive.gl/search?q=Manfred+Kleine-Hartlage+-+Neue+Weltordnung)
+  - [Manfred Kleine-Hartlage - Die Sprache der BRD (2015)](https://annas-archive.gl/search?q=Manfred+Kleine-Hartlage+-+Die+Sprache+der+BRD)
+  - [Ellen Kositza - Gender ohne Ende oder was vom Manne übrigblieb (2008)](https://annas-archive.gl/search?q=Ellen+Kositza+-+Gender+ohne+Ende)
+  - [Stefan Scheil - Polen 1939 (2013)](https://annas-archive.gl/search?q=Stefan+Scheil+-+Polen+1939)
+  - [Stefan Scheil - Präventivkrieg Barbarossa (2011)](https://annas-archive.gl/search?q=Stefan+Scheil+-+Pr%C3%A4ventivkrieg+Barbarossa)
+  - [Armin Mohler - Die konservative Revolution (1949)](https://annas-archive.gl/search?q=Armin+Mohler+-+Die+konservative+Revolution)
+  - todo: Manfred Kleine-Hartlage - Die liberale Gesellschaft und ihr Ende. Über den Selbstmord eines Systems (2013)
+  - todo: Armin Mohler - Der faschistische Stil (2020)
+  - todo: Armin Mohler - Liberalenbeschimpfung
+  - todo: Armin Mohler - Sex und Politik
+  - todo: Caroline Sommerfeld, Martin Lichtmesz - Mit Linken leben (2017)
+  - todo: Ellen Kositza, Götz Kubitschek - Das Buch im Haus nebenan (2020)
+  - todo: Andreas Vonderach - Gab es Germanen? Eine Spurensuche (2017)
+  - todo: Alexander Schleyer - Defend Europe: Eine Aktion an der Grenze (2018)
 - todo übersetzen: [John M. Gottman - The Relationship Cure (2001)](https://annas-archive.gl/search?q=John+M.+Gottman+-+The+Relationship+Cure)
 - todo: John M. Gottman - 8 Gespräche, die jedes Paar führen sollte... damit die Liebe lebendig bleibt (2019)
   - todo: hörbuch
@@ -1022,6 +1040,25 @@ german: bücher zum thema selbstorganisation (rote pillen)
 - [Friedrich Rost - Lern- und Arbeitstechniken für das Studium](https://annas-archive.gl/search?q=Friedrich+Rost+-+Lern-+und+Arbeitstechniken+f%C3%BCr+das+Studium&sort=newest)
 - [Rödiger Voss - Wissenschaftliches Arbeiten: Leicht verständlich](https://annas-archive.gl/md5/eea1e8771a1279bfcbbd0dbfeb5c39ca)
 - [Christel Weiher - Sicherung zu Hause: Wie du deine Daten krisenfest machst – Ohne IT-Chinesisch und ohne Dauer-Abos (2026)](https://libgen.bz/file.php?md5=981aa77573a47897b78d1bdf8b02a032)
+- todo: Stefan Blankertz - Gegen den Strich gelesen
+- [Kelly M. Greenhill - Weapons of Mass Migration: Forced Displacement, Coercion, and Foreign Policy (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Weapons+of+Mass+Migration)
+  - deutsch: [Kelly M. Greenhill - Massenmigration als Waffe: Vertreibung, Erpressung und Außenpolitik (2010)](https://annas-archive.gl/search?q=Kelly+M.+Greenhill+-+Massenmigration+als+Waffe)
+- Compact Magazin
+  - https://archive.org/details/compact-magazin-sammlung
+  - https://libgen.bz/index.php?req=Compact+Magazin
+  - https://annas-archive.gl/search?q=Compact+Magazin
+- [E.R. Carmin - Das schwarze Reich: Geheimgesellschaften und Politik im 20. Jahrhundert (1997)](https://annas-archive.gl/search?q=Carmin+-+Das+schwarze+Reich)
+- [Gary Allen - Die Insider: Baumeister Der Neuen Welt Ordnung, Band 1 (1971)](https://annas-archive.gl/search?q=Gary+Allen+-+Die+Insider)
+  - original: [Gary Allen - None Dare Call It Conspiracy, Volume 1 (1971)](https://annas-archive.gl/search?q=Gary+Allen+-+None+Dare+Call+It+Conspiracy)
+  - original: [Gary Allen - None Dare Call It Conspiracy, Volume 2: Call It Conspiracy (1985)](https://annas-archive.gl/search?q=Gary+Allen+-+Call+It+Conspiracy)
+    - todo: Gary Allen - Die Insider: Baumeister Der Neuen Welt Ordnung, Band 2 (1985)
+- [Johannes Jürgenson - Das Gegenteil ist wahr, Band 1](https://annas-archive.gl/search?q=Johannes+J%C3%BCrgenson+-+Das+Gegenteil+ist+wahr)
+  - [Johannes Jürgenson - Das Gegenteil ist wahr, Band 2](https://annas-archive.gl/search?q=Johannes+J%C3%BCrgenson+-+Das+Gegenteil+ist+wahr)
+- todo: Ryke Geerd Hammer - Vermächntis einer neuen Medizin, Band 2: Psychosen, Syndrome, Krebs, Straftaten
+- todo: zensierte bücher
+  - https://vho.org/censor/Censor.html
+    - https://vho.org/censor/D.html
+
 
 <!-- </books> -->
 
@@ -1040,7 +1077,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
 ## todo
 
 - Manova Gegendruck 1-5 (die bücher hab ich schon, ich bin nur zu faul zum scannen...)
-- übersetzen: [Ben Davidson - The Sun, The Earth and The Disaster Cycle (2025)](https://libgen.bz/edition.php?id=208647364) - Polsprung und Sintflut alle 6000 Jahre
+- übersetzen: [Ben Davidson - The Sun, The Earth and The Disaster Cycle (2025)](https://libgen.bz/edition.php?id=208647364) - Polsprung und Sintflut alle 6000 Jahre. Nächster Polsprung etwa ab dem Jahr 2040
 - übersetzen: [John Stockwell - In Search of Enemies: A CIA Story (1978)](https://annas-archive.gl/search?q=John+Stockwell+-+In+Search+of+Enemies)
   - related: John Coleman, Gary Webb, Edward Snowden
 - übersetzen: [Endgame, Volume 2: Resistance. By Derrick Jensen](https://annas-archive.gl/md5/c5d433da58649d84397425bce662f0ee)
