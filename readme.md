@@ -305,11 +305,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Tilman Knechtel - Metanoia Magazin](https://github.com/milahu/metanoia-magazin-scraper) - aka: ExpressZeitung
 - [Wolfgang Eggert](https://www.goodreads.com/author/show/983329.Wolfgang_Eggert)
   - todo: Wolfgang Eggert - Das Komplott (2024) (Trump-Attentat)
-  - todo: Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)
-    - https://www.eurobuch.de/buch/isbn/9798617532472.html
-    - https://archive.org/details/WolfgangEggertDasIslamisierungskomplottWerSpieltGegenEuropakomplett
-    - https://www.youtube.com/playlist?list=PLds0lAsvC-fjtKvzx1v6c26TpJ3IpbEYO
-    - https://www.youtube.com/watch?v=aDNhyrTjZ7M
+  - [Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)](https://github.com/milahu/wolfgang-eggert-das-islamisierungskomplott-2020)
   - [Wolfgang Eggert - Flug MH370: Die Geheimdienstspur (2014)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Flug+MH370)
   - [Wolfgang Eggert - Die MH17-Falle: Ein Kriminalfall (2014)](https://annas-archive.gl/search?q=Wolfgang+Eggert+-+Die+MH17-Falle)
   - [Wolfgang Eggert - Erst Manhattan, dann Berlin: Messianisten-Netzwerke treiben zum Weltenende (2005)](https://annas-archive.gl/md5/99d660699817f003e212ab0ae693b1c0)
