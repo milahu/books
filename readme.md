@@ -283,6 +283,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - https://www.vho.org/D/Geheim2/
     - https://archive.org/details/HelsingJanVanGeheimgesellschaften2InterviewMitJanVanHelsing1995384S.Scan
       - todo: upload to libgen (with OCR)
+- todo übersetzen: [Eric S. Raymond - The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary (1999)](https://annas-archive.gl/search?q=Eric+S.+Raymond+-+Cathedral+Bazaar&ext=pdf&lang=en)
+- [Linus Torvalds - Just For Fun: Wie ein Freak die Computerwelt revolutionierte (2001)](https://annas-archive.gl/search?q=Linus+Torvalds+-+Just+for+Fun&ext=pdf&lang=de)
+  - original: [Linus Torvalds - Just for Fun: The Story of an Accidental Revolutionary (2001)](https://annas-archive.gl/search?q=Linus+Torvalds+-+Just+for+Fun&ext=pdf&lang=en)
 - [John Taylor Gatto - Verdummt noch mal! Dumbing Us Down: Der unsichtbare Lehrplan oder Was Kinder in der Schule wirklich lernen](https://annas-archive.gl/md5/8dd4b2c7e6198aabb600847fcbef3aac) ([cover](https://annas-archive.gl/md5/2c0a18ca93b935c3af59105196311214))
   - [Doug Casey - The Preparation (2025)](https://github.com/milahu/the-preparation-by-doug-casey-2025)
     ([epub](https://annas-archive.gl/md5/b2984952c7f455b75badcece1b45bb87))
