@@ -1324,6 +1324,12 @@ Die meiste Arbeit ist das Korrekturlesen, das darfst du dann selber machen. : P
 when my github repos are removed via DMCA takedown requests
 then i move my repos to [darknet-git-hosting-services](https://github.com/milahu/darknet-git-hosting-services)
 
+- https://github.com/milahu/books
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/books
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/books
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/books
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/books
+
 
 
 ## related
