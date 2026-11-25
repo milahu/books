@@ -320,7 +320,7 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - [Wolfgang Eggert - Angriff der Falken: Die verschwiegene Rolle von Mossad und CIA bei den Anschlägen vom 11. September (2002)](https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Wolfgang+Eggert+-+Angriff+der+Falken)
     ([archive.org](https://archive.org/search?query=Wolfgang+Eggert+-+Angriff+der+Falken&tab=texts))
     - todo: print layout
-  - todo: Wolfgang Eggert - Out of the blue: Spuren des Terrors in Amerika. Fundamentalisten - Messianisten - Geheimdienste: Hintergründe, Profiteure und mögliche Drahtzieher des Anschlags vom 11. September 2001 (2001)
+  - [Wolfgang Eggert - Out of the blue: Spuren des Terrors in Amerika. Fundamentalisten - Messianisten - Geheimdienste: Hintergründe, Profiteure und mögliche Drahtzieher des Anschlags vom 11. September 2001 (2001)](https://github.com/milahu/wolfgang-eggert-out-of-the-blue-2001)
   - [Wolfgang Eggert - Israels Geheimvatikan, Band 1 (2001)](https://annas-archive.gl/md5/8fd5a6c883efe07b8233e95d99abf31f)
     - [Wolfgang Eggert - Israels Geheimvatikan, Band 2 (2001)](https://annas-archive.gl/md5/2bb20e9d81d4f6796e15032a6dc0ffa4)
     - [Wolfgang Eggert - Israels Geheimvatikan, Band 3 (2001)](https://annas-archive.gl/md5/ae20cd2135f609762dfee0711c51ddfc)
