@@ -1206,6 +1206,12 @@ german: bücher zum thema selbstorganisation (rote pillen)
     - todo: remove background music
 - [Psilocybin outdoor grow](https://annas-archive.gl/search?q=Psilocybin+outdoor+grow)
   - [Tyler Barrett - Psilocybin Growing Bible: The Complete Psilocybin Mushroom Cultivation Guide. Step by Step to Grow Indoor and Outdoor (2020)](https://annas-archive.gl/md5/806a48f1291927e07cc3591c28d561b0)
+- Colin Willis
+  - [Colin Willis - Peyote: The Truth About Peyote: The Ultimate Beginner's Guide to the Peyote Cactus (2015)](https://annas-archive.gl/md5/1dc3c4ff2b41a37edeac7f1f5eabf438)
+  - [Colin Willis - Hallucinogens: The Truth About Hallucinogenic Plants: The Ultimate Beginner's Guide to LSD, Peyote, Psilocybin and PCP (2015)](https://annas-archive.gl/md5/f182df7cd33522f65965a51b4130d762)
+  - todo: Colin Willis - Magic Mushrooms: The Truth About Psilocybin: An Introductory Guide to Shrooms, Psychedelic Mushrooms (2015)
+  - todo: Colin Willis - Psychedelics: The Truth About Psychedelic Drugs: An Introductory Guide to Ayahuasca, LSD, DMT, Entheogens (2015)
+  - todo: Colin Willis - DMT: The Truth About Dimethyltryptamine: The Ultimate Beginner's Guide To A Revolutionary Compound (DMT, Psychedelics, Ayahuasca) (2015)
 - Brigitte Hamann - DMSO: Für gesunde Augen und bessere Sehkraft (naturmedizin) (via: anonymousnews)
   - Laurie Capogna - Ernährung für gesunde Augen: Vorbeugen und lindern: Grauer und grüner Star, Makula-Degeneration, Trockenes Auge
 - [DMSO bücher](https://annas-archive.gl/search?q=DMSO&lang=de) (naturmedizin)
