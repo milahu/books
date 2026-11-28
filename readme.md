@@ -1201,6 +1201,9 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - Aldous Huxley - Heaven and Hell
   - Aldous Huxley - Brave New World Revisited (1958)
   - Aldous Huxley - Island (1962)
+  - video: [Aldous Huxley - The Gravity Of Light (1996)](https://www.youtube.com/watch?v=OgRTdESJNY0)
+    - todo: HD
+    - todo: remove background music
 - Brigitte Hamann - DMSO: Für gesunde Augen und bessere Sehkraft (naturmedizin) (via: anonymousnews)
   - Laurie Capogna - Ernährung für gesunde Augen: Vorbeugen und lindern: Grauer und grüner Star, Makula-Degeneration, Trockenes Auge
 - [DMSO bücher](https://annas-archive.gl/search?q=DMSO&lang=de) (naturmedizin)
