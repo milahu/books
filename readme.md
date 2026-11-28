@@ -1204,6 +1204,8 @@ german: bücher zum thema selbstorganisation (rote pillen)
   - video: [Aldous Huxley - The Gravity Of Light (1996)](https://www.youtube.com/watch?v=OgRTdESJNY0)
     - todo: HD
     - todo: remove background music
+- [Psilocybin outdoor grow](https://annas-archive.gl/search?q=Psilocybin+outdoor+grow)
+  - [Tyler Barrett - Psilocybin Growing Bible: The Complete Psilocybin Mushroom Cultivation Guide. Step by Step to Grow Indoor and Outdoor (2020)](https://annas-archive.gl/md5/806a48f1291927e07cc3591c28d561b0)
 - Brigitte Hamann - DMSO: Für gesunde Augen und bessere Sehkraft (naturmedizin) (via: anonymousnews)
   - Laurie Capogna - Ernährung für gesunde Augen: Vorbeugen und lindern: Grauer und grüner Star, Makula-Degeneration, Trockenes Auge
 - [DMSO bücher](https://annas-archive.gl/search?q=DMSO&lang=de) (naturmedizin)
